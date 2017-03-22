@@ -23,6 +23,7 @@ urlpatterns = [
     url(r'^data/', include('data.urls')),
     url(r'^account/', include('account.urls')),
     url(r'^admin/', admin.site.urls),
+    url(r'^visualize/$', TemplateView.as_view(template_name='earthquake_csv.html'), name='arcgis'),
 ]
 
 if settings.DEBUG:

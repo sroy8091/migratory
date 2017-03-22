@@ -1,0 +1,259 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-03-20T08:17:26.270Z,-27.044,-66.3764,168.57,4.6,mb,,29,3.443,1.37,us,us20008t9z,2017-03-20T08:35:48.040Z,"49km ENE of Hualfin, Argentina",earthquake,7.7,7.6,0.042,166,reviewed,us,us
+2017-03-20T07:20:47.140Z,38.6073341,-121.878334,10.7,2.69,md,36,123,0.1602,0.15,nc,nc72778491,2017-03-20T08:11:01.472Z,"9km SE of Cottonwood, California",earthquake,0.29,0.26,0.23,29,automatic,nc,nc
+2017-03-20T06:33:38.750Z,-5.3039,143.5796,109.2,5.2,mb,,22,4.976,1.07,us,us20008t9d,2017-03-20T06:53:43.040Z,"23km NW of Wabag, Papua New Guinea",earthquake,8.4,6.5,0.049,138,reviewed,us,us
+2017-03-20T06:30:35.900Z,18.8789,-67.3476,28,2.8,Md,5,327.6,0.46622563,0.23,pr,pr17079002,2017-03-20T07:13:56.341Z,"50km NNW of San Antonio, Puerto Rico",earthquake,1.9,9.2,0,5,reviewed,pr,pr
+2017-03-20T04:24:39.070Z,-8.3071,160.8849,64.42,5.1,mb,,63,1.456,0.72,us,us20008t93,2017-03-20T04:44:04.040Z,"54km NNE of Auki, Solomon Islands",earthquake,8.8,6.5,0.036,249,reviewed,us,us
+2017-03-20T03:41:34.270Z,16.6292,-98.5268,15.61,4.1,mb,,203,0.929,1,us,us20008t8l,2017-03-20T04:15:25.040Z,"13km WSW of Ometepec, Mexico",earthquake,10.9,10.7,0.065,64,reviewed,us,us
+2017-03-20T03:34:47.450Z,-18.0902,-178.0059,604.72,4.6,mb,,93,3.768,0.75,us,us20008t8k,2017-03-20T04:04:05.040Z,"292km NNE of Ndoi Island, Fiji",earthquake,7.5,7.1,0.053,106,reviewed,us,us
+2017-03-20T03:01:06.760Z,-23.9199,-67.0009,234.32,4.3,ml,,218,2.186,0.59,us,us20008t8d,2017-03-20T03:20:30.040Z,"76km WNW of San Antonio de los Cobres, Argentina",earthquake,10.6,22.6,,,reviewed,us,guc
+2017-03-20T00:39:21.950Z,-28.7705,-71.1273,61.75,4.3,mwr,,125,0.444,1.44,us,us20008t7q,2017-03-20T03:13:24.040Z,"42km WSW of Vallenar, Chile",earthquake,4.3,6.6,0.098,10,reviewed,us,us
+2017-03-20T00:38:56.100Z,18.0095,-68.5175,72,3.3,Md,8,280.8,0.51653129,0.31,pr,pr17079001,2017-03-20T03:57:15.239Z,"41km SSE of Boca de Yuma, Dominican Republic",earthquake,4.2,3.5,0,4,reviewed,pr,pr
+2017-03-19T20:55:00.800Z,18.0949,-68.212,92,3.4,Md,13,241.2,0.4464627,0.23,pr,pr17078006,2017-03-20T00:21:24.543Z,"52km SE of Boca de Yuma, Dominican Republic",earthquake,2.4,1.1,0,6,reviewed,pr,pr
+2017-03-19T20:34:58.820Z,-60.1111,150.6708,10,4.9,mb,,129,7.192,0.61,us,us20008t76,2017-03-19T20:50:01.040Z,"West of Macquarie Island",earthquake,11.2,2,0.14,16,reviewed,us,us
+2017-03-19T18:57:24.180Z,-4.9607,152.8961,45.23,4.7,mb,,197,1.057,1.03,us,us20008t71,2017-03-19T19:16:40.040Z,"56km SSW of Taron, Papua New Guinea",earthquake,11.6,8.1,0.083,44,reviewed,us,us
+2017-03-19T15:43:25.020Z,-8.1474,160.7369,4.23,6,mww,,32,1.501,0.92,us,us20008t6m,2017-03-19T17:46:47.915Z,"68km N of Auki, Solomon Islands",earthquake,7.3,3.3,,,reviewed,us,us
+2017-03-19T14:55:33.640Z,38.4085,55.7361,23.46,4.2,mb,,108,1.936,0.45,us,us20008t6j,2017-03-19T15:50:03.040Z,"78km SW of Gyzylarbat, Turkmenistan",earthquake,5.1,7.4,0.146,13,reviewed,us,us
+2017-03-19T14:25:12.540Z,36.8781667,-89.1228333,11.37,3.13,md,45,77,0.1936,0.21,nm,nm60181601,2017-03-20T03:15:20.403Z,"10km W of Bardwell, Kentucky",earthquake,0.37,1.42,0.268,50,reviewed,nm,nm
+2017-03-19T14:17:33.570Z,19.373333,-155.2831726,32.85,2.67,ml,63,49,0.0132,0.2,hv,hv61651531,2017-03-20T00:37:30.611Z,"7km SW of Volcano, Hawaii",earthquake,0.41,0.47,0.46,37,automatic,hv,hv
+2017-03-19T13:45:16.700Z,37.2114,77.9016,44.47,4.4,mb,,76,4.939,0.98,us,us20008t68,2017-03-19T14:50:04.040Z,"101km SE of Yilkiqi, China",earthquake,8.4,6.4,0.094,33,reviewed,us,us
+2017-03-19T13:04:39.620Z,36.0933342,-120.213501,6.99,2.63,md,38,159,0.1281,0.1,nc,nc72778121,2017-03-19T13:59:02.119Z,"12km NW of Avenal, California",earthquake,0.32,0.72,0.17,34,automatic,nc,nc
+2017-03-19T12:49:35.510Z,40.2208328,-121.4358368,1.39,2.63,md,19,106,0.2836,0.08,nc,nc72778116,2017-03-20T06:03:30.676Z,"22km SW of Chester, California",earthquake,0.3,1.71,0.16,16,automatic,nc,nc
+2017-03-19T11:38:12.340Z,-33.1835,-178.9844,13.79,5.1,mb,,79,4.028,1.51,us,us20008t5r,2017-03-19T11:56:19.040Z,"194km S of L'Esperance Rock, New Zealand",earthquake,10.7,5.3,0.119,23,reviewed,us,us
+2017-03-19T11:16:34.030Z,36.5077,-97.1832,7.25,2.6,ml,,58,0.133,0.18,us,us20008t5n,2017-03-19T11:57:27.040Z,"22km SSE of Tonkawa, Oklahoma",earthquake,1.5,6,0.051,50,reviewed,us,us
+2017-03-19T10:57:56.000Z,17.8785,-65.626,16,2.6,Md,4,241.2,0.22727377,0.18,pr,pr17078003,2017-03-19T11:56:16.401Z,"29km SE of El Negro, Puerto Rico",earthquake,1.1,1.3,0,3,reviewed,pr,pr
+2017-03-19T10:35:24.760Z,-8.1596,38.1074,12.91,4.9,mb,,76,5.762,1.01,us,us20008t5l,2017-03-19T10:49:59.040Z,"74km WSW of Utete, Tanzania",earthquake,11,5.7,0.112,25,reviewed,us,us
+2017-03-19T08:57:07.000Z,9.9577,93.5535,36.25,4.6,mb,,116,1.865,0.71,us,us20008t5c,2017-03-19T09:26:17.040Z,"208km SSE of Port Blair, India",earthquake,5.6,8.2,0.079,48,reviewed,us,us
+2017-03-19T06:14:55.180Z,49.8638,159.3229,10,4.5,mb,,137,3.192,0.52,us,us20008t52,2017-03-19T06:40:32.040Z,"245km ESE of Severo-Kuril'sk, Russia",earthquake,4,1.9,0.104,27,reviewed,us,us
+2017-03-19T04:21:01.200Z,18.1215,-68.0595,68,2.8,Md,4,338.4,0.9108917,0.18,pr,pr17078002,2017-03-20T00:00:21.040Z,"64km SE of Punta Cana, Dominican Republic",earthquake,3.2,4.4,0,4,reviewed,pr,pr
+2017-03-19T04:09:56.566Z,68.7456,-145.176,9.1,2.9,ml,,,,0.59,ak,ak15540222,2017-03-19T23:14:53.040Z,"70km NNE of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2017-03-19T03:52:06.120Z,-28.917,-72.5898,16.24,4,mwr,,116,1.51,1.02,us,us20008t47,2017-03-19T23:02:30.040Z,"166km NW of Coquimbo, Chile",earthquake,4.3,4.8,0.044,50,reviewed,us,us
+2017-03-19T03:18:03.780Z,-24.0525,-179.7631,496.75,4.6,mb,,99,5.425,1.02,us,us20008t41,2017-03-19T22:19:17.040Z,"South of the Fiji Islands",earthquake,11.1,4.4,0.07,62,reviewed,us,us
+2017-03-19T01:55:36.530Z,-21.3395,-67.9776,187.54,4.1,mb,,59,1.261,0.81,us,us20008t40,2017-03-19T22:05:38.040Z,"154km SW of Uyuni, Bolivia",earthquake,8.7,11.8,0.261,4,reviewed,us,us
+2017-03-19T01:08:15.670Z,-42.2982,173.8282,19.26,4.3,mb,,80,0.153,0.64,us,us20008t3y,2017-03-19T22:08:42.040Z,"17km NE of Kaikoura, New Zealand",earthquake,1.8,6.2,0.266,4,reviewed,us,us
+2017-03-19T00:18:47.800Z,19.2047,-64.7987,37,3.4,Md,6,327.6,1.00251986,0.18,pr,pr17078000,2017-03-19T04:02:27.758Z,"89km NNW of Road Town, British Virgin Islands",earthquake,3,12.8,0,5,reviewed,pr,pr
+2017-03-18T23:46:22.730Z,-3.7939,151.363,10,4.5,mb,,90,0.89,0.47,us,us20008t3x,2017-03-19T00:41:16.040Z,"100km WNW of Rabaul, Papua New Guinea",earthquake,7.9,1.5,0.109,25,reviewed,us,us
+2017-03-18T23:12:58.700Z,18.1562,-67.7894,137,3.5,Md,13,198,0.37190253,0.34,pr,pr17077005,2017-03-19T03:28:33.001Z,"60km WSW of Rincon, Puerto Rico",earthquake,3.5,1.5,0,10,reviewed,pr,pr
+2017-03-18T22:37:14.447Z,58.1523,-138.0375,0.8,2.5,ml,,,,0.67,ak,ak15536610,2017-03-18T22:52:11.341Z,"138km W of Gustavus, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-03-18T22:26:45.910Z,-20.3249,-68.6422,115.15,4.8,mb,,31,0.513,1.12,us,us20008t33,2017-03-18T23:02:59.040Z,"157km E of Iquique, Chile",earthquake,6.4,5.1,0.053,110,reviewed,us,us
+2017-03-18T22:00:41.700Z,19.2549,-64.851,29,3.4,Md,6,327.6,1.02677437,0.25,pr,pr17077004,2017-03-18T23:52:59.772Z,"96km NNW of Road Town, British Virgin Islands",earthquake,2.6,21.1,0,5,reviewed,pr,pr
+2017-03-18T21:20:32.110Z,-2.9236,142.0383,10,4.7,mb,,72,8.207,0.83,us,us20008t2l,2017-03-18T21:38:17.040Z,"41km NW of Aitape, Papua New Guinea",earthquake,4.2,1.9,0.104,28,reviewed,us,us
+2017-03-18T21:17:44.430Z,34.0426674,-117.2406693,18.26,3.5,mlr,96,30,0.0717,0.17,ci,ci37607311,2017-03-19T21:19:35.028Z,"2km ESE of Loma Linda, CA",earthquake,0.23,0.43,0.239,16,reviewed,ci,ci
+2017-03-18T21:03:03.300Z,16.6973,120.6301,103.66,4.5,mb,,107,8.274,0.85,us,us20008t2h,2017-03-18T21:22:07.040Z,"2km W of Kibungan, Philippines",earthquake,11.8,7.7,0.067,65,reviewed,us,us
+2017-03-18T20:40:24.760Z,40.8118324,-122.0139999,15.53,2.77,md,20,42,0.027,0.05,nc,nc72777866,2017-03-19T05:48:31.308Z,"26km NE of Bella Vista, California",earthquake,0.27,0.62,0.21,25,automatic,nc,nc
+2017-03-18T20:20:50.150Z,-11.5931,-77.2162,69.18,4.2,mb,,202,0.536,0.84,us,us20008t2p,2017-03-18T23:31:47.265Z,"6km ESE of Chancay, Peru",earthquake,12.5,13.5,0.374,2,reviewed,us,us
+2017-03-18T19:56:08.840Z,-7.0121,125.0194,563.03,4.4,mb,,40,2.825,0.64,us,us20008t1z,2017-03-18T23:27:53.040Z,"181km NNW of Dili, East Timor",earthquake,10.9,8.7,0.071,58,reviewed,us,us
+2017-03-18T18:15:27.680Z,34.4731,32.2217,26.16,4.5,mb,,53,1.035,1.27,us,us20008t1l,2017-03-19T21:25:39.809Z,"37km SSW of Paphos, Cyprus",earthquake,5.4,5.6,0.054,102,reviewed,us,us
+2017-03-18T17:46:31.600Z,18.2371,-67.0335,27,2.5,Md,12,82.8,0.07905175,0.23,pr,pr17077003,2017-03-18T18:02:52.684Z,"4km WSW of Las Marias, Puerto Rico",earthquake,0.5,1.2,0,10,reviewed,pr,pr
+2017-03-18T16:56:40.500Z,-8.1594,107.863,88.01,4.7,mb,,130,2.645,1.08,us,us20008t0q,2017-03-19T11:46:09.380Z,"48km SSW of Ciheras, Indonesia",earthquake,7.9,7.1,0.08,47,reviewed,us,us
+2017-03-18T16:42:03.630Z,28.9448,127.9936,216.16,4.2,mb,,90,2.115,0.95,us,us20008t0n,2017-03-18T17:15:50.040Z,"159km WNW of Naze, Japan",earthquake,8.3,8.8,0.074,51,reviewed,us,us
+2017-03-18T16:19:10.313Z,61.5668,-148.0863,15,3.3,ml,,,,0.7,ak,ak15533830,2017-03-19T13:27:03.486Z,"46km E of Lazy Mountain, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2017-03-18T15:58:22.760Z,12.944,95.9131,27.85,4.4,mb,,117,5.639,0.7,us,us20008t0j,2017-03-18T16:44:41.040Z,"277km WSW of Dawei, Burma",earthquake,10.4,6.6,0.162,11,reviewed,us,us
+2017-03-18T15:54:24.420Z,-22.9645,-68.45,121.09,4.2,mb,,52,0.551,0.66,us,us20008t0d,2017-03-18T16:18:13.040Z,"24km WSW of San Pedro de Atacama, Chile",earthquake,7,7.2,0.216,6,reviewed,us,us
+2017-03-18T15:06:03.480Z,-2.7181,139.157,57.65,4.7,mb,,102,6.902,0.81,us,us20008t0c,2017-03-18T16:10:44.040Z,"158km W of Abepura, Indonesia",earthquake,10.2,7.4,0.084,43,reviewed,us,us
+2017-03-18T13:14:25.232Z,59.6114,-152.2004,66.7,3.2,ml,,,,0.82,ak,ak15531241,2017-03-18T13:30:14.354Z,"27km SW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2017-03-18T13:12:03.001Z,61.748,-150.9278,48.5,2.8,ml,,,,0.63,ak,ak15531231,2017-03-18T13:25:52.448Z,"47km W of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2017-03-18T10:52:52.260Z,61.3091,-147.3333,10.7,2.5,ml,,,,0.79,ak,ak15529531,2017-03-18T11:02:22.321Z,"56km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2017-03-18T10:51:10.590Z,3.3068,98.4559,10,4.8,mb,,61,0.767,1.01,us,us20008szl,2017-03-18T14:56:16.437Z,"23km N of Kabanjahe, Indonesia",earthquake,5,0.8,0.077,52,reviewed,us,us
+2017-03-18T10:47:16.690Z,-5.2702,151.8686,58.08,4.6,mb,,64,1.111,0.3,us,us20008szj,2017-03-18T12:05:19.040Z,"110km SSW of Kokopo, Papua New Guinea",earthquake,6.2,8.3,0.098,31,reviewed,us,us
+2017-03-18T10:37:45.830Z,17.1774,-95.2029,99.09,5,mb,,80,3.069,0.9,us,us20008sze,2017-03-18T23:01:07.040Z,"14km WNW of Palomares, Mexico",earthquake,3.3,6.9,0.047,144,reviewed,us,us
+2017-03-18T10:31:24.500Z,-23.2287,-112.4105,10,4.7,mb,,124,4.752,0.58,us,us20008szb,2017-03-18T11:30:09.040Z,"Easter Island region",earthquake,6.7,1.9,0.049,125,reviewed,us,us
+2017-03-18T09:15:59.574Z,60.4145,-150.9793,35,2.6,ml,,,,0.8,ak,ak15529513,2017-03-18T09:23:44.547Z,"9km SSE of Soldotna, Alaska",earthquake,,6.2,,,automatic,ak,ak
+2017-03-18T09:01:26.681Z,56.682,-158.0215,87.3,4,ml,,,,0.55,ak,ak15529491,2017-03-18T09:20:54.040Z,"65km NE of Chignik Lake, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2017-03-18T08:26:07.310Z,33.1546667,-115.6266667,3.74,2.48,ml,34,76,0.02455,0.24,ci,ci37606799,2017-03-18T08:30:11.707Z,"11km WNW of Calipatria, CA",earthquake,0.33,0.47,0.18,27,automatic,ci,ci
+2017-03-18T08:24:19.200Z,18.5359,-67.507,16,2.6,Md,8,288,0.15361191,0.07,pr,pr17077002,2017-03-18T14:12:03.376Z,"34km NW of Rincon, Puerto Rico",earthquake,0.8,0.3,0,5,reviewed,pr,pr
+2017-03-18T07:04:47.710Z,38.0751,70.5324,10,4.5,mb,,111,0.939,0.91,us,us20008syr,2017-03-18T07:30:14.040Z,"44km E of Muminobod, Tajikistan",earthquake,4,1.9,0.14,15,reviewed,us,us
+2017-03-18T07:03:45.800Z,18.0013,-65.4223,13,2.5,Md,4,266.4,0.15540854,0.1,pr,pr17077000,2017-03-18T08:47:08.210Z,"11km SSE of Esperanza, Puerto Rico",earthquake,1.1,0.5,0,4,reviewed,pr,pr
+2017-03-18T06:45:06.990Z,26.2563,67.86,32.44,4.4,mb,,95,8.32,1.19,us,us20008syn,2017-03-18T07:06:05.040Z,"19km S of Sehwan, Pakistan",earthquake,11.9,6.5,0.105,26,reviewed,us,us
+2017-03-18T04:59:11.314Z,61.0375,-152.3828,109.8,2.5,ml,,,,0.53,ak,ak15526987,2017-03-18T05:03:35.270Z,"64km NNE of Redoubt Volcano, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2017-03-18T04:30:59.370Z,79.6519,3.4463,10,4.6,mb,,92,1.751,0.67,us,us20008sxw,2017-03-18T04:54:17.040Z,"Greenland Sea",earthquake,9.3,1.9,0.059,86,reviewed,us,us
+2017-03-18T04:09:21.950Z,19.8803329,-155.9061737,16.29,3.41,ml,65,137,,0.39,hv,hv61649421,2017-03-19T00:44:18.581Z,"10km SW of Waikoloa Village, Hawaii",earthquake,0.91,5.1,0.44,27,automatic,hv,hv
+2017-03-18T02:17:31.620Z,-7.9914,160.9296,34.88,5.1,mb,,101,1.735,0.86,us,us20008sxc,2017-03-18T02:36:36.040Z,"89km NNE of Auki, Solomon Islands",earthquake,8.3,4.9,0.047,145,reviewed,us,us
+2017-03-18T01:46:13.360Z,41.281,-123.192,45.68,2.48,md,12,160,0.1968,0.13,nc,nc72777316,2017-03-18T06:41:01.733Z,"52km NE of Willow Creek, California",earthquake,1.12,0.59,0.113,22,reviewed,nc,nc
+2017-03-18T01:33:28.930Z,38.6002,143.881,17.37,4.9,mb,,114,2.541,0.55,us,us20008sx9,2017-03-19T00:11:33.040Z,"188km ESE of Kamaishi, Japan",earthquake,6.9,4.4,0.051,121,reviewed,us,us
+2017-03-18T01:15:35.040Z,-10.7897,115.1203,10,4.5,mb,,118,2.494,1.07,us,us20008sx7,2017-03-18T01:40:30.040Z,"216km S of Kangin, Indonesia",earthquake,7.7,1.9,0.104,27,reviewed,us,us
+2017-03-18T01:09:01.470Z,37.5746667,-110.4215,-2.46,2.9,ml,23,132,0.9299,0.49,uu,uu60189547,2017-03-18T02:00:03.040Z,"83km W of Blanding, Utah",earthquake,1.7,8.16,0.239,10,reviewed,uu,uu
+2017-03-18T00:57:55.340Z,-8.0408,160.831,50.66,4.9,mb,,64,1.64,0.6,us,us20008sx1,2017-03-18T01:15:37.040Z,"81km N of Auki, Solomon Islands",earthquake,11.5,8.4,0.067,70,reviewed,us,us
+2017-03-18T00:56:45.345Z,63.6154,-150.8065,5.4,2.7,ml,,,,0.93,ak,ak15524495,2017-03-18T04:21:31.040Z,"94km WSW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2017-03-18T00:31:34.550Z,27.3027,65.5345,23.41,4.6,mb,,104,7.818,1.1,us,us20008swt,2017-03-18T00:54:31.040Z,"98km NNE of Awaran, Pakistan",earthquake,9.2,5.4,0.071,59,reviewed,us,us
+2017-03-18T00:31:01.370Z,-59.6041,-28.0815,210.91,5.2,mb,,62,7.038,0.55,us,us20008swu,2017-03-18T00:49:18.040Z,"109km SW of Bristol Island, South Sandwich Islands",earthquake,11.1,7.1,0.049,137,reviewed,us,us
+2017-03-17T23:26:00.170Z,-18.1301,-178.3428,594.86,4.9,mb,,46,3.452,0.72,us,us20008swl,2017-03-17T23:46:16.040Z,"281km N of Ndoi Island, Fiji",earthquake,11,7.4,0.031,323,reviewed,us,us
+2017-03-17T22:28:02.110Z,2.9466,128.101,156.13,4.7,mb,,60,2.281,0.64,us,us20008sw7,2017-03-17T22:46:45.040Z,"135km N of Tobelo, Indonesia",earthquake,8.4,6.7,0.063,76,reviewed,us,us
+2017-03-17T21:54:25.470Z,33.1608333,-115.6328333,4.84,3.09,ml,80,41,0.02198,0.24,ci,ci37606335,2017-03-19T19:53:52.946Z,"12km WNW of Calipatria, CA",earthquake,0.16,0.34,0.201,42,reviewed,ci,ci
+2017-03-17T21:43:24.700Z,18.9489,-64.2957,40,2.9,Md,3,345.6,1.13187726,0.15,pr,pr17076007,2017-03-18T02:02:48.040Z,"73km NNE of Road Town, British Virgin Islands",earthquake,4.4,11.5,0,2,reviewed,pr,pr
+2017-03-17T21:35:19.988Z,41.846,-119.6349,12,3.4,ml,7,74.92,0.161,0.1902,nn,nn00582340,2017-03-18T03:15:04.502Z,"70km ESE of Lakeview, Oregon",earthquake,,3.3,0.49,5,reviewed,nn,nn
+2017-03-17T21:10:42.020Z,38.8611,-115.2387,1.2,2.8,ml,6,146.96,0.365,0.1186,nn,nn00582335,2017-03-17T23:26:51.040Z,"24km ENE of Currant, Nevada",earthquake,,3.8,0.39,3,reviewed,nn,nn
+2017-03-17T21:09:23.600Z,18.7542,-64.2926,30,2.8,Md,3,345.6,1.03755415,0.25,pr,pr17076006,2017-03-18T01:59:46.040Z,"33km ENE of Road Town, British Virgin Islands",earthquake,6.9,19,0,2,reviewed,pr,pr
+2017-03-17T20:53:49.540Z,1.565,126.5697,46.94,4.3,mb,,72,1.12,0.9,us,us20008svh,2017-03-18T20:47:32.040Z,"123km NW of Kota Ternate, Indonesia",earthquake,4.4,9.3,0.096,34,reviewed,us,us
+2017-03-17T20:09:08.250Z,36.7115,-98.231,8.42,2.6,mb_lg,,61,0.093,0.27,us,us20008suv,2017-03-18T16:44:30.040Z,"12km ESE of Cherokee, Oklahoma",earthquake,1.3,5.2,0.106,23,reviewed,us,us
+2017-03-17T20:00:00.410Z,31.2446667,-115.6915,12.02,4.11,ml,8,203,0.1663,0.1,ci,ci37606063,2017-03-17T20:48:28.596Z,"98km ESE of Maneadero, B.C., MX",earthquake,0.61,0.47,0.168,234,reviewed,ci,ci
+2017-03-17T18:35:11.260Z,10.8818,-68.9334,24.82,4.8,mb,,36,1.29,1.02,us,us20008stt,2017-03-18T15:12:16.889Z,"22km SSW of Jacura, Venezuela",earthquake,4.6,2.2,0.038,219,reviewed,us,us
+2017-03-17T18:23:24.370Z,-8.5411,121.1445,195.88,4.5,mb,,57,1.085,1.27,us,us20008stp,2017-03-18T14:54:47.040Z,"2km NNW of Malabai, Indonesia",earthquake,6.8,6,0.099,34,reviewed,us,us
+2017-03-17T18:05:55.810Z,-8.0401,160.9614,52.98,5,mb,,63,1.713,0.55,us,us20008stk,2017-03-18T14:20:49.040Z,"85km NNE of Auki, Solomon Islands",earthquake,9,7.6,0.06,91,reviewed,us,us
+2017-03-17T17:58:13.780Z,36.5462,70.7913,176.87,4.2,mb,,72,0.603,1.36,us,us20008ste,2017-03-18T13:48:59.040Z,"35km S of Jarm, Afghanistan",earthquake,5.3,6.5,0.118,20,reviewed,us,us
+2017-03-17T15:44:39.600Z,-7.3874,128.6195,149.33,4.6,mb,,58,2.72,1.17,us,us20008sq3,2017-03-17T16:01:46.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.4,6.9,0.107,26,reviewed,us,us
+2017-03-17T15:10:09.600Z,-16.3397,-174.0588,147.37,4.7,mb,,77,4.786,0.81,us,us20008spx,2017-03-17T15:29:44.040Z,"54km SW of Hihifo, Tonga",earthquake,13.2,8.8,0.063,75,reviewed,us,us
+2017-03-17T15:02:02.860Z,68.0017,-166.9197,40.6,3.7,ml,,,,1.43,ak,ak15518766,2017-03-17T15:25:50.860Z,"39km SSW of Point Hope, Alaska",earthquake,,19.8,,,reviewed,ak,ak
+2017-03-17T14:57:37.853Z,59.6296,-142.8127,8.8,2.9,ml,,,,0.96,ak,ak15518761,2017-03-17T15:10:04.237Z,"53km SSW of Cape Yakataga, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2017-03-17T14:52:55.900Z,-6.4808,129.7401,190.31,5.1,mb,,37,2.148,1.24,us,us20008spm,2017-03-17T15:07:03.040Z,"238km NW of Saumlaki, Indonesia",earthquake,8.4,5.8,0.165,12,reviewed,us,us
+2017-03-17T14:45:53.867Z,60.6015,-143.0157,10.9,3.2,ml,,,,1.08,ak,ak15518744,2017-03-17T18:03:56.349Z,"67km NNW of Cape Yakataga, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2017-03-17T14:12:04.570Z,36.0993333,-120.2106667,8.48,2.64,md,67,157,0.09033,0.07,nc,nc72777126,2017-03-18T05:07:02.207Z,"12km NW of Avenal, California",earthquake,0.26,0.45,0.163,70,reviewed,nc,nc
+2017-03-17T14:01:42.970Z,11.1633,92.8458,49.65,4.9,mb,,61,0.499,1.42,us,us20008spa,2017-03-17T14:57:16.040Z,"56km S of Port Blair, India",earthquake,8.5,6.7,0.117,23,reviewed,us,us
+2017-03-17T13:31:22.300Z,60.4695,-143.0726,8.3,2.9,ml,,,,0.75,ak,ak15517944,2017-03-17T13:41:35.194Z,"57km NW of Cape Yakataga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2017-03-17T13:00:26.260Z,35.9528,140.4554,56.63,4.5,mb,,154,1.913,0.69,us,us20008sp2,2017-03-18T06:39:39.712Z,"7km NNW of Katori-shi, Japan",earthquake,6.5,6.5,0.097,31,reviewed,us,us
+2017-03-17T12:35:23.510Z,36.3821667,-120.956,6.27,2.52,md,70,93,0.06628,0.06,nc,nc72777111,2017-03-18T04:52:03.194Z,"24km NE of King City, California",earthquake,0.15,0.41,0.182,81,reviewed,nc,nc
+2017-03-17T11:36:21.090Z,38.6193,73.063,130.29,4.5,mb,,58,1.552,1.17,us,us20008snk,2017-03-17T13:50:31.040Z,"60km SW of Karakul, Tajikistan",earthquake,7.1,6.1,0.192,8,reviewed,us,us
+2017-03-17T11:30:59.200Z,18.6112,-64.7591,23,2.9,Md,4,320.4,0.31620698,0.05,pr,pr17076005,2017-03-17T15:53:33.365Z,"26km NW of Road Town, British Virgin Islands",earthquake,2,4.2,0,4,reviewed,pr,pr
+2017-03-17T10:58:32.800Z,18.9936,-65.0282,29,3.1,Md,5,302.4,0.64229543,0.09,pr,pr17076004,2017-03-17T12:11:49.794Z,"72km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.7,8.5,0,5,reviewed,pr,pr
+2017-03-17T10:32:12.790Z,10.4449,-86.0806,39.05,4.6,mwr,,101,0.546,1.2,us,us20008snc,2017-03-18T03:36:07.290Z,"48km W of Sardinal, Costa Rica",earthquake,5.5,6.8,0.049,40,reviewed,us,us
+2017-03-17T10:27:21.223Z,63.6308,-150.836,1.1,2.8,ml,,,,1.09,ak,ak15515580,2017-03-17T10:37:59.732Z,"95km WSW of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2017-03-17T10:18:39.190Z,-23.6077,-176.7702,108.65,5.5,mb,,47,5.709,1.21,us,us20008sn9,2017-03-17T12:21:32.257Z,"South of the Fiji Islands",earthquake,8.7,4.9,0.029,402,reviewed,us,us
+2017-03-17T09:27:40.700Z,44.1413333,-125.8225,5,3.34,md,12,274,0.4747,2.06,uw,uw61258631,2017-03-17T18:10:33.483Z,"139km W of Florence, Oregon",earthquake,20.15,99,0.679,2,reviewed,uw,uw
+2017-03-17T08:02:57.020Z,-32.4478,-71.7473,30.65,4.8,mwr,,68,0.396,0.75,us,us20008smr,2017-03-18T03:58:06.419Z,"48km W of La Ligua, Chile",earthquake,4.8,4.1,0.036,74,reviewed,us,us
+2017-03-17T07:47:31.792Z,61.8951,-149.2233,3.9,3.8,ml,,,,0.82,ak,ak15514000,2017-03-18T08:17:11.964Z,"16km N of Fishhook, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2017-03-17T06:59:48.500Z,1.0171,126.1801,59.51,5.1,mb,,68,1.211,0.93,us,us20008smm,2017-03-17T07:18:15.040Z,"120km ESE of Bitung, Indonesia",earthquake,3.7,8.8,0.086,44,reviewed,us,us
+2017-03-17T06:57:11.830Z,30.4567,130.6269,63.06,4.9,mwr,,104,1.059,0.88,us,us20008smk,2017-03-17T07:26:58.040Z,"47km SW of Nishinoomote, Japan",earthquake,5.8,6.6,0.093,11,reviewed,us,us
+2017-03-17T06:18:50.770Z,19.3794994,-155.2814941,2.86,2.67,ml,54,46,0.006999,0.25,hv,hv61648046,2017-03-19T14:26:35.154Z,"7km SW of Volcano, Hawaii",earthquake,0.2,0.26,0.32,27,automatic,hv,hv
+2017-03-17T06:18:25.680Z,19.3776665,-155.2841644,1.94,2.68,ml,14,95,0.009117,0.1,hv,hv61648041,2017-03-17T06:24:32.660Z,"7km SW of Volcano, Hawaii",earthquake,0.23,0.28,0.32,26,automatic,hv,hv
+2017-03-17T06:10:55.640Z,-22.2825,-67.5518,159.73,4.8,mb,,39,1.299,0.92,us,us20008smc,2017-03-17T06:30:05.040Z,"98km NE of San Pedro de Atacama, Chile",earthquake,8,0.8,0.084,43,reviewed,us,us
+2017-03-17T05:39:49.670Z,-17.85,-178.6796,556.6,4.7,mb,,85,3.114,1.02,us,us20008sm8,2017-03-17T06:04:37.040Z,"260km SE of Lambasa, Fiji",earthquake,12.2,8.7,0.059,86,reviewed,us,us
+2017-03-17T04:39:47.500Z,19.1763,-65.3746,35,3.3,Md,5,284.4,0.86777256,0.23,pr,pr17076003,2017-03-17T07:41:09.825Z,"96km NNE of Luquillo, Puerto Rico",earthquake,3.3,16,0,5,reviewed,pr,pr
+2017-03-17T04:11:46.900Z,54.9042,-160.3838,44.63,4,mb,,178,0.449,1.17,us,us20008slz,2017-03-17T04:31:04.040Z,"48km S of Sand Point, Alaska",earthquake,6.3,8,0.183,8,reviewed,us,us
+2017-03-17T00:02:59.930Z,29.5081,51.5365,28.86,4.3,mb,,87,6.157,1.16,us,us20008skq,2017-03-17T23:35:26.040Z,"16km SW of Kazerun, Iran",earthquake,8.4,6.4,0.067,62,reviewed,us,us
+2017-03-16T22:46:10.530Z,36.0958333,-120.2066667,9.6,2.55,md,47,141,0.08594,0.1,nc,nc72776771,2017-03-18T02:05:03.359Z,"12km NW of Avenal, California",earthquake,0.32,0.45,0.139,62,reviewed,nc,nc
+2017-03-16T22:23:51.200Z,36.0826667,-120.234,8.81,2.81,md,33,177,0.103,0.06,nc,nc72776761,2017-03-17T06:04:02.062Z,"12km NW of Avenal, California",earthquake,0.32,0.64,0.152,24,reviewed,nc,nc
+2017-03-16T21:51:04.060Z,-4.1305,129.3638,132.32,4.6,mb,,57,3.121,0.86,us,us20008sjw,2017-03-18T01:52:52.040Z,"100km SE of Saparua, Indonesia",earthquake,6.6,7.5,0.075,53,reviewed,us,us
+2017-03-16T19:37:32.570Z,-35.4648,-179.5779,35,5,mb,,157,2.699,0.95,us,us20008sj2,2017-03-16T20:31:30.040Z,"East of the North Island of New Zealand",earthquake,12.8,1.9,0.115,24,reviewed,us,us
+2017-03-16T19:20:54.200Z,18.8083,-64.5419,30,3.1,Md,3,342,0.86058604,0.05,pr,pr17075004,2017-03-16T23:45:27.563Z,"44km N of Road Town, British Virgin Islands",earthquake,2,7.2,0,3,reviewed,pr,pr
+2017-03-16T18:55:22.170Z,36.4062,-96.9155,5,2.6,mb_lg,,41,0.011,0.29,us,us20008siv,2017-03-16T20:17:56.040Z,"12km NW of Pawnee, Oklahoma",earthquake,0.9,1.4,0.124,17,reviewed,us,us
+2017-03-16T18:50:37.980Z,-15.2427,-71.7719,125.63,4.2,mb,,179,3.206,0.89,us,us20008siy,2017-03-16T20:33:35.813Z,"41km NW of Ccolo, Peru",earthquake,7.5,11.3,0.187,8,reviewed,us,us
+2017-03-16T18:39:26.580Z,-11.5091,114.5632,10,5.5,mww,,46,3.046,1.68,us,us20008siq,2017-03-16T22:30:59.150Z,"South of Bali, Indonesia",earthquake,8.5,1.7,0.068,21,reviewed,us,us
+2017-03-16T18:28:34.620Z,-8.0473,160.8493,35,4.7,mb,,111,1.645,1.28,us,us20008six,2017-03-16T19:48:22.040Z,"81km NNE of Auki, Solomon Islands",earthquake,12.4,2,0.087,40,reviewed,us,us
+2017-03-16T18:25:26.950Z,-8.0735,160.7629,35,5.1,mb,,63,1.577,1.17,us,us20008sim,2017-03-16T19:37:47.040Z,"77km N of Auki, Solomon Islands",earthquake,7.8,1.9,0.042,186,reviewed,us,us
+2017-03-16T18:22:24.900Z,18.9311,-66.4093,46,2.9,Md,11,262.8,0.464429,0.27,pr,pr17075002,2017-03-16T19:58:59.206Z,"51km N of Brenas, Puerto Rico",earthquake,1.4,3.1,0,9,reviewed,pr,pr
+2017-03-16T17:28:35.890Z,13.9153,120.7976,205.15,4.3,mb,,113,8.858,0.65,us,us20008sij,2017-03-16T19:18:52.040Z,"2km SW of Calaca, Philippines",earthquake,10.9,8,0.075,51,reviewed,us,us
+2017-03-16T17:16:45.030Z,5.0864,127.7516,88.94,4.8,mb,,128,2.923,0.68,us,us20008sii,2017-03-16T19:01:25.040Z,"224km SE of Pondaguitan, Philippines",earthquake,9.4,8.5,0.084,44,reviewed,us,us
+2017-03-16T17:06:46.498Z,51.5419,178.9181,16.5,2.6,ml,,,,0.45,ak,ak15507236,2017-03-18T18:03:13.730Z,"53km SSE of Little Sitkin Island, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2017-03-16T16:15:09.200Z,36.936,-121.6806667,10.95,2.98,md,74,54,0.06457,0.13,nc,nc72776526,2017-03-20T07:07:07.832Z,"5km ESE of Interlaken, California",earthquake,0.17,0.34,0.174,122,reviewed,nc,nc
+2017-03-16T16:09:57.050Z,40.6106667,-121.8425,16.96,3.07,ml,35,56,0.08651,0.1,nc,nc72776521,2017-03-19T05:54:48.760Z,"13km NNE of Shingletown, California",earthquake,0.21,0.44,0.123,18,reviewed,nc,nc
+2017-03-16T16:05:38.956Z,63.2966,-152.0125,11.6,3.1,ml,,,,0.69,ak,ak15506512,2017-03-18T18:03:11.943Z,"146km NW of Talkeetna, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2017-03-16T15:52:16.250Z,36.0908333,-120.2221667,7.53,2.63,md,62,74,0.1212,0.08,nc,nc72776506,2017-03-17T07:03:03.145Z,"12km NW of Avenal, California",earthquake,0.38,0.26,0.172,64,reviewed,nc,nc
+2017-03-16T15:50:28.700Z,36.0993333,-120.2145,8.83,3.31,ml,63,103,0.09315,0.07,nc,nc72776501,2017-03-17T14:40:16.040Z,"13km NW of Avenal, California",earthquake,0.26,0.44,0.161,42,reviewed,nc,nc
+2017-03-16T15:38:09.410Z,4.89,-72.6149,10.28,5.2,mb,,51,1.1,1.06,us,us20008shs,2017-03-17T15:23:49.909Z,"17km NNW of Ubala, Colombia",earthquake,4.8,2.9,0.027,460,reviewed,us,us
+2017-03-16T15:25:25.360Z,-17.0857,-71.0512,123.16,4.3,mb,,168,1.445,1.09,us,us20008shr,2017-03-17T13:25:43.023Z,"17km NW of Moquegua, Peru",earthquake,8.8,11.4,0.178,10,reviewed,us,us
+2017-03-16T14:44:09.340Z,32.5993333,-117.2638333,17.92,2.45,ml,28,238,0.1145,0.15,ci,ci37831128,2017-03-16T18:21:25.229Z,"12km SW of Coronado, CA",earthquake,0.36,0.4,0.156,67,reviewed,ci,ci
+2017-03-16T14:12:15.670Z,-6.3922,147.253,82.33,4.7,mb,,84,2.994,1.46,us,us20008shl,2017-03-16T14:33:44.040Z,"47km NE of Lae, Papua New Guinea",earthquake,9.5,4.4,0.089,38,reviewed,us,us
+2017-03-16T14:07:42.700Z,-23.4861,-67.1469,242.1,4.2,mb,,94,1.842,0.8,us,us20008shj,2017-03-16T14:22:17.040Z,"116km NW of San Antonio de los Cobres, Argentina",earthquake,11.6,13.9,0.264,4,reviewed,us,us
+2017-03-16T13:12:46.844Z,61.9081,-150.218,43.2,2.6,ml,,,,0.6,ak,ak15505089,2017-03-18T18:03:06.831Z,"20km NNW of Willow, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2017-03-16T11:40:27.854Z,53.6618,-165.3743,59,3.4,ml,,,,0.34,ak,ak15505076,2017-03-18T18:03:03.622Z,"58km SSE of Akutan, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2017-03-16T11:39:00.403Z,59.3839,-151.9045,52.1,2.5,ml,,,,0.51,ak,ak15505073,2017-03-18T18:03:03.042Z,"35km SW of Homer, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2017-03-16T08:58:00.270Z,36.7002,-98.4252,5.27,3.4,mb_lg,,62,0.201,0.2,us,us20008sfv,2017-03-18T02:41:13.621Z,"8km SW of Cherokee, Oklahoma",earthquake,0.8,6.1,0.052,98,reviewed,us,us
+2017-03-16T08:29:14.400Z,-23.724,179.1622,540.75,5.1,mb,,58,6.039,0.77,us,us20008sfq,2017-03-16T08:47:15.040Z,"South of the Fiji Islands",earthquake,9.7,7.5,0.066,75,reviewed,us,us
+2017-03-16T08:08:05.780Z,-24.17,-66.9191,190.39,5.2,mb,,39,2.398,1.28,us,us20008sfi,2017-03-17T08:11:54.770Z,"61km W of San Antonio de los Cobres, Argentina",earthquake,9.3,20.4,0.036,256,reviewed,us,us
+2017-03-16T07:55:45.346Z,57.0309,-154.1644,42.1,4.4,ml,,,,0.63,ak,ak15504355,2017-03-18T18:10:08.265Z,"46km SSW of Larsen Bay, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2017-03-16T07:05:12.310Z,-33.9915,-72.1759,22.68,4.5,mwr,,75,0.574,0.68,us,us20008sf5,2017-03-16T21:04:18.834Z,"67km SW of San Antonio, Chile",earthquake,4.1,5,0.036,73,reviewed,us,us
+2017-03-16T06:49:07.620Z,26.6522,127.7651,52.66,3.9,mb,,98,0.489,1.01,us,us20008sjl,2017-03-17T00:51:54.154Z,"22km WNW of Nago, Japan",earthquake,2.9,8.4,0.171,9,reviewed,us,us
+2017-03-16T06:30:42.380Z,-20.3361,-173.1111,10,5.2,mb,,107,3.25,1.19,us,us20008sf4,2017-03-16T06:50:14.040Z,"142km ESE of Pangai, Tonga",earthquake,10.6,1.9,0.078,54,reviewed,us,us
+2017-03-16T06:20:13.980Z,36.2291,-97.2113,5,2.7,mb_lg,,29,0.036,0.24,us,us20008sf2,2017-03-16T06:33:16.439Z,"9km SE of Perry, Oklahoma",earthquake,1,2,0.088,34,reviewed,us,us
+2017-03-16T03:55:31.220Z,33.2421667,-116.0581667,5.44,2.84,ml,85,30,0.07143,0.21,ci,ci37830704,2017-03-17T01:04:25.945Z,"11km WSW of Salton City, CA",earthquake,0.13,0.67,0.143,141,reviewed,ci,ci
+2017-03-16T03:41:04.657Z,52.4944,172.8061,35,4.1,ml,,,,0.54,ak,ak15503660,2017-03-18T18:02:49.625Z,"46km SSW of Attu Station, Alaska",earthquake,,9.9,,,reviewed,ak,ak
+2017-03-16T03:30:36.100Z,17.8855,-66.5818,4,2.8,Md,12,201.6,0.15810349,0.37,pr,pr17075000,2017-03-16T07:22:52.718Z,"14km SSE of Ponce, Puerto Rico",earthquake,0.6,0.8,0,7,reviewed,pr,pr
+2017-03-16T03:06:41.462Z,51.899,-174.7353,53.8,2.5,ml,,,,0.27,ak,ak15503655,2017-03-18T18:02:48.017Z,"49km SW of Atka, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2017-03-16T00:54:58.210Z,20.0886,-70.4312,16.99,4.4,mb,,62,0.714,0.87,us,us20008sed,2017-03-16T03:00:13.771Z,"36km NNE of Sosua, Dominican Republic",earthquake,4.3,4.9,0.071,57,reviewed,us,us
+2017-03-15T23:57:56.825Z,51.1857,179.0108,12.7,2.7,ml,,,,0.62,ak,ak15502281,2017-03-17T02:17:10.248Z,"91km SSE of Little Sitkin Island, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2017-03-15T23:52:50.504Z,51.1639,179.095,21.8,2.5,ml,,,,0.37,ak,ak15502280,2017-03-17T02:17:09.887Z,"94km SSW of Semisopochnoi Island, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2017-03-15T23:37:41.447Z,51.1601,179.0265,13.5,2.9,ml,,,,0.55,ak,ak15502278,2017-03-17T02:17:09.064Z,"94km SSE of Little Sitkin Island, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2017-03-15T23:29:48.250Z,35.863,27.6151,16.92,4.3,mb,,59,0.485,0.99,us,us20008se3,2017-03-16T00:15:24.040Z,"44km SW of Lardos, Greece",earthquake,4.3,5.4,0.078,46,reviewed,us,us
+2017-03-15T23:12:59.100Z,19.0569,-67.416,11,2.9,Md,6,313.2,0.6521769,0.3,pr,pr17074007,2017-03-16T04:47:03.133Z,"70km NNW of San Antonio, Puerto Rico",earthquake,3,4.5,0,4,reviewed,pr,pr
+2017-03-15T22:44:30.770Z,36.5993333,-121.1988333,5.61,2.62,md,48,87,0.09392,0.06,nc,nc72776136,2017-03-16T06:14:44.897Z,"22km NNE of Soledad, California",earthquake,0.14,0.47,0.242,61,reviewed,nc,nc
+2017-03-15T22:30:49.499Z,51.1495,179.0117,18.5,3,ml,,,,0.31,ak,ak15501492,2017-03-17T02:17:06.653Z,"95km SSE of Little Sitkin Island, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2017-03-15T22:28:00.070Z,53.4962,-163.6528,3,2.7,ml,,,,0.49,ak,ak15501487,2017-03-17T02:17:06.248Z,"151km S of False Pass, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2017-03-15T22:26:17.829Z,51.1662,178.983,15.1,3.3,ml,,,,0.52,ak,ak15501485,2017-03-17T02:17:05.848Z,"93km SSE of Little Sitkin Island, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2017-03-15T22:21:25.320Z,37.0356,-97.9129,1.21,2.6,mb_lg,,91,0.079,0.18,us,us20008sd6,2017-03-16T14:26:19.174Z,"16km SE of Anthony, Kansas",earthquake,1,6.9,0.147,13,reviewed,us,us
+2017-03-15T22:19:42.190Z,51.2211,179.0567,22.68,5.6,mww,,45,0.218,1.32,us,us20008sd8,2017-03-17T02:17:05.375Z,"89km SSE of Little Sitkin Island, Alaska",earthquake,6.4,3.4,0.058,29,reviewed,us,us
+2017-03-15T21:47:15.310Z,51.1705,179.0891,27.81,4.9,mb,,130,0.245,0.98,us,us20008sd5,2017-03-17T02:17:04.347Z,"93km SSW of Semisopochnoi Island, Alaska",earthquake,8,4.8,0.041,190,reviewed,us,us
+2017-03-15T21:07:21.610Z,35.9838,-97.2066,2.37,2.6,mb_lg,,28,0.085,0.15,us,us20008scv,2017-03-15T21:18:09.803Z,"6km NE of Langston, Oklahoma",earthquake,0.9,4.1,0.111,21,reviewed,us,us
+2017-03-15T19:14:35.200Z,35.9008,-98.2878,6.871,3.4,ml,,48,,0.19,us,us20008sbs,2017-03-16T18:54:13.492Z,"12km ENE of Watonga, Oklahoma",earthquake,1.3,2.4,,,reviewed,tul,tul
+2017-03-15T18:01:00.870Z,-5.9167,151.1342,46.86,4.9,mb,,64,1.997,0.73,us,us20008sbb,2017-03-15T19:15:49.040Z,"117km ESE of Kimbe, Papua New Guinea",earthquake,8.3,8,0.074,58,reviewed,us,us
+2017-03-15T17:20:21.539Z,53.1916,-161.2912,8.6,3.7,ml,,,,0.96,ak,ak15499235,2017-03-17T02:16:59.326Z,"210km SSW of Chernabura Island, Alaska",earthquake,,2,,,reviewed,ak,ak
+2017-03-15T16:57:52.680Z,36.8806667,-89.114,8.5,2.62,md,32,106,0.2009,0.15,nm,nm60180746,2017-03-16T15:16:35.344Z,"9km W of Bardwell, Kentucky",earthquake,0.51,1.99,0.074,9,reviewed,nm,nm
+2017-03-15T16:51:09.970Z,36.8793333,-89.1163333,8.96,3.59,mw,74,44,0.1989,0.23,nm,nm60180726,2017-03-19T17:18:47.220Z,"9km W of Bardwell, Kentucky",earthquake,0.4,0.97,,9,reviewed,nm,nm
+2017-03-15T16:38:19.740Z,-5.4842,146.8759,212.01,4.5,mb,,77,3.905,1.03,us,us20008sar,2017-03-16T00:31:39.353Z,"123km ESE of Madang, Papua New Guinea",earthquake,10.4,8.5,0.079,47,reviewed,us,us
+2017-03-15T15:50:20.900Z,18.4106,-66.167,112,2.6,Md,4,190.8,0.32519013,0.28,pr,pr17074005,2017-03-15T18:42:09.688Z,"1km NW of Bayamon, Puerto Rico",earthquake,5.2,2.1,0,4,reviewed,pr,pr
+2017-03-15T15:23:08.600Z,18.4454,-68.9284,110,3.6,Md,16,237.6,0.5228195,0.82,pr,pr17074004,2017-03-15T16:20:25.343Z,"5km ENE of La Romana, Dominican Republic",earthquake,9,4.3,0,9,reviewed,pr,pr
+2017-03-15T15:17:19.730Z,60.926,165.5867,16.55,4.9,mb,,111,7.179,0.65,us,us20008s9z,2017-03-15T22:07:32.040Z,"58km NNW of Tilichiki, Russia",earthquake,8.5,4.1,0.032,316,reviewed,us,us
+2017-03-15T15:16:48.080Z,36.4031,-96.8891,4.64,3.2,mb_lg,,60,0.015,0.13,us,us20008s9y,2017-03-15T17:52:12.013Z,"10km NW of Pawnee, Oklahoma",earthquake,1.1,2.5,0.068,57,reviewed,us,us
+2017-03-15T14:20:00.912Z,54.5157,-160.7738,42.7,2.6,ml,,,,0.46,ak,ak15497918,2017-03-17T02:16:55.356Z,"83km WSW of Chernabura Island, Alaska",earthquake,,6.4,,,reviewed,ak,ak
+2017-03-15T12:00:40.901Z,63.3397,-149.6191,105.3,2.7,ml,,,,0.36,ak,ak15497906,2017-03-17T02:16:51.816Z,"33km W of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2017-03-15T11:27:51.340Z,42.7032,141.4258,137.47,4.1,mb,,80,1.455,0.38,us,us20008s9i,2017-03-15T11:57:25.040Z,"16km WNW of Tomakomai, Japan",earthquake,7.1,7.4,0.109,23,reviewed,us,us
+2017-03-15T11:21:14.160Z,19.1896667,-155.4626667,35.707,2.63,ml,60,106,0.03408,0.11,hv,hv61644821,2017-03-16T04:58:10.440Z,"2km SE of Pahala, Hawaii",earthquake,0.41,0.52,0.203,38,reviewed,hv,hv
+2017-03-15T09:59:10.890Z,-6.8069,129.9902,132.78,4.5,mb,,89,1.746,0.81,us,us20008s97,2017-03-15T10:22:51.040Z,"193km NW of Saumlaki, Indonesia",earthquake,8.8,6.6,0.121,20,reviewed,us,us
+2017-03-15T08:11:55.238Z,51.1973,-174.2519,26.8,2.7,ml,,,,0.19,ak,ak15495940,2017-03-17T02:16:45.051Z,"111km S of Atka, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2017-03-15T08:01:19.660Z,20.1363333,-155.8056667,24.397,3.08,ml,58,138,0.02878,0.17,hv,hv61644531,2017-03-17T04:59:23.340Z,"10km S of Kapaau, Hawaii",earthquake,0.58,0.65,0.129,24,reviewed,hv,hv
+2017-03-15T07:32:28.743Z,56.0013,-153.1614,7.6,2.9,ml,,,,0.37,ak,ak15511659,2017-03-17T02:16:43.862Z,"155km E of Chirikof Island, Alaska",earthquake,,4.3,,,reviewed,ak,ak
+2017-03-15T07:30:33.170Z,35.84,140.7033,63.08,4.3,mb,,135,2.026,0.71,us,us20008scs,2017-03-18T23:20:01.559Z,"7km E of Omigawa, Japan",earthquake,8.2,6.6,0.154,12,reviewed,us,us
+2017-03-15T05:57:13.300Z,18.3143,-67.6819,15,3,Md,4,309.6,0.20391757,0.03,pr,pr17074003,2017-03-15T07:42:16.951Z,"45km W of Rincon, Puerto Rico",earthquake,1.4,1.5,0,3,reviewed,pr,pr
+2017-03-15T05:43:19.667Z,51.8372,-175.8199,70.3,2.6,ml,,,,0.31,ak,ak15495284,2017-03-17T02:16:42.362Z,"57km E of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2017-03-15T05:35:16.900Z,-5.5079,154.0038,42.16,4.8,mb,,119,2.252,1.22,us,us20008s8i,2017-03-15T06:24:49.040Z,"157km SE of Taron, Papua New Guinea",earthquake,9.6,4.8,0.096,34,reviewed,us,us
+2017-03-15T04:58:13.100Z,18.8869,-64.435,25,2.9,Md,3,345.6,0.72404212,0.25,pr,pr17074002,2017-03-15T07:41:46.811Z,"55km NNE of Road Town, British Virgin Islands",earthquake,5.8,20.3,0,2,reviewed,pr,pr
+2017-03-15T02:26:53.980Z,-7.9489,107.8601,67.86,4.6,mb,,119,2.638,1.18,us,us20008s80,2017-03-15T02:45:59.040Z,"26km SSW of Ciheras, Indonesia",earthquake,8.2,6.4,0.085,41,reviewed,us,us
+2017-03-15T02:07:23.000Z,18.0482,-68.922,106,3.5,Md,13,255.6,0.69170277,0.61,pr,pr17074001,2017-03-15T04:36:36.702Z,"42km S of La Romana, Dominican Republic",earthquake,6,5,0,6,reviewed,pr,pr
+2017-03-15T01:38:57.450Z,1.7687,127.0391,65.78,5.1,mb,,54,1.043,0.77,us,us20008s7z,2017-03-15T01:56:13.040Z,"108km W of Tobelo, Indonesia",earthquake,6.8,6.4,0.067,72,reviewed,us,us
+2017-03-15T00:41:25.600Z,19.1432,-64.8458,24,2.7,Md,5,316.8,0.79411071,0.28,pr,pr17074000,2017-03-15T03:45:30.563Z,"83km NNW of Road Town, British Virgin Islands",earthquake,2.1,24,0,2,reviewed,pr,pr
+2017-03-15T00:23:24.020Z,-44.9371,167.6442,130.64,4.5,mb,,82,0.544,0.85,us,us20008s7t,2017-03-15T00:59:48.786Z,"53km N of Te Anau, New Zealand",earthquake,7.1,7.2,0.128,18,reviewed,us,us
+2017-03-15T00:00:27.110Z,-35.2035,-70.9627,98.42,4.6,mb,,55,0.436,1.02,us,us20008s7n,2017-03-15T08:26:12.851Z,"30km ESE of Molina, Chile",earthquake,5.5,5.1,0.08,46,reviewed,us,us
+2017-03-14T23:43:19.630Z,46.4483333,-122.332,11.75,3.21,ml,33,70,0.1524,0.13,uw,uw61257321,2017-03-20T00:45:41.151Z,"12km SSW of Morton, Washington",earthquake,0.27,1.17,0.263,18,reviewed,uw,uw
+2017-03-14T23:39:26.890Z,-40.5141,-91.8906,10,4.9,mb,,71,14.356,0.73,us,us20008s7j,2017-03-15T00:05:56.040Z,"West Chile Rise",earthquake,14.5,1.9,0.071,62,reviewed,us,us
+2017-03-14T22:11:08.130Z,37.63,-119.0283333,-0.79,2.77,ml,40,63,0.002735,0.06,nc,nc72775511,2017-03-15T02:47:03.467Z,"5km WSW of Mammoth Lakes, California",earthquake,0.17,0.18,0.316,10,reviewed,nc,nc
+2017-03-14T21:01:12.960Z,52.3035,-170.5655,52.3,5.1,mb,,130,0.662,1.06,us,us20008s6s,2017-03-14T21:22:42.338Z,"37km SSE of Yunaska Island, Alaska",earthquake,7.5,6.7,0.032,312,reviewed,us,us
+2017-03-14T20:41:44.726Z,61.7259,-149.7093,29.8,2.8,ml,,,,0.79,ak,ak15492649,2017-03-15T17:14:42.040Z,"13km NNW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2017-03-14T20:31:27.290Z,-24.4112,-175.4864,10,5.1,mb,,91,5.285,1.39,us,us20008s6f,2017-03-15T17:06:12.040Z,"South of Tonga",earthquake,8.9,1.8,0.063,82,reviewed,us,us
+2017-03-14T20:03:49.110Z,-24.0054,-67.0795,201.83,4.5,mb,,35,2.181,1.26,us,us20008s69,2017-03-15T16:46:25.040Z,"80km WNW of San Antonio de los Cobres, Argentina",earthquake,7.3,7.8,0.136,19,reviewed,us,us
+2017-03-14T18:16:51.960Z,-30.3057,-177.4697,31.48,5.3,mb,,55,1.13,0.9,us,us100088xz,2017-03-15T15:56:11.040Z,"122km SSE of Raoul Island, New Zealand",earthquake,9,3.8,0.048,146,reviewed,us,us
+2017-03-14T17:46:12.980Z,31.811,-116.0596667,8.82,2.48,ml,16,165,0.2153,0.23,ci,ci37829128,2017-03-14T18:18:35.570Z,"49km ENE of Maneadero, B.C., MX",earthquake,0.46,1.05,0.102,45,reviewed,ci,ci
+2017-03-14T17:44:52.991Z,57.0487,-157.6922,10.1,3.1,ml,,,,0.83,ak,ak15491280,2017-03-14T17:56:29.104Z,"110km NE of Chignik Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2017-03-14T17:14:05.580Z,33.239,-116.0535,5.15,3.61,mw,86,27,0.06995,0.18,ci,ci37829080,2017-03-15T17:16:30.479Z,"11km SW of Salton City, CA",earthquake,0.12,0.52,,6,reviewed,ci,ci
+2017-03-14T17:13:20.160Z,59.4862,-138.8847,4.2,3.3,ml,,,,0.71,us,us100088wx,2017-03-15T14:49:44.040Z,"48km E of Yakutat, Alaska",earthquake,1.9,6.7,,,reviewed,ak,ak
+2017-03-14T16:39:56.830Z,27.3044,96.7895,54.34,4.4,mb,,116,3.796,0.76,us,us100088wt,2017-03-14T18:18:46.040Z,"91km SE of Tezu, India",earthquake,7.8,8.7,0.127,18,reviewed,us,us
+2017-03-14T15:11:18.090Z,-33.5417,-71.3588,43.34,4.4,mb,,89,0.242,0.56,us,us100088wg,2017-03-15T05:51:47.024Z,"21km NW of Melipilla, Chile",earthquake,3.7,5.7,0.202,7,reviewed,us,us
+2017-03-14T15:09:41.260Z,-2.9841,128.8034,44.21,4.4,mb,,89,3.441,0.93,us,us100088wi,2017-03-14T15:35:58.040Z,"39km ESE of Taniwel, Indonesia",earthquake,7.9,8.8,0.12,20,reviewed,us,us
+2017-03-14T15:03:39.950Z,-15.6669,-177.1231,10,5.2,mb,,74,5.063,0.49,us,us100088wf,2017-03-14T16:16:48.153Z,"188km SE of Sigave, Wallis and Futuna",earthquake,10.6,1.8,0.049,138,reviewed,us,us
+2017-03-14T14:15:43.100Z,18.8647,-64.9514,31,3,Md,3,302.4,0.50934477,0.01,pr,pr17073005,2017-03-14T16:03:46.254Z,"57km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.6,4.8,0,3,reviewed,pr,pr
+2017-03-14T13:28:25.600Z,17.8015,-65.9475,8,2.6,Md,5,241.2,0.22188388,0.11,pr,pr17073004,2017-03-14T15:50:45.359Z,"20km SSE of Lamboglia, Puerto Rico",earthquake,0.8,1.5,0,4,reviewed,pr,pr
+2017-03-14T13:13:38.120Z,3.643,95.8566,41.23,5.5,mb,,48,1.914,1.28,us,us100088vy,2017-03-14T17:32:56.040Z,"62km SSW of Meulaboh, Indonesia",earthquake,7,3.8,0.039,228,reviewed,us,us
+2017-03-14T12:36:43.950Z,-20.9839,169.9928,129.73,5.6,mww,,49,2.582,1.02,us,us100088vp,2017-03-14T15:20:21.040Z,"175km SSE of Isangel, Vanuatu",earthquake,8.6,6.2,,,reviewed,us,us
+2017-03-14T11:52:18.870Z,-17.8444,-172.2689,10,4.6,mb,,135,2.538,1.31,us,us100088vg,2017-03-14T16:21:29.899Z,"202km ENE of Neiafu, Tonga",earthquake,12.2,1.9,0.094,34,reviewed,us,us
+2017-03-14T11:47:58.950Z,9.7662,125.3667,58.52,4.6,mb,,109,2.687,0.87,us,us100088vj,2017-03-15T10:47:10.179Z,"6km W of San Francisco, Philippines",earthquake,10.4,7.9,0.067,66,reviewed,us,us
+2017-03-14T11:27:18.560Z,50.4693,177.0855,29,4.2,mb,,209,1.67,1.02,us,us100088vc,2017-03-14T17:34:11.834Z,"185km SSW of Kiska Volcano, Alaska",earthquake,9.5,8.3,0.064,68,reviewed,us,us
+2017-03-14T11:07:11.400Z,39.2694,73.4711,10,5.1,mb,,81,2.245,0.89,us,us100088v9,2017-03-14T11:26:21.040Z,"30km NNW of Karakul, Tajikistan",earthquake,5.9,1.8,0.048,141,reviewed,us,us
+2017-03-14T09:13:27.980Z,-3.337,137.5581,68.52,4.9,mb,,97,5.317,1.12,us,us100088uy,2017-03-14T09:31:48.040Z,"148km ENE of Enarotali, Indonesia",earthquake,9.1,4.5,0.084,44,reviewed,us,us
+2017-03-14T08:33:40.020Z,36.7321667,-121.0056667,4.6,2.94,ml,68,79,0.08827,0.16,nc,nc72775221,2017-03-15T05:24:02.784Z,"33km ESE of Ridgemark, California",earthquake,0.24,1.02,0.223,28,reviewed,nc,nc
+2017-03-14T06:56:38.880Z,31.6366,141.7827,10,4.7,mb,,117,2.224,1.13,us,us100088uh,2017-03-14T07:20:23.040Z,"246km SE of Hachijo-jima, Japan",earthquake,9.6,1.9,0.057,92,reviewed,us,us
+2017-03-14T06:04:38.900Z,17.4871,-63.5905,49,3.4,Md,4,342,1.55678039,0.25,pr,pr17073003,2017-03-14T08:48:36.819Z,"39km WSW of The Bottom, Bonaire, Saint Eustatius and Saba ",earthquake,5.3,19.6,0,2,reviewed,pr,pr
+2017-03-14T05:55:21.830Z,0.6764,121.1553,79.23,5.6,mb,,36,0.571,0.96,us,us100088tq,2017-03-14T16:19:17.040Z,"48km WNW of Lemito, Indonesia",earthquake,6.7,1.9,0.079,72,reviewed,us,us
+2017-03-14T05:08:22.140Z,34.0368333,-116.8721667,8.58,2.8,ml,129,16,0.05349,0.17,ci,ci37828552,2017-03-14T15:25:42.562Z,"12km N of Banning, CA",earthquake,0.09,0.27,0.148,128,reviewed,ci,ci
+2017-03-14T05:06:54.460Z,34.0388333,-117.2386667,17.64,3.61,mw,182,15,0.01436,0.2,ci,ci37828544,2017-03-19T14:38:22.645Z,"2km ESE of Loma Linda, CA",earthquake,0.11,0.22,,4,reviewed,ci,ci
+2017-03-14T04:36:30.320Z,-5.6735,110.1787,541.23,5.2,mb,,72,1.391,0.82,us,us100088t6,2017-03-14T16:44:34.685Z,"107km NNW of Batang, Indonesia",earthquake,10.1,9.9,0.217,7,reviewed,us,us
+2017-03-14T03:56:48.920Z,42.7059,142.701,92.35,4.7,mwr,,96,0.768,0.74,us,us100088sq,2017-03-14T12:46:31.163Z,"47km WSW of Obihiro, Japan",earthquake,5.5,5.8,0.08,15,reviewed,us,us
+2017-03-14T03:26:23.300Z,19.4825,-65.2395,25,2.8,Md,3,331.2,1.15523346,0.18,pr,pr17073002,2017-03-14T08:47:41.663Z,"130km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.3,17,0,2,reviewed,pr,pr
+2017-03-14T03:04:12.100Z,19.1506,-64.9981,24,3.4,Md,11,288,0.79500903,0.4,pr,pr17073001,2017-03-14T08:47:01.533Z,"89km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.3,32.5,0,10,reviewed,pr,pr
+2017-03-14T02:51:16.850Z,6.1292,92.3167,10,6,mww,,34,4.694,1.25,us,us100088sf,2017-03-17T14:28:45.924Z,"231km SSW of Mohean, India",earthquake,8.2,1.8,,,reviewed,us,us
+2017-03-14T02:00:24.480Z,36.8821667,-121.6195,7.65,2.56,md,63,28,0.0222,0.09,nc,nc72775066,2017-03-16T04:34:02.230Z,"2km ESE of Aromas, California",earthquake,0.14,0.24,0.165,89,reviewed,nc,nc
+2017-03-14T00:18:35.120Z,17.5171,-62.7946,106.9,4.3,mb,,87,0.179,0.75,us,us100088s5,2017-03-17T08:28:02.760Z,"11km N of Dieppe Bay Town, Saint Kitts and Nevis",earthquake,5.5,4.6,0.063,71,reviewed,us,us
+2017-03-13T22:04:34.100Z,18.9808,-65.2723,24,2.8,Md,4,291.6,0.66924489,0.23,pr,pr17072005,2017-03-14T06:07:04.242Z,"75km N of Culebra, Puerto Rico",earthquake,1.8,19.1,0,4,reviewed,pr,pr
+2017-03-13T21:15:06.135Z,51.6153,-176.4504,42.2,3.2,ml,,,,0.35,ak,ak15482368,2017-03-15T20:29:30.944Z,"32km SSE of Adak, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2017-03-13T21:04:05.710Z,13.8276,-92.2693,37.51,4.7,mb,,183,0.889,0.91,us,us100088rh,2017-03-14T16:13:31.484Z,"64km SW of Champerico, Guatemala",earthquake,7.6,9.9,0.045,152,reviewed,us,us
+2017-03-13T19:25:50.840Z,37.6366667,-121.6906667,4.57,2.79,md,107,43,0.05461,0.18,nc,nc72774871,2017-03-16T16:26:57.172Z,"8km SE of Livermore, California",earthquake,0.14,0.32,0.151,97,reviewed,nc,nc
+2017-03-13T19:01:49.711Z,61.5506,-152.1147,108.8,2.6,ml,,,,0.47,ak,ak15481291,2017-03-15T20:29:29.369Z,"105km NNW of Nikiski, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2017-03-13T18:38:45.700Z,32.7906667,-115.4471667,11.93,2.47,ml,30,82,0.01462,0.24,ci,ci37827768,2017-03-14T05:24:44.875Z,"7km WSW of Holtville, CA",earthquake,0.39,0.34,0.152,24,reviewed,ci,ci
+2017-03-13T17:13:42.590Z,32.7865,-115.4453333,11.23,2.46,ml,30,83,0.01881,0.26,ci,ci37827560,2017-03-13T19:12:51.400Z,"7km WSW of Holtville, CA",earthquake,0.46,0.58,0.137,66,reviewed,ci,ci
+2017-03-13T16:46:52.093Z,62.5786,-149.4848,59.1,2.5,ml,,,,0.52,ak,ak15480083,2017-03-15T20:29:26.827Z,"42km NE of Talkeetna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2017-03-13T16:39:41.500Z,-17.6246,-178.7512,548.69,4.4,mb,,91,3.049,0.95,us,us100088p6,2017-03-13T17:40:57.040Z,"239km SE of Lambasa, Fiji",earthquake,13,8.9,0.065,68,reviewed,us,us
+2017-03-13T15:46:01.130Z,-12.6783,-76.8277,41.74,4.1,mb,,169,0.686,0.84,us,us100088rl,2017-03-14T04:02:19.069Z,"19km SSW of Chilca, Peru",earthquake,9.8,16.8,0.368,2,reviewed,us,us
+2017-03-13T15:05:54.850Z,-30.4146,-71.4753,34.06,5.1,mww,,66,0.292,0.93,us,us100088n2,2017-03-14T16:44:50.040Z,"33km NW of Ovalle, Chile",earthquake,5.5,3.3,,,reviewed,us,guc
+2017-03-13T14:39:04.160Z,35.8795,-120.0611667,15.45,3.52,mw,66,70,0.1514,0.17,nc,nc72774671,2017-03-14T22:22:41.598Z,"14km SSE of Avenal, California",earthquake,0.33,0.42,,9,reviewed,nc,nc
+2017-03-13T14:19:06.700Z,17.415,96.0107,10,5.1,mb,,42,0.563,0.62,us,us100088mq,2017-03-15T14:53:40.211Z,"34km SE of Tharyarwady, Burma",earthquake,6.9,1.8,0.061,88,reviewed,us,us
+2017-03-13T13:29:14.380Z,40.856,-121.2138333,13.61,2.71,md,29,89,0.105,0.1,nc,nc72774621,2017-03-16T04:19:02.212Z,"37km E of Burney, California",earthquake,0.27,0.5,0.122,40,reviewed,nc,nc
+2017-03-13T12:32:36.070Z,-16.5105,-173.2212,34.25,4.6,mb,,104,4.044,0.68,us,us100088mn,2017-03-13T13:21:24.040Z,"83km SE of Hihifo, Tonga",earthquake,14.8,6.5,0.136,16,reviewed,us,us
+2017-03-13T09:46:29.600Z,19.0909,-66.4337,30,2.7,Md,3,302.4,0.7995006,0.1,pr,pr17072004,2017-03-13T12:08:30.177Z,"69km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.3,9.7,0,3,reviewed,pr,pr
+2017-03-13T08:49:05.880Z,14.3219,145.2049,104.46,5.5,mb,,46,0.798,1.19,us,us100088m4,2017-03-19T12:28:14.480Z,"18km N of Rota, Northern Mariana Islands",earthquake,8.9,5.4,0.045,168,reviewed,us,us
