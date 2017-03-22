@@ -1,3 +1,4 @@
+{% load staticfiles %}
 <!DOCTYPE html>
 <html>
   <head>
@@ -43,7 +44,7 @@
           center: [ -60, -10 ],
           zoom: 4 
         });
-        csv = new CSVLayer("2.5_week.csv", {
+        csv = new CSVLayer("/media/data.csv", {
           copyright: "USGS.gov"
         });
         var orangeRed = new Color([238, 69, 0, 0.5]); // hex is #ff4500
