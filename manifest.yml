@@ -1,0 +1,14 @@
+applications:
+- name: migratory
+memory: 256M
+# This is command provided by cf -c option
+command: bash ./run.sh
+buildpack: https://github.com/cloudfoundry/python-buildpack
+path: .
+timeout: 80
+declared-services:
+  migratory:
+    label: postgresql
+    plan: 100
+services:
+- migratory

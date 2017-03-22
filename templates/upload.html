@@ -1,0 +1,157 @@
+{% extends 'base.html' %}
+{% load i18n %}
+
+{% block branding %}
+    <h1>Migratory Birds of India</h1>
+{% endblock %}
+
+
+{% block content %}
+    <h3>Data upload</h3>
+    <hr>
+    <br>
+    <form action="" method="post">
+        {% csrf_token %}
+        <div>
+            {{ form.iba_code.errors }}
+            <label for="{{ form.iba_code.id_for_label }}">IBA Code:</label>
+            <br>
+            {{ form.iba_code }}
+        </div>
+        <br>
+        <div class="colM">
+                Duration of Observation:
+                <br>
+                {{ form.start_date.errors }}
+                <label for="{{ form.start_date.id_for_label }}">From:</label>
+                {{ form.start_date }}
+                {{ form.end_date.errors }}
+                <label for="{{ form.end_date.id_for_label }}">To:</label>
+                {{ form.end_date }}
+            </div>
+        <br>
+        <div>
+            {{ form.species.errors }}
+            <label for="{{ form.species.id_for_label }}">Species:</label>
+            <br>
+            {{ form.species }}
+        </div>
+        <br>
+        <div>
+            {{ form.area.errors }}
+            <label for="{{ form.area.id_for_label }}">Area in sq. km:</label>
+            <br>
+            {{ form.area }}
+        </div>
+        <br>
+
+        Do you have site name?
+        Yes <input type="radio" onclick="javascript:yesnoCheck();" name="yesno" id="yesCheck"> No
+        <input type="radio" onclick="javascript:yesnoCheck();" name="yesno" id="noCheck"><br><br>
+        <div id="ifYes" style="display:none">
+            <div class="fieldWrapper">
+                {{ form.site_name.errors }}
+                <label for="{{ form.site_name.id_for_label }}">Site Name:</label>
+                <br>
+                {{ form.site_name }}
+            </div>
+        </div>
+        <div id="ifNo" style="display:none">
+            <div class="colM">
+                Latitude:
+                <br>
+                {{ form.latitude_from.errors }}
+                <label for="{{ form.latitude_from.id_for_label }}">From:</label>
+                {{ form.latitude_from }}
+                {{ form.latitude_to.errors }}
+                <label for="{{ form.latitude_to.id_for_label }}">To:</label>
+                {{ form.latitude_to }}
+            </div>
+            <br>
+            <div>
+                Longitude:
+                <br>
+                {{ form.longitude_from.errors }}
+                <label for="{{ form.longitude_from.id_for_label }}">From:</label>
+                {{ form.longitude_from }}
+                {{ form.longitude_to.errors }}
+                <label for="{{ form.longitude_to.id_for_label }}">To:</label>
+                {{ form.longitude_to }}
+            </div>
+        </div>
+        <br>
+        <div>
+            {{ form.type_of_location.errors }}
+            <label for="{{ form.type_of_location.id_for_label }}">Type of Location:</label>
+            <br>
+            {{ form.type_of_location }}
+        </div>
+        <br>
+        <div>
+            {{ form.terrain.errors }}
+            <label for="{{ form.terrain.id_for_label }}">Terrain:</label>
+            <br>
+            {{ form.terrain }}
+        </div>
+        <br>
+        <div>
+            {{ form.breeding_time.errors }}
+            <label for="{{ form.breeding_time.id_for_label }}">Breeding Time(in weeks)-:</label>
+            <br>
+            {{ form.breeding_time }}
+        </div>
+        <br>
+        <div>
+            {{ form.block_count.errors }}
+            <label for="{{ form.block_count.id_for_label }}">Block Count: </label>
+            <br>
+            {{ form.block_count }}
+        </div>
+        <br>
+        <div>
+            {{ form.forest_type.errors }}
+            <label for="{{ form.forest_type.id_for_label }}">Forest Type:</label>
+            <br>
+            {{ form.forest_type }}
+        </div>
+        <br>
+        <div>
+            {{ form.state.errors }}
+            <label for="{{ form.state.id_for_label }}">State:</label>
+            <br>
+            {{ form.state }}
+        </div>
+        <br>
+        <input class='butt' type="submit" value="Submit"/>
+    </form>
+{% endblock %}
+
+
+{% block extrahead %}
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+    <script>
+  $( function() {
+    $( "#id_start_date" ).datepicker();
+    $( "#id_end_date" ).datepicker();
+  } );
+  </script>
+    <script type="text/javascript">
+
+        function yesnoCheck() {
+            if (document.getElementById('yesCheck').checked) {
+                document.getElementById('ifYes').style.display = 'block';
+            }
+            else document.getElementById('ifYes').style.display = 'none';
+            if (document.getElementById('noCheck').checked) {
+                document.getElementById('ifNo').style.display = 'block';
+            }
+            else document.getElementById('ifNo').style.display = 'none';
+
+        }
+
+    </script>
+
+{% endblock %}
