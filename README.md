@@ -5,4 +5,6 @@ run command:
 
 ** push in branch develop **
 
+# add server side scripts in codesnippets
+
 keep pushing :blush:
