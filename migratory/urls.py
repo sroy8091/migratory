@@ -26,5 +26,4 @@ urlpatterns = [
     url(r'^visualize/$', TemplateView.as_view(template_name='earthquake_csv.html'), name='arcgis'),
 ]
 
-if settings.DEBUG:
-    urlpatterns += static.static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+urlpatterns += static.static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
