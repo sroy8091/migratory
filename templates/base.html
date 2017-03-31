@@ -1,28 +1,36 @@
 {% extends 'admin/base_site.html' %}
 {% load i18n %}
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+    {% block domready %}
+    {% endblock %}
+     });
+</script>
+
 {% block branding %}
     <h1>Migratory Birds of India</h1>
 {% endblock %}
 
 
 {% block content %}
-    <div id="header">
-  <span class="logo">Bookmarks</span>
-  {% if request.user.is_authenticated %}
-    <ul class="menu">
-      <li {% if section == "dashboard" %}class="selected"{% endif %}>
-        <a href="{% url "dashboard" %}">My dashboard</a>
-      </li>
-      <li {% if section == "images" %}class="selected"{% endif %}>
-        <a href="#">Images</a>
-      </li>
-      <li {% if section == "people" %}class="selected"{% endif %}>
-        <a href="#">People</a>
-      </li>
-    </ul>
-  {% endif %}
-
+{#    <div id="header">#}
+{#  <span class="logo">Bookmarks</span>#}
+{#  {% if request.user.is_authenticated %}#}
+{#    <ul class="menu">#}
+{#      <li {% if section == "dashboard" %}class="selected"{% endif %}>#}
+{#        <a href="{% url "dashboard" %}">My dashboard</a>#}
+{#      </li>#}
+{#      <li {% if section == "images" %}class="selected"{% endif %}>#}
+{#        <a href="#">Images</a>#}
+{#      </li>#}
+{#      <li {% if section == "people" %}class="selected"{% endif %}>#}
+{#        <a href="#">People</a>#}
+{#      </li>#}
+{#    </ul>#}
+{#  {% endif %}#}
+{% endblock %}
   <span class="user">
     {% if request.user.is_authenticated %}
       Hello {{ request.user.first_name }},
@@ -32,7 +40,7 @@
     {% endif %}
   </span>
 </div>
-{% endblock %}
+{#{% endblock %}#}
 
 
 {% block extrahead %}

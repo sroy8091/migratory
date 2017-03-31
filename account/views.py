@@ -15,7 +15,7 @@ def user_login(request):
             if user is not None:
                 if user.is_active:
                     login(request, user)
-                    return HttpResponse('Authenticated '\
+                    return HttpResponse('Authenticated '
                                         'successfully')
                 else:
                     return HttpResponse('Disabled account')
@@ -29,6 +29,7 @@ def register(request):
     if request.method == 'POST':
         user_form = UserRegistrationForm(request.POST)
         if user_form.is_valid():
+            print("valid data")
             # Create a new user object but avoid saving it yet
             new_user = user_form.save(commit=False)
             # Set the chosen password
@@ -44,7 +45,7 @@ def register(request):
     return render(request,
                   'account/register.html',
                   {'user_form': user_form})
-
+#
 @login_required
 def edit(request):
     if request.method == 'POST':
@@ -57,11 +58,14 @@ def edit(request):
         if user_form.is_valid() and profile_form.is_valid():
             user_form.save()
             profile_form.save()
-    else:
-        user_form = UserEditForm(instance=request.user)
-        profile_form = ProfileEditForm(
-                                    instance=request.user.profile)
+        else:
+            user_form = UserEditForm(instance=request.user)
+            profile_form = ProfileEditForm(instance=request.user.profile)
     return render(request,
                   'account/edit.html',
                   {'user_form': user_form,
                    'profile_form': profile_form})
+
+@login_required
+def profile(request):
+    return HttpResponse("Here is your profile")

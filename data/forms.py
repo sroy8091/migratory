@@ -5,12 +5,14 @@ from .models import Bird
 
 
 class ContractForm(forms.Form):
-    species = forms.CharField()
+    end_date = forms.DateField(widget=AdminDateWidget)
     state = forms.CharField()
+    iba_code = forms.BooleanField(required=False)
+    forest_type = forms.BooleanField(required=False)
 
 
 class DownloadForm(forms.Form):
-    species = forms.CharField(widget=forms.HiddenInput)
+    # species = forms.CharField(widget=forms.HiddenInput)
     state = forms.CharField(widget=forms.HiddenInput)
 
 

@@ -7,7 +7,7 @@
     <title>CSVLayer sample</title>
     <link rel="stylesheet" href="https://js.arcgis.com/3.20/esri/css/esri.css">
     <style>
-      html, body, #map {
+      html, body {
         height: 100%;
         width: 100%;
         margin: 0;
@@ -18,6 +18,10 @@
         overflow: hidden;
         font-family: "Trebuchet MS";
       }
+        #map{
+            height:50vw;
+            width: 100vw;
+        }
     </style>
     <script src="https://js.arcgis.com/3.20/"></script>
     <script>
@@ -56,9 +60,17 @@
         map.addLayer(csv);
       });
     </script>
+      <script>
+          var csv_btn = document.getElementById('change_btn');
+          csv_btn.on()
+      </script>
   </head>
 
   <body>
     <div id="map"></div>
+  <div>
+      <input id="change" type="url" placeholder="csv url here">
+      <button id="change_btn">fetch url</button>
+  </div>
   </body>
 </html>

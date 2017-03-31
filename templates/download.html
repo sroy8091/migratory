@@ -21,11 +21,16 @@
             <table border="1" cellspacing="0">
                 <th>Species</th>
                 <th>State</th>
+                <th>Iba Code</th>
+                <th>Forest Type</th>
                 {% for contract in contracts %}
                     <tr>
                         <td>{{ contract.species }}</td>
                         <td>{{ contract.state }}</td>
+                        <td>{{ contract.iba_code }}</td>
+                        <td>{{ contract.forest_type }}</td>
                     </tr>
+
                 {% endfor %}
             </table>
         {% endif %}
@@ -41,5 +46,16 @@
         </form>
     {% endif %}
 
+{% endblock %}
 
+{% block extrahead %}
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script>
+  $( function() {
+    $( "#id_start_date" ).datepicker();
+    $( "#id_end_date" ).datepicker();
+  } );
+  </script>
 {% endblock %}

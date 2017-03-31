@@ -1,0 +1,49 @@
+<base>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src=" http://cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js "></script>
+<script>
+  var csrftoken = $.cookie('csrftoken');
+  function csrfSafeMethod(method) {
+    // these HTTP methods do not require CSRF protection
+    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+  }
+  $.ajaxSetup({
+    beforeSend: function(xhr, settings) {
+      if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+        xhr.setRequestHeader("X-CSRFToken", csrftoken);
+      }
+    }
+  });
+  $(document).ready(function(){
+    {% block domready %}
+    {% endblock %}
+  });
+</script>
+</base>
+
+
+
+
+{% block domready %}
+    $("#mydiv").html("HEllo");
+  $('#upload').click(function(e){
+    e.preventDefault();
+    $.post('/data/upload/',
+      {
+        id: $(this).data('id'),
+{#        action: $(this).data('action')#}
+      },
+      function(data){
+        if (data['status'] == 'ok')
+        {
+          $("#mydiv").html("Hello World!");
+        }
+        else{
+            $("#mydiv").html("Bello");
+    }
+      }
+    );
+  });
+{% endblock %}

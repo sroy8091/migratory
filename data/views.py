@@ -14,26 +14,33 @@ def home(request):
 @login_required
 def download(request):
     form = ContractForm(request.POST or None)
-    contracts = None
+    species = None
+    end_date = None
     download_form = None
 
     if request.method == 'POST':
         if form.is_valid():
-            species = form.cleaned_data.get('species')
+            # species = form.cleaned_data.get('species')
             state = form.cleaned_data.get('state')
-
-            contracts = Bird.objects.filter(species=form.cleaned_data.get('species')).\
-                filter(state=form.cleaned_data.get('state')).filter()
+            end_date = form.cleaned_data.get('end_date')
+            iba_code = form.cleaned_data.get('iba_code')
+            forest_type = form.cleaned_data.get('forest_type')
+            # contracts = Bird.objects.filter(species=form.cleaned_data.get('species')).\
+            #     filter(state=form.cleaned_data.get('state')).filter()
+            species = Bird.objects.filter(end_date__range=["2017-02-01", end_date])
             # print(contracts)
 
         download_form = DownloadForm(initial={
-            'species': species,
-            'state': state
+            # 'species': species,
+            'state': state,
+            'end_date':end_date,
+            'iba_code':iba_code,
+            'forest_type':forest_type,
         })
     # print (download_form)
     # print (species)
     return render(request, 'download.html', {'form': form,
-                                             'contracts': contracts,
+                                             'contracts': species,
                                              'download_form': download_form})
 
 
@@ -69,7 +76,7 @@ def download_data(request):
             if form.is_valid():
                 species = form.cleaned_data.get('species')
                 state = form.cleaned_data.get('state')
-                # ending_date = form.cleaned_data.get('ending_date')
+                ending_date = form.cleaned_data.get('ending_date')
                 # assert species and state
                 contracts = get_csv_data(species, state)
                 # assert contracts
@@ -80,7 +87,6 @@ def download_data(request):
     attachment = 'bird_data.csv'
     response = HttpResponse(content_type='text/csv')
     response['Content-Disposition'] = 'attachment;filename="{}"'.format(attachment)
-    response.write(contracts)
     return response
 
 
@@ -106,14 +112,12 @@ def upload(request):
     if request.method=='POST':
         form = BirdForm(request.POST)
         if form.is_valid():
-            d = form.cleaned_data
-            print(d['species'])
             form.save()
+
             return HttpResponse('Succcess')
         else:
             d = form.cleaned_data
-            print(d)
-            form.save(commit=True)
+            print(form.errors)
             return HttpResponse('Not Uploaded')
 
     else:

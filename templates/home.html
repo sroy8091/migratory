@@ -1,23 +1,40 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends 'base.html' %}
+{% block extrahead %}
 <head>
   <title>Home</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<!-- GTranslate: https://gtranslate.io/ -->
+<style type="text/css">
+<!--
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-te-gadget-icon {background-image:url('/static/img/SIH_logo.jpg') !important;background-position:0 0 !important;}
+body {top:0 !important;}
+-->
+</style>
 
-</head>
+<script type="text/javascript">
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE,autoDisplay: false, includedLanguages: ''}, 'google_translate_element');}
+</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
+
 </head>
 <body>
-
+{% endblock %}
+{% block content %}
 <div class="container">
+<div id="google_translate_element"></div>
   <h2>Choose Your Path</h2>
 </div>
     <a href="/data/upload"><button type="button" class="btn btn-primary">Upload</button></a>
-<a href="/data/search"><button type="button" class="btn btn-success">Download</button></a>
-<a href="/account/register"><button type="button" class="btn btn-danger">Register</button></a>
-
+    <a href="/data/search"><button type="button" class="btn btn-success">Download</button></a>
+    <a href="/account/register"><button type="button" class="btn btn-danger">Register</button></a>
+{% endblock %}
 </body>
 </html>
