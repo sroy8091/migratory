@@ -1,0 +1,210 @@
+
+.col-lg-1, .col-md-1, .col-sm-1, .col-xs-1, .col-lg-2, .col-md-2, .col-sm-2, .col-xs-2, .col-lg-3, .col-md-3, .col-sm-3, .col-xs-3, .col-lg-4, .col-md-4, .col-sm-4, .col-xs-4, .col-lg-5, .col-md-5, .col-sm-5, .col-xs-5, .col-lg-6, .col-md-6, .col-sm-6, .col-xs-6, .col-lg-7, .col-md-7, .col-sm-7, .col-xs-7, .col-lg-8, .col-md-8, .col-sm-8, .col-xs-8, .col-lg-9, .col-md-9, .col-sm-9, .col-xs-9, .col-lg-10, .col-md-10, .col-sm-10, .col-xs-10, .col-lg-11, .col-md-11, .col-sm-11, .col-xs-11, .col-lg-12, .col-md-12, .col-sm-12, .col-xs-12 {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background : linear-gradient(rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1),rgba(255,225,255,1), rgba(225,255,255,1), rgba(255,255,225,1), );
+}
+
+.footer {
+	background-color: #9e9e9e;
+  	background-image: linear-gradient(to bottom, #9e9e9e, #454545);
+  	text-align: center;
+	padding: 10px 0px;
+	font-size: 16px;
+	color: white;
+}
+
+.vr {
+	height: 135px;
+	width: 6px;
+	position: absolute;
+}
+
+.viz_link {
+	color: white;
+	font-weight: bolder;
+	font-style: normal;
+}
+
+.viz_link:hover {
+	color: rgba(255,255,255,0.7);
+	font-style: underline;
+}
+
+h4 {
+	font-weight: bold;
+
+}
+
+.orange {
+	color: orange;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: green;
+}
+#college_name {
+	border: 1px black solid;
+	padding: 3px;
+}
+
+.resizer {
+	background-color: rgba(0,0,0,0.6);
+	border-radius: 50%;
+	padding: 5px;
+	margin: 2px;
+	color: white;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.resize_ele {
+	text-align: right;
+}
+.banner {
+	padding: 10px;
+	margin: 5px 0px;
+	background: -webkit-linear-gradient(top,#1eb2df, #17a7d2);
+	color: white;
+}
+.login {
+	text-align: left;
+	align-content: left;
+}
+.site_title {
+	font-size: 30px;
+	vertical-align: center;
+	height: 80px;
+	padding-top: 20px;
+}
+.hack_logo {
+	text-align: left;
+	align-content: left;
+}
+.theme {
+	border: 2px grey solid;
+	border-radius: 5px;
+	cursor: pointer; 
+}
+#theme1 {
+	background-color: #85BE00;
+}
+#theme2 {
+	background-color: #FF9933;
+}
+.sub_container { 
+	margin: 10px 55px;
+	padding: 0px;
+}
+.heading {
+	background-color: #85BE00;
+	padding: 5px;
+	margin: 0px;
+	font-weight: bold;
+	color: white;
+}
+
+.content {
+	border-left: 1px black solid;
+	border-right: 1px black solid;
+	border-bottom: 1px black solid;
+	border-radius: 5px; 
+}
+
+@import url(http://fonts.googleapis.com/css?family=Patua+One);
+
+#ribbon {
+		padding: .34em 1em;
+		margin: 0;
+		margin-top: 5%;
+		position:relative;
+		color: #ffffff;
+		font: 18px 'Patua One', sans-serif;
+		text-align: center;
+		letter-spacing:0.1em;
+		text-shadow: 0px -1px 0px rgba(0,0,0,0.3);
+		box-shadow: inset 0px 1px 0px rgba(255,255,255,.3),
+					inset 0px 0px 20px rgba(0,0,0,0.1),
+					0px 1px 1px rgba(0,0,0,0.4);
+		 background: -webkit-linear-gradient(top,#1eb2df, #17a7d2);
+      display: inline-block;
+}
+	
+#ribbon:before, #ribbon:after {
+		content: "";
+		width:.2em;
+		bottom:-.5em;
+		position:absolute;
+		display:block;
+		border: .9em solid #1eb2df;
+		box-shadow:0px 1px 0px rgba(0,0,0,0.4);
+		z-index:-2;
+}
+	
+#ribbon:before {
+		left:-1.35em;
+		border-right-width: .75em;
+		border-left-color:transparent;
+}
+	
+#ribbon:after {
+		right:-1.35em;
+		border-left-width: .75em;
+		border-right-color:transparent;
+}
+	
+#content:before, #content:after {
+		content:"";
+		bottom:-.5em;
+		position:absolute;
+		display:block;
+		border-style:solid;
+		border-color: #0675b3 transparent transparent transparent;
+		z-index:-1;
+}
+	
+#content:before {
+	  left: 0;
+	  border-width: .5em 0 0 .5em;
+}
+	
+#content:after {
+	  right: 0;
+	  border-width: .5em .5em 0 0;
+}
+
+#goog-gt-tt {
+	display:none !important;
+}
+
+.goog-te-banner-frame {
+	display:none !important;
+}
+
+.goog-te-menu-value:hover {
+	text-decoration:none !important;
+}
+
+.goog-te-gadget-icon {
+	background-image:url('/static/img/SIH_logo.jpg') !important;
+	background-position:0 0 !important;
+}
+
+.header_1_1 {
+	padding: 0px 10px;
+}
+
+.header_1_3 {
+	padding: 5px 5px;
+	align-items: right;
+	text-align: right;
+}
+
+#login_name {
+	font-weight: bolder;
+	color: white;	
+}
