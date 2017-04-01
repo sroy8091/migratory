@@ -1,7 +1,8 @@
 from django.contrib.auth.models import User
 from django.contrib.admin.widgets import AdminDateWidget
 from django import forms
-from .models import Bird
+from .models import Observation
+from account.models import user
 
 
 class ContractForm(forms.Form):
@@ -16,14 +17,14 @@ class DownloadForm(forms.Form):
     state = forms.CharField(widget=forms.HiddenInput)
 
 
-class BirdForm(forms.ModelForm):
-    def __init__(self, *args, **kwargs):
-        super(BirdForm, self).__init__(*args, **kwargs)
-        type_of_loc = (('BREEDING POINT', 'BREEDING POINT'), ('STOPPING POINT', 'STOPPING POINT'))
-        self.fields['type_of_location'] = forms.ChoiceField(choices=type_of_loc, widget=forms.RadioSelect())
-        self.fields['start_date'] = forms.DateField(widget=AdminDateWidget)
-        self.fields['end_date'] = forms.DateField(widget=AdminDateWidget)
-
+class Observation_form(forms.ModelForm):
     class Meta:
-        model = Bird
-        fields = '__all__'
+        model = Observation
+        fields = ['iba_code', 'start', 'duration', 'protocol_type', 'trip_comments']
+
+
+class Observation_edit_form(forms.ModelForm):
+    class Meta:
+        model = Observation
+        fields = ['iba_code', 'start', 'duration', 'protocol_type', 'trip_comments']
+

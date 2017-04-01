@@ -1,48 +1,177 @@
-{% extends 'admin/base_site.html' %}
-{% load i18n %}
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script>
-  $(document).ready(function(){
-    {% block domready %}
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block title %}
+	<title>Bird Monitor</title>
     {% endblock %}
-     });
-</script>
 
-{% block branding %}
-    <h1>Migratory Birds of India</h1>
-{% endblock %}
+	<meta charset="utf-8">
+	<meta name="keywords" content="monitor migration birds population India india ">
+	<meta name="description" content="Monitoring migratory birds population in India">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<script type="text/javascript" src="{% static 'js/translate.js' %}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src=" http://cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js "></script>
+    <!--ADDED SCRIPT FOR LANGUAGE-->
+    <script type="text/javascript">
 
-{% block content %}
-{#    <div id="header">#}
-{#  <span class="logo">Bookmarks</span>#}
-{#  {% if request.user.is_authenticated %}#}
-{#    <ul class="menu">#}
-{#      <li {% if section == "dashboard" %}class="selected"{% endif %}>#}
-{#        <a href="{% url "dashboard" %}">My dashboard</a>#}
-{#      </li>#}
-{#      <li {% if section == "images" %}class="selected"{% endif %}>#}
-{#        <a href="#">Images</a>#}
-{#      </li>#}
-{#      <li {% if section == "people" %}class="selected"{% endif %}>#}
-{#        <a href="#">People</a>#}
-{#      </li>#}
-{#    </ul>#}
-{#  {% endif %}#}
-{% endblock %}
-  <span class="user">
-    {% if request.user.is_authenticated %}
-      Hello {{ request.user.first_name }},
-      <a href="{% url "logout" %}">Logout</a>
-    {% else %}
-      <a href="{% url "login" %}">Log-in</a>
-    {% endif %}
-  </span>
-</div>
-{#{% endblock %}#}
-
-
+        window.onload = function() {
+            function foo() {
+                document.getElementById("body").style.padding = "0";
+                document.getElementById("body").style.top = "0";
+            }
+            setInterval(foo, 50);
+        }
+    </script>
+    <!--ADDED SCRIPT ENDS-->
+    <script>
+      var csrftoken = $.cookie('csrftoken');
+      function csrfSafeMethod(method) {
+        // these HTTP methods do not require CSRF protection
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+      }
+      $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+          if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+            xhr.setRequestHeader("X-CSRFToken", csrftoken);
+          }
+        }
+      });
+      $(document).ready(function(){
+        {% block domready %}
+        {% endblock %}
+      });
+    </script>
+	<link rel="stylesheet" href="{% static 'css/main.css' %}">
 {% block extrahead %}
-
 {% endblock %}
+</head>
+
+<body id="body">
+	<!--HEADER STARTS-->
+	<div class="header col-lg-12 col-md-12 col-sm-12 col-xs-12" id="header">
+
+		<!--HEADER ROW 1-->
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+		<!--HEADER PART 1-->
+			<div class="header_1_1 col-lg-6 col-md-6 col-sm-6 col-xs-6" id="header1">
+				<img src="{% static 'img/india.gif' %}" alt="Map of India">
+				BreakThrough <span style="font-size: 20px;">| </span>
+				<span id="college_name">
+					<span class="data orange">Kalyani Govt.</span>
+					<span class="data blue">Engineering</span>
+					<span class="data green">College</span>
+
+				</span>
+			</div>
+
+		<!--HEADER PART 2-->
+			<div class="resize_ele col-lg-3 col-md-3 col-sm-3 col-xs-3" id="header2">
+				<span id="fontneg" class="resizer" onclick="fontneg()">A-</span>
+				<span id="fontneu" class="resizer" onclick="fontneu()">&nbsp;A&nbsp;</span>
+				<span id="fontpos" class="resizer" onclick="fontpos()">A+</span>
+				<span style="font-size: 20px;">| </span>
+				<span id="theme1" class="theme" onclick="themechange1()">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+				<span id="theme2" class="theme" onclick="themechange2()">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+			</div>
+
+		<!--HEADER PART 3-->
+			<div class="header_1_3 col-lg-3 col-md-3 col-sm-3 col-xs-3" id="header3">
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+				</div>
+				<div class="translator col-lg-8 col-md-8 col-sm-8 col-xs-8" id="google_translate_element">
+				</div>
+			</div>
+
+		</div>
+		<!--HEADER ROW 1 ENDS-->
+
+
+		<!--HEADER ROW 2 STARTS-->
+
+		<div class="banner col-lg-12 col-md-12 col-sm-12 col-xs-12" id="banner1">
+
+		<!--HEADER PART 1-->
+			<div class="hack_logo col-lg-3 col-md-3 col-sm-6 col-xs-6">
+				<a href="/"> <img src="{% static 'img/smart_india.png' %}" style="height: 80px; width: auto;"></a>
+			</div>
+
+		<!--HEADER PART 2-->
+			<div class="site_title col-lg-6 col-md-6 hidden-sm hidden-xs">
+                <center><h1 style="margin-top: 0px;">Monitoring Birds in India</h1></center>
+			</div>
+
+		<!--HEADER PART 3-->
+			<div class="login col-lg-3 col-md-3 col-sm-6 col-xs-6" style="text-align: center; padding-left: 15%;">
+				<img src="{% static 'img/login.png' %}" style="width: auto; height: 60px; padding-top: 10px; padding-bottom: 3px;">
+				<div class="link_portal">
+                    {% if user.is_authenticated %}
+                        <p>{{ user.username }}</p>
+                    {% else %}
+					<a href="/account/login" id="login_name">Login / Register</a>
+                    {% endif %}
+				</div>
+			</div>
+
+		</div>
+
+		<!--HEADER ROW 2 ENDS-->
+
+	</div>
+	<!--HEADER ENDS-->
+
+	<!--MAIN CONTAIINER STARTS-->
+
+	{% block content %}
+    {% endblock %}
+	<!--MAIN CONTAINER ENDS-->
+
+	<!--FOOTER STARTS-->
+	<div class="footer col-lg-12 col-md-12 col-sm-12 col-xs-12" id="footer">
+
+        <div class="col-lg-3 col-md-3 col-sm-5 col-xs-5" id="footer3">
+        </div>
+		<!--FOOTER PART 1-->
+		<div class="col-lg-3 col-md-3 col-sm-5 col-xs-5" id="footer1">
+            <p><h4>QUICK LINKS</h4></p>
+			<div class="link_portal col-lg-6 col-md-6 col-sm-6 col-xs-6">
+				<p><a href="" class="viz_link">Pollution</a></p>
+				<p><a href="" class="viz_link">Landslide</a></p>
+				<p><a href="" class="viz_link">Air Temperature</a></p>
+			</div>
+			<div class="link_portal col-lg-6 col-md-6 col-sm-6 col-xs-6">
+				<p><a href="" class="viz_link">Population Density</a></p>
+				<p><a href="" class="viz_link">Forest Cover</a></p>
+				<p><a href="" class="viz_link">Climate</a></p>
+			</div>
+		</div>
+
+		<!--FOOTER PART VERTICAL RULE-->
+		<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1" id="footervr">
+			<img src="{% static 'mat/vr2.png' %}" class="vr">
+		</div>
+
+		<!--FOOTER PART 2-->
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6" id="footer2">
+			<div class="link_portal col-lg-2 col-md-2 col-sm-6 col-xs-6">
+				<h4>&nbsp;</h4>
+				<p><a href="" class="viz_link">Upload Data</a></p>
+				<p><a href="" class="viz_link">View Data</a></p>
+				<p><a href="" class="viz_link">Bird Profiles</a></p>
+			</div>
+		</div>
+
+	</div>
+	<!--FOOTER ENDS-->
+
+</body>
+{% block extrascripts %}
+{% endblock %}
+</html>

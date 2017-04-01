@@ -83,7 +83,7 @@ class iba(models.Model):
     iba_code = models.CharField(max_length=50)
     site_name = models.CharField(max_length=50)
     state = models.ForeignKey(state)
-    area = models.FloatField()
+    area = models.FloatField(null=True)
     status = models.ForeignKey(iba_status)
 
     def __str__(self):

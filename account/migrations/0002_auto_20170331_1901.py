@@ -45,11 +45,4 @@ class Migration(migrations.Migration):
                 ('objects', django.contrib.auth.models.UserManager()),
             ],
         ),
-        migrations.RemoveField(
-            model_name='profile',
-            name='user',
-        ),
-        migrations.DeleteModel(
-            name='Profile',
-        ),
     ]

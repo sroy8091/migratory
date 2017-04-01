@@ -1,9 +1,11 @@
 from django.shortcuts import render
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.decorators import login_required
-from django.http import HttpResponse
-from .forms import ContractForm, DownloadForm, BirdForm
-from .models import Bird
+from django.http import HttpResponse, JsonResponse
+from django.utils import timezone
+from .forms import ContractForm, DownloadForm, Observation_form
+from .models import Observation
+from account.models import user
 
 
 # Create your views here.
@@ -27,7 +29,7 @@ def download(request):
             forest_type = form.cleaned_data.get('forest_type')
             # contracts = Bird.objects.filter(species=form.cleaned_data.get('species')).\
             #     filter(state=form.cleaned_data.get('state')).filter()
-            species = Bird.objects.filter(end_date__range=["2017-02-01", end_date])
+            species = Observation.objects.filter(end_date__range=["2017-02-01", end_date])
             # print(contracts)
 
         download_form = DownloadForm(initial={
@@ -110,10 +112,13 @@ The user's browser will handle that as a download file automatically.
 def upload(request):
 
     if request.method=='POST':
-        form = BirdForm(request.POST)
+        form = Observation_form(request.POST)
         if form.is_valid():
-            form.save()
 
+            f = form.save(commit=False)
+
+            f.user = user.objects.get(username=request.user)
+            f.save()
             return HttpResponse('Succcess')
         else:
             d = form.cleaned_data
@@ -121,5 +126,24 @@ def upload(request):
             return HttpResponse('Not Uploaded')
 
     else:
-        form = BirdForm()
-        return render(request, 'upload.html',{'form': form})
+        form = Observation_form()
+        return render(request, 'data/upload.html', {'form': form})
+
+def list_of_contrib(request):
+    obj = Observation.objects.filter(user=request.user)
+    print(obj)
+    return render(request, 'data/list_contrib.html', {'obj':obj})
+
+def upload_edit(request):
+    pass
+
+
+def view_more(request):
+    image_id = request.GET.get('id')
+    # action = request.POST.get('action')
+    if image_id=="12":
+        try:
+            return JsonResponse({'status':'ok'})
+        except:
+            pass
+    return JsonResponse({'status':'ko'})

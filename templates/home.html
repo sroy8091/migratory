@@ -1,40 +1,106 @@
 {% extends 'base.html' %}
+{% load staticfiles %}
 {% block extrahead %}
-<head>
-  <title>Home</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<!-- GTranslate: https://gtranslate.io/ -->
-<style type="text/css">
-<!--
-#goog-gt-tt {display:none !important;}
-.goog-te-banner-frame {display:none !important;}
-.goog-te-menu-value:hover {text-decoration:none !important;}
-.goog-te-gadget-icon {background-image:url('/static/img/SIH_logo.jpg') !important;background-position:0 0 !important;}
-body {top:0 !important;}
--->
-</style>
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+{% endblock %}
+{% block domready %}
+$('#view').click(function(e){
+    e.preventDefault();
+    $.get('/data/view_more',
+      {
+        id: $(this).data('id'),
+{#action: $(this).data('action')#}
+      },
+      function(data){
+        if (data['status'] == 'ok')
+        {
 
-<script type="text/javascript">
-function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE,autoDisplay: false, includedLanguages: ''}, 'google_translate_element');}
-</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-
-
-
-</head>
-<body>
+            $("#mydiv").append("<div class='col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6'><div class='profile col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6'><img src='{% static 'img/s_id2 Cropped.jpg' %}' class='bird_pic' style='width: 100%; height: 100%; padding:0px 10px;'></div><div class='bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6'><div class='bird_name'>Northern Goshawk</div><div class='sci_name'>Accipiter gentilis</div><div class='bird_desc'>The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div><div class='frequency'>View %: <progress value='45' max='100' title='percentage'></progress></div><div class='view_profile'><a href='' target='_blank'><button name='view' class='view_button'>View Profile</button></a></div></div></div></div> <div class='bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6'><div class='profile col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6'><img src='{% static 'img/s_id2 Cropped.jpg' %}' class='bird_pic' style='width: 100%; height: 100%; padding:0px 10px;'></div><div class='bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6'><div class='bird_name'>Northern Goshawk</div><div class='sci_name'>Accipiter gentilis</div><div class='bird_desc'>The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div><div class='frequency'>View %: <progress value='45' max='100' title='percentage'></progress></div><div class='view_profile'><a href='' target='_blank'><button name='view' class='view_button'>View Profile</button></a></div></div></div></div> <div class='bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6'><div class='profile col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6'><img src='{% static 'img/s_id2 Cropped.jpg' %}' class='bird_pic' style='width: 100%; height: 100%; padding:0px 10px;'></div><div class='bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6'><div class='bird_name'>Northern Goshawk</div><div class='sci_name'>Accipiter gentilis</div><div class='bird_desc'>The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div><div class='frequency'>View %: <progress value='45' max='100' title='percentage'></progress></div><div class='view_profile'><a href='' target='_blank'><button name='view' class='view_button'>View Profile</button></a></div></div></div></div></div>");
+        }
+        else{
+            $("#mydiv").html("Bello World");
+        }
+      }
+    );
+  });
 {% endblock %}
 {% block content %}
-<div class="container">
-<div id="google_translate_element"></div>
-  <h2>Choose Your Path</h2>
+<div class="main_container col-lg-12 col-md-12 col-sm-12 col-xs-12" id="header">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="map_view">
+			<iframe width="100%" height="400px" src="/visualize" style="border:0; padding: 0px; margin: 0px;">
+			</iframe>
+{#            <center><h1>Visualisation</h1></center>#}
+		</div>
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+			<div class="banner heading col-lg-12 col-md-12 col-sm-12 col-xs-12" >
+				<div class="bird_profile_header">BIRD PROFILES</div>
+			</div>
+            <div id="mydiv">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6">
+					<div class="profile col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<div class="bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<img src="{% static 'img/s_id2 Cropped.jpg' %}" class="bird_pic" style="width: 100%; height: 100%; padding:0px 10px;">
+						</div>
+						<div class="bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<div class="bird_name">Northern Goshawk</div>
+							<div class="sci_name">Accipiter gentilis</div>
+							<div class="bird_desc">The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div>
+							<div class="frequency">
+								View %: <progress value="45" max="100" title="percentage"></progress>
+							</div>
+							<div class="view_profile">
+								<a href="" target="_blank">
+									<button name="view" class="view_button">View Profile</button>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+                <div class="bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6">
+					<div class="profile col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<div class="bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<img src="{% static 'img/s_id2 Cropped.jpg' %}" class="bird_pic" style="width: 100%; height: 100%; padding:0px 10px;">
+						</div>
+						<div class="bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<div class="bird_name">Northern Goshawk</div>
+							<div class="sci_name">Accipiter gentilis</div>
+							<div class="bird_desc">The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div>
+							<div class="frequency">
+								View %: <progress value="45" max="100" title="percentage"></progress>
+							</div>
+							<div class="view_profile">
+								<a href="" target="_blank">
+									<button name="view" class="view_button">View Profile</button>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+                <div class="bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6">
+					<div class="profile col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<div class="bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<img src="{% static 'img/s_id2 Cropped.jpg' %}" class="bird_pic" style="width: 100%; height: 100%; padding:0px 10px;">
+						</div>
+						<div class="bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<div class="bird_name">Northern Goshawk</div>
+							<div class="sci_name">Accipiter gentilis</div>
+							<div class="bird_desc">The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div>
+							<div class="frequency">
+								View %: <progress value="45" max="100" title="percentage"></progress>
+							</div>
+							<div class="view_profile">
+								<a href="" target="_blank">
+									<button name="view" class="view_button">View Profile</button>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 </div>
-    <a href="/data/upload"><button type="button" class="btn btn-primary">Upload</button></a>
-    <a href="/data/search"><button type="button" class="btn btn-success">Download</button></a>
-    <a href="/account/register"><button type="button" class="btn btn-danger">Register</button></a>
+            <center><a id="view" href="#" data-id="12"><button name="view" class="view_button">View More</button></a></center>
+		</div>
+	</div>
 {% endblock %}
-</body>
-</html>

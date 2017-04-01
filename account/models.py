@@ -1,18 +1,10 @@
-from django.db import models
-from django.conf import settings
-
-
 # Create your models here.
-class Profile(models.Model):
-    user = models.OneToOneField(settings.AUTH_USER_MODEL)  # using settings to make code generic
-    date_of_birth = models.DateField(blank=True, null=True)
-    photo = models.ImageField(upload_to='users/%Y/%m/%d',
-                              blank=True)
-
-    def __str__(self):
-        return 'Profile for user {}'.format(self.user.username)
+from django.db import models
+from django.contrib.auth.models import AbstractUser
 
 
-'''
-we should use settings.AUTH_USER_MODEL and get_user_model()
-'''
+class user(AbstractUser):
+    gen = (("Male", "MALE"),("Female", "FEMALE"))
+    age = (("Below 18", "Below 18"), ("18 to 25", "18 to 25"), ("26 to 35", "26 to 35"), ("Above 35", "Above 35"))
+    gender = models.CharField(max_length=6, choices=gen, blank=False, null=True)
+    age = models.CharField(max_length=15, choices=age, blank=False, null=True)

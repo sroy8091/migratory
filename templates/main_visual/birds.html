@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Circles</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+        #floating-header {
+        position: absolute;
+        top: 70%;
+        left: 65%;
+        background-color: #fff;
+        border: 0.25px solid #999;
+        border-radius: 25px;
+        z-index: 5;
+        padding: 5px;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+    </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../static/css/map.css">
+  </head>
+  <body>
+	<div id="floating-panel">
+      <button onclick="filterByMonth('Jan')">Jan</button>
+      <button onclick="filterByMonth('Feb')">Feb</button>
+      <button onclick="filterByMonth('Mar')">March</button>
+      <button onclick="showAll()">All</button>
+    	</div>
+	    <div id="floating-header">
+	      <h4 style="color:#8612C9"> Recorded Bird Observations <br> (Past 3 months) </h4>
+        </div>
+    <div id="map"></div>
+    <script>
+      // This example creates circles on the map, representing populations in North
+      // America.
+
+      // First, create an object containing LatLng and population for each city.
+
+      var circles = [];
+      var showOpacity = 0.3;
+      var hideOpacity = 0.0;
+
+      function initMap() {
+	var citymap;
+	$.getJSON("/media/sider.json", function(result){
+		citymap = result;
+
+                console.log(citymap.length);
+		var map = new google.maps.Map(document.getElementById('map'), {
+		  zoom: 5,
+		  center: {lat: 22.5937, lng: 78.9629},
+		  styles: [
+  {
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "elementType": "labels",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#bec8ca"
+      },
+      {
+        "weight": 1.5
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#bdbdbd"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.neighborhood",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.province",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#a6be9e"
+      },
+      {
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.business",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#ffffff"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "road.arterial",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dadada"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "featureType": "road.local",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#c9c9c9"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  }
+]
+
+		});
+
+		// Construct the circle for each value in citymap.
+		// Note: We scale the area of the circle based on the population.
+		var cityCircle;
+		console.log(citymap.length);
+		for (var city in citymap) {
+		  cityCircle = new google.maps.Circle({
+		    strokeColor: '#8612C9',
+		    strokeOpacity: 0.0,
+		    strokeWeight: 2,
+		    fillColor: '#8612C9',
+		    fillOpacity: showOpacity,
+		    map: map,
+		    center: {lat:citymap[city].latitude, lng:citymap[city].longitude},
+		    radius: 20000,
+                    day_no: citymap[city].day_no,
+                    month_name: citymap[city].month_name,
+                    year: citymap[city].year,
+                    show: true
+		  });
+
+		    circles.push(cityCircle);
+		   
+		}
+
+	});
+     }
+
+	
+	function showByMonth(month_name) {
+             circles.forEach(function(c){
+		if(c.month_name==month_name)
+                    c.setOptions({fillOpacity:showOpacity});
+	     });
+	}
+
+        function hideByMonth(month_name) {
+             circles.forEach(function(c){
+		if(c.month_name!=month_name)
+                    c.setOptions({fillOpacity:hideOpacity});
+	     });
+	}
+        
+        function filterByMonth(month_name) {
+             circles.forEach(function(c){
+		if(c.month_name==month_name)
+                    c.setOptions({fillOpacity:showOpacity});
+                else
+                    c.setOptions({fillOpacity:hideOpacity});
+	     });
+	}
+
+        function showAll() {
+             circles.forEach(function(c){
+                 c.setOptions({fillOpacity:showOpacity});
+	     });
+	}
+        
+
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCbLDaUFsoSUH9Dx4R9eDVovC9Ldsky_UQ&callback=initMap">
+    </script>
+  </body>
+</html>
