@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "species_name": "Whistling duck",
+    "species_name": "Whistling Duck",
     "count": 500,
     "observer_name": "Tarun Menon",
     "location_name": "Deepor Beel WLS",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "species_name": "Tundra Bean-Goose",
+    "species_name": "Tundra Bean-goose",
     "count": 1,
     "observer_name": "Atanu Modak",
     "location_name": "Teesta Barrage, Gajoldoba",
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "species_name": "Taiga/Tundra Bean-Goose",
+    "species_name": "Taiga/tundra Bean-goose",
     "count": 1,
     "observer_name": "SANTANAB MAJUMDER",
     "location_name": "Teesta Barrage, Gajoldoba",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "species_name": "Domestic goose",
+    "species_name": "Domestic Goose",
     "count": 5,
     "observer_name": "Ramesh Ganeshan",
     "location_name": "Sankey Tank, Bangalore",
@@ -123,7 +123,7 @@
     "id": 11,
     "species_name": "Ruddy Shelduck",
     "count": 8,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -157,7 +157,7 @@
   },
   {
     "id": 14,
-    "species_name": "Cotton Pygmy-Goose",
+    "species_name": "Cotton Pygmy-goose",
     "count": 6,
     "observer_name": "raphy kallettumkara",
     "location_name": "Kole Wetlands--Thommana",
@@ -313,7 +313,7 @@
   },
   {
     "id": 27,
-    "species_name": "Dabbling duck",
+    "species_name": "Dabbling Duck",
     "count": 30,
     "observer_name": "Anish Aravind",
     "location_name": "IN-Kerala-Alleppey-688562 - 9.3752x76.3857",
@@ -351,7 +351,7 @@
     "id": 30,
     "species_name": "Red-crested Pochard",
     "count": 15,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -388,7 +388,7 @@
     "species_name": "Baer's Pochard",
     "count": 1,
     "observer_name": "Rofikul Islam",
-    "location_name": "Kaziranga National Park, Agaratali Range",
+    "location_name": "Kaziranga National Park",
     "latitude": 26.6923276,
     "longitude": 93.5498929,
     "month_name": "Jan",
@@ -436,7 +436,7 @@
     "species_name": "Red-breasted Merganser",
     "count": 1,
     "observer_name": "Ronit Dutta",
-    "location_name": "IN-Maharashtra-Unnamed Road - 19.384x72.852 - 26 Dec 2016 09:06",
+    "location_name": "IN-Maharashtra",
     "latitude": 19.3840241,
     "longitude": 72.8519209,
     "month_name": "Jan",
@@ -529,7 +529,7 @@
   },
   {
     "id": 47,
-    "species_name": "Red/Painted Spurfowl",
+    "species_name": "Red/painted Spurfowl",
     "count": 1,
     "observer_name": "Suhel Quader",
     "location_name": "Rishi Valley--School Campus",
@@ -541,7 +541,7 @@
   },
   {
     "id": 48,
-    "species_name": "Gray Peacock-Pheasant",
+    "species_name": "Gray Peacock-pheasant",
     "count": 1,
     "observer_name": "Andr√© Weiss",
     "location_name": "Jeypore Reserve Forest",
@@ -613,7 +613,7 @@
   },
   {
     "id": 56,
-    "species_name": "Jungle Bush-Quail",
+    "species_name": "Jungle Bush-quail",
     "count": 15,
     "observer_name": "Sumedh Jog",
     "location_name": "Bhopar, Dombivli, Maharashtra, India",
@@ -625,7 +625,7 @@
   },
   {
     "id": 57,
-    "species_name": "Rock Bush-Quail",
+    "species_name": "Rock Bush-quail",
     "count": 1,
     "observer_name": "Ajay  Gadikar",
     "location_name": "Farmville Tillore khurd",
@@ -637,7 +637,7 @@
   },
   {
     "id": 58,
-    "species_name": "Jungle/Rock Bush-Quail",
+    "species_name": "Jungle/rock Bush-quail",
     "count": 10,
     "observer_name": "Harshith JV",
     "location_name": "Hampi",
@@ -649,7 +649,7 @@
   },
   {
     "id": 59,
-    "species_name": "Painted Bush-Quail",
+    "species_name": "Painted Bush-quail",
     "count": 3,
     "observer_name": "Rajinikanth Kasthuri",
     "location_name": "IN - 11.442x76.824 - Oct 3, 2016 14:43",
@@ -709,7 +709,7 @@
   },
   {
     "id": 64,
-    "species_name": "Mountain Bamboo-Partridge",
+    "species_name": "Mountain Bamboo-partridge",
     "count": 3,
     "observer_name": "S S Cheema",
     "location_name": "Khonoma Nature Conservation and Tragopan Sanctuary (KNCTS)--Parking Lot",
@@ -901,7 +901,7 @@
   },
   {
     "id": 81,
-    "species_name": "storm-petrel sp. (white-rumped)",
+    "species_name": "Storm Petrel (white-rumped)",
     "count": 1,
     "observer_name": "Shakti vel",
     "location_name": "Cheriyam Island",
@@ -915,7 +915,7 @@
     "id": 82,
     "species_name": "Asian Openbill",
     "count": 3,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -957,18 +957,6 @@
     "longitude": 75.9966946,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 86,
-    "species_name": "Ciconia sp.",
-    "count": 1,
-    "observer_name": "shino jacob koottanad",
-    "location_name": "Kole Wetlands--Uppungal",
-    "latitude": 10.6925775,
-    "longitude": 75.9966946,
-    "month_name": "Jan",
-    "day_no": 7,
     "year": 2017
   },
   {
@@ -1035,7 +1023,7 @@
     "id": 92,
     "species_name": "Little Cormorant",
     "count": 30,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -1069,7 +1057,7 @@
   },
   {
     "id": 95,
-    "species_name": "Little/Indian Cormorant",
+    "species_name": "Little/indian Cormorant",
     "count": 91,
     "observer_name": "Kannan U L",
     "location_name": "Kole Wetlands--Manakodi",
@@ -1083,7 +1071,7 @@
     "id": 96,
     "species_name": "Oriental Darter",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -1179,7 +1167,7 @@
     "id": 104,
     "species_name": "Gray Heron",
     "count": 6,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -1225,7 +1213,7 @@
   },
   {
     "id": 108,
-    "species_name": "Great/Intermediate Egret",
+    "species_name": "Great/intermediate Egret",
     "count": 500,
     "observer_name": "naturesociety kottayam",
     "location_name": "smruthyvanam",
@@ -1249,7 +1237,7 @@
   },
   {
     "id": 110,
-    "species_name": "Western Reef-Heron",
+    "species_name": "Western Reef-heron",
     "count": 1,
     "observer_name": "Dhaval  Vargiya",
     "location_name": "Rukmavati River",
@@ -1261,7 +1249,7 @@
   },
   {
     "id": 111,
-    "species_name": "Little Egret/Western Reef-Heron",
+    "species_name": "Little Egret/western Reef-heron",
     "count": 1,
     "observer_name": "Surjeet Pathania",
     "location_name": "IN - 31.963x76.142 - 28-Jan-2017 9:26 am",
@@ -1273,7 +1261,7 @@
   },
   {
     "id": 112,
-    "species_name": "Pacific Reef-Heron",
+    "species_name": "Pacific Reef-heron",
     "count": 1,
     "observer_name": "Milan Sojitra",
     "location_name": "Saddle Peak NP",
@@ -1297,7 +1285,7 @@
   },
   {
     "id": 114,
-    "species_name": "Indian Pond-Heron",
+    "species_name": "Indian Pond-heron",
     "count": 3,
     "observer_name": "Deepa Mohan",
     "location_name": "Ramdevara Betta, Ramanagara",
@@ -1321,7 +1309,7 @@
   },
   {
     "id": 117,
-    "species_name": "Black-crowned Night-Heron",
+    "species_name": "Black-crowned Night-heron",
     "count": 23,
     "observer_name": "Niranjana C",
     "location_name": "Kole Wetlands--Pullazhi",
@@ -1333,7 +1321,7 @@
   },
   {
     "id": 118,
-    "species_name": "Malayan Night-Heron",
+    "species_name": "Malayan Night-heron",
     "count": 1,
     "observer_name": "Rama Neelamegam",
     "location_name": "Indian Institute of Technology (IIT) Madras",
@@ -1377,18 +1365,6 @@
     "longitude": 77.5896851,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 122,
-    "species_name": "ibis sp.",
-    "count": 3,
-    "observer_name": "Madhusudhan Srinivasan",
-    "location_name": "Ontimamdi palli cheruvu",
-    "latitude": 17.8871352,
-    "longitude": 79.5465383,
-    "month_name": "Jan",
-    "day_no": 3,
     "year": 2017
   },
   {
@@ -1561,7 +1537,7 @@
   },
   {
     "id": 138,
-    "species_name": "Himalayan/Eurasian Griffon",
+    "species_name": "Himalayan/eurasian Griffon",
     "count": 11,
     "observer_name": "Chayant Gonsalves",
     "location_name": "IN-Himachal Pradesh-Chandigarh-Chintapurni-Dharamshala Road-Bharwain - - 31.816x76.144 - 04-Jan-2017 14:44",
@@ -1573,7 +1549,7 @@
   },
   {
     "id": 139,
-    "species_name": "Crested Serpent-Eagle",
+    "species_name": "Crested Serpent-eagle",
     "count": 2,
     "observer_name": "Anoop CR",
     "location_name": "Thirunelly, Thirunelly Rd",
@@ -1585,7 +1561,7 @@
   },
   {
     "id": 140,
-    "species_name": "Andaman Serpent-Eagle",
+    "species_name": "Andaman Serpent-eagle",
     "count": 1,
     "observer_name": "Milan Sojitra",
     "location_name": "Saddle Peak NP",
@@ -1597,7 +1573,7 @@
   },
   {
     "id": 141,
-    "species_name": "Short-toed Snake-Eagle",
+    "species_name": "Short-toed Snake-eagle",
     "count": 1,
     "observer_name": "Deepa Mohan",
     "location_name": "Ramdevara Betta, Ramanagara",
@@ -1609,7 +1585,7 @@
   },
   {
     "id": 142,
-    "species_name": "Changeable Hawk-Eagle",
+    "species_name": "Changeable Hawk-eagle",
     "count": 1,
     "observer_name": "Nitin Kapoor",
     "location_name": "IN-Uttarakhand-Ranikhet-263645 - 29.6402x79.4196",
@@ -1621,7 +1597,7 @@
   },
   {
     "id": 143,
-    "species_name": "Crested Hawk-Eagle",
+    "species_name": "Crested Hawk-eagle",
     "count": 1,
     "observer_name": "Divin Murukesh",
     "location_name": "Ela Blooms Cave",
@@ -1633,7 +1609,7 @@
   },
   {
     "id": 144,
-    "species_name": "Mountain Hawk-Eagle",
+    "species_name": "Mountain Hawk-eagle",
     "count": 2,
     "observer_name": "S S Cheema",
     "location_name": "Khonoma Nature Conservation and Tragopan Sanctuary (KNCTS)--Parking Lot",
@@ -1645,7 +1621,7 @@
   },
   {
     "id": 145,
-    "species_name": "Legge's Hawk-Eagle",
+    "species_name": "Legge's Hawk-eagle",
     "count": 1,
     "observer_name": "Harsha Jayaramaiah",
     "location_name": "SH-78 Hairpins",
@@ -1705,7 +1681,7 @@
   },
   {
     "id": 150,
-    "species_name": "Indian/Greater Spotted Eagle",
+    "species_name": "Indian/greater Spotted Eagle",
     "count": 1,
     "observer_name": "Mohammed Saleem",
     "location_name": "sulur aachankulam",
@@ -1801,7 +1777,7 @@
   },
   {
     "id": 158,
-    "species_name": "Eurasian Marsh-Harrier",
+    "species_name": "Eurasian Marsh-harrier",
     "count": 3,
     "observer_name": "Kole Birders",
     "location_name": "Kole Wetlands--Adat--General Area",
@@ -1813,7 +1789,7 @@
   },
   {
     "id": 159,
-    "species_name": "Eastern Marsh-Harrier",
+    "species_name": "Eastern Marsh-harrier",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Agoratoli range, Kaziranga National Park",
@@ -1873,7 +1849,7 @@
   },
   {
     "id": 164,
-    "species_name": "Pallid/Montagu's Harrier",
+    "species_name": "Pallid/montagu's Harrier",
     "count": 1,
     "observer_name": "Krishnamoorthy Muthirulan",
     "location_name": "valara kulam",
@@ -1899,7 +1875,7 @@
     "id": 166,
     "species_name": "Shikra",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -1969,7 +1945,7 @@
   },
   {
     "id": 172,
-    "species_name": "White-bellied Sea-Eagle",
+    "species_name": "White-bellied Sea-eagle",
     "count": 1,
     "observer_name": "Mandar  Bhagat",
     "location_name": "Agacaim Tidal mudflats",
@@ -1981,10 +1957,10 @@
   },
   {
     "id": 173,
-    "species_name": "Pallas's Fish-Eagle",
+    "species_name": "Pallas's Fish-eagle",
     "count": 3,
     "observer_name": "Rofikul Islam",
-    "location_name": "Kaziranga National Park, Agaratali Range",
+    "location_name": "Kaziranga National Park",
     "latitude": 26.6923276,
     "longitude": 93.5498929,
     "month_name": "Jan",
@@ -2005,7 +1981,7 @@
   },
   {
     "id": 175,
-    "species_name": "Lesser Fish-Eagle",
+    "species_name": "Lesser Fish-eagle",
     "count": 1,
     "observer_name": "Garima Bhatia",
     "location_name": "Cauvery WLS",
@@ -2017,10 +1993,10 @@
   },
   {
     "id": 176,
-    "species_name": "Gray-headed Fish-Eagle",
+    "species_name": "Gray-headed Fish-eagle",
     "count": 2,
     "observer_name": "Rofikul Islam",
-    "location_name": "Kaziranga National Park, Agaratali Range",
+    "location_name": "Kaziranga National Park",
     "latitude": 26.6923276,
     "longitude": 93.5498929,
     "month_name": "Jan",
@@ -2029,7 +2005,7 @@
   },
   {
     "id": 177,
-    "species_name": "Lesser/Gray-headed Fish-Eagle",
+    "species_name": "Lesser/gray-headed Fish-eagle",
     "count": 2,
     "observer_name": "Subin Sudheendran",
     "location_name": "Cauvery WLS",
@@ -2256,18 +2232,6 @@
     "year": 2017
   },
   {
-    "id": 197,
-    "species_name": "Zapornia sp.",
-    "count": 1,
-    "observer_name": "Anonymous eBirder",
-    "location_name": "Kannankurichi (Mookaneri) Lake, Salem",
-    "latitude": 11.6875401,
-    "longitude": 78.1803417,
-    "month_name": "Jan",
-    "day_no": 14,
-    "year": 2017
-  },
-  {
     "id": 198,
     "species_name": "Watercock",
     "count": 1,
@@ -2292,18 +2256,6 @@
     "year": 2017
   },
   {
-    "id": 200,
-    "species_name": "swamphen sp.",
-    "count": 1,
-    "observer_name": "Nisargavedh Dhule",
-    "location_name": "Nakane Lake, Dhule",
-    "latitude": 20.886015,
-    "longitude": 74.7272873,
-    "month_name": "Feb",
-    "day_no": 20,
-    "year": 2017
-  },
-  {
     "id": 201,
     "species_name": "Eurasian Moorhen",
     "count": 1,
@@ -2317,7 +2269,7 @@
   },
   {
     "id": 202,
-    "species_name": "Eurasian Moorhen/Common Gallinule",
+    "species_name": "Eurasian Moorhen/common Gallinule",
     "count": 6,
     "observer_name": "Kaajal Dasgupta",
     "location_name": "Hazratpur wetlands Aonla",
@@ -2335,18 +2287,6 @@
     "location_name": "Kole Wetlands--Pullazhi",
     "latitude": 10.5239949,
     "longitude": 76.1580741,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 204,
-    "species_name": "gallinule/moorhen/coot sp.",
-    "count": 6,
-    "observer_name": "Vani Khanna",
-    "location_name": "nurmahal jalandhar",
-    "latitude": 31.0953265,
-    "longitude": 75.5884075,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -2415,7 +2355,7 @@
     "id": 210,
     "species_name": "Great Thick-knee",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -2485,7 +2425,7 @@
   },
   {
     "id": 216,
-    "species_name": "Pacific Golden-Plover",
+    "species_name": "Pacific Golden-plover",
     "count": 1,
     "observer_name": "Premchand Reghuvaran",
     "location_name": "Kole Wetlands--Mulloorkayal",
@@ -2497,7 +2437,7 @@
   },
   {
     "id": 217,
-    "species_name": "golden-plover sp.",
+    "species_name": "Golden Plover",
     "count": 25,
     "observer_name": "Kaustubh Rau",
     "location_name": "Coringa Wildlife Santuary",
@@ -2523,7 +2463,7 @@
     "id": 219,
     "species_name": "River Lapwing",
     "count": 4,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -2535,7 +2475,7 @@
     "id": 220,
     "species_name": "Yellow-wattled Lapwing",
     "count": 4,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -2592,20 +2532,8 @@
     "year": 2017
   },
   {
-    "id": 225,
-    "species_name": "lapwing sp.",
-    "count": 2,
-    "observer_name": "Gauri Achari",
-    "location_name": "Arlem bypass",
-    "latitude": 15.3035789,
-    "longitude": 73.9559591,
-    "month_name": "Jan",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 226,
-    "species_name": "Lesser Sand-Plover",
+    "species_name": "Lesser Sand-plover",
     "count": 2,
     "observer_name": "Raghavendra Mukundarao",
     "location_name": "Little Rann of Kachchh--Zinzuwada entry",
@@ -2617,7 +2545,7 @@
   },
   {
     "id": 227,
-    "species_name": "Greater Sand-Plover",
+    "species_name": "Greater Sand-plover",
     "count": 4,
     "observer_name": "Raghavendra Mukundarao",
     "location_name": "Little Rann of Kachchh--Zinzuwada entry",
@@ -2629,7 +2557,7 @@
   },
   {
     "id": 228,
-    "species_name": "Lesser/Greater Sand-Plover",
+    "species_name": "Lesser/greater Sand-plover",
     "count": 14,
     "observer_name": "raphy kallettumkara",
     "location_name": "Kole Wetlands--Thommana",
@@ -2689,9 +2617,9 @@
   },
   {
     "id": 233,
-    "species_name": "small plover sp.",
+    "species_name": "Small Plover",
     "count": 18,
-    "observer_name": "TheNatureTrust",
+    "observer_name": "The NatureTrust",
     "location_name": "PULICAT BIRD SANCTUARY-ANDHRA PRADESH",
     "latitude": 13.7109132,
     "longitude": 80.0843785,
@@ -2700,20 +2628,8 @@
     "year": 2017
   },
   {
-    "id": 234,
-    "species_name": "plover sp.",
-    "count": 4,
-    "observer_name": "Mohanan Choron",
-    "location_name": "Munderi Kadavu",
-    "latitude": 11.9169041,
-    "longitude": 75.4096413,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 235,
-    "species_name": "Greater Painted-Snipe",
+    "species_name": "Greater Painted-snipe",
     "count": 2,
     "observer_name": "Krishnamoorthy Muthirulan",
     "location_name": "Walayar Reservoir",
@@ -2739,24 +2655,12 @@
     "id": 237,
     "species_name": "Bronze-winged Jacana",
     "count": 8,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 238,
-    "species_name": "jacana sp.",
-    "count": 1,
-    "observer_name": "namassivayan lakshmanan",
-    "location_name": "Walayar Reservoir",
-    "latitude": 10.8432059,
-    "longitude": 76.8461768,
-    "month_name": "Jan",
-    "day_no": 8,
     "year": 2017
   },
   {
@@ -2808,18 +2712,6 @@
     "year": 2017
   },
   {
-    "id": 243,
-    "species_name": "godwit sp.",
-    "count": 10,
-    "observer_name": "joshua  Dsilva",
-    "location_name": "Carambolim- Dhado Wetland Complex",
-    "latitude": 15.4713832,
-    "longitude": 73.9368725,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 244,
     "species_name": "Ruddy Turnstone",
     "count": 6,
@@ -2847,7 +2739,7 @@
     "id": 246,
     "species_name": "Red Knot",
     "count": 2,
-    "observer_name": "TheNatureTrust",
+    "observer_name": "The NatureTrust",
     "location_name": "ARANI RIVER PULICAT",
     "latitude": 13.4191551,
     "longitude": 80.2963364,
@@ -2952,18 +2844,6 @@
     "year": 2017
   },
   {
-    "id": 257,
-    "species_name": "Calidris sp.",
-    "count": 8,
-    "observer_name": "Raimund Barth",
-    "location_name": "KB Cirkle Annadana",
-    "latitude": 13.9386242,
-    "longitude": 74.978512,
-    "month_name": "Feb",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 258,
     "species_name": "Long-billed Dowitcher",
     "count": 1,
@@ -3025,7 +2905,7 @@
   },
   {
     "id": 263,
-    "species_name": "Common/Pin-tailed Snipe",
+    "species_name": "Common/pin-tailed Snipe",
     "count": 1,
     "observer_name": "Sahana M",
     "location_name": "Echanuru Tank",
@@ -3037,7 +2917,7 @@
   },
   {
     "id": 264,
-    "species_name": "Pin-tailed/Swinhoe's Snipe",
+    "species_name": "Pin-tailed/swinhoe's Snipe",
     "count": 1,
     "observer_name": "Raimund Barth",
     "location_name": "KB Cirkle Annadana",
@@ -3045,18 +2925,6 @@
     "longitude": 74.978512,
     "month_name": "Jan",
     "day_no": 10,
-    "year": 2017
-  },
-  {
-    "id": 265,
-    "species_name": "snipe sp.",
-    "count": 1,
-    "observer_name": "Kole Birders",
-    "location_name": "Kole Wetlands--Adat--General Area",
-    "latitude": 10.5416667,
-    "longitude": 76.15625,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -3087,7 +2955,7 @@
     "id": 269,
     "species_name": "Common Sandpiper",
     "count": 6,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -3168,20 +3036,8 @@
     "year": 2017
   },
   {
-    "id": 276,
-    "species_name": "Tringa sp.",
-    "count": 6,
-    "observer_name": "Selvaganesh K",
-    "location_name": "Kurichi Kulam",
-    "latitude": 10.9648175,
-    "longitude": 76.9651079,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 277,
-    "species_name": "large shorebird sp.",
+    "species_name": "Large Shorebird",
     "count": 2,
     "observer_name": "Jaydev Mandal",
     "location_name": "Patisorola Beel (Wetland)",
@@ -3225,18 +3081,6 @@
     "longitude": 72.4030352,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 281,
-    "species_name": "buttonquail sp.",
-    "count": 1,
-    "observer_name": "Hanuman Gawas",
-    "location_name": "MHADEI BIO REGION",
-    "latitude": 15.649969,
-    "longitude": 74.125582,
-    "month_name": "Jan",
-    "day_no": 7,
     "year": 2017
   },
   {
@@ -3312,35 +3156,11 @@
     "year": 2017
   },
   {
-    "id": 288,
-    "species_name": "pratincole sp.",
-    "count": 50,
-    "observer_name": "Parag Rangnekar",
-    "location_name": "Narve, Bicholim",
-    "latitude": 15.5509682,
-    "longitude": 73.9192577,
-    "month_name": "Jan",
-    "day_no": 20,
-    "year": 2017
-  },
-  {
-    "id": 289,
-    "species_name": "shorebird sp.",
-    "count": 100,
-    "observer_name": "Kole Birders",
-    "location_name": "Kole Wetlands--Palakkal",
-    "latitude": 10.4766717,
-    "longitude": 76.2036574,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 290,
     "species_name": "Pomarine Jaeger",
     "count": 1,
     "observer_name": "Mallika Rajasekaran",
-    "location_name": "IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832",
+    "location_name": "IN-Karnataka-Mangaluru",
     "latitude": 12.8585618,
     "longitude": 74.8322915,
     "month_name": "Feb",
@@ -3352,21 +3172,9 @@
     "species_name": "Parasitic Jaeger",
     "count": 1,
     "observer_name": "Mallika Rajasekaran",
-    "location_name": "IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832",
+    "location_name": "IN-Karnataka-Mangaluru",
     "latitude": 12.8585618,
     "longitude": 74.8322915,
-    "month_name": "Feb",
-    "day_no": 18,
-    "year": 2017
-  },
-  {
-    "id": 292,
-    "species_name": "jaeger sp.",
-    "count": 1,
-    "observer_name": "Vinay Bharadwaj",
-    "location_name": "Arabian Sea 12 48 19N, 74 36 49E",
-    "latitude": 12.4819,
-    "longitude": 74.3649,
     "month_name": "Feb",
     "day_no": 18,
     "year": 2017
@@ -3409,7 +3217,7 @@
   },
   {
     "id": 296,
-    "species_name": "Black-headed/Brown-headed Gull",
+    "species_name": "Black-headed/brown-headed Gull",
     "count": 370,
     "observer_name": "Abhishek Jamalabad",
     "location_name": "Karwar Beach--North End",
@@ -3468,35 +3276,11 @@
     "year": 2017
   },
   {
-    "id": 301,
-    "species_name": "Larus sp.",
-    "count": 1,
-    "observer_name": "Mandar  Bhagat",
-    "location_name": "Agacaim Tidal mudflats",
-    "latitude": 15.4226027,
-    "longitude": 73.8916826,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 302,
-    "species_name": "gull sp.",
-    "count": 3,
-    "observer_name": "Umesh Mani",
-    "location_name": "Adayaru Estuary",
-    "latitude": 13.0121679,
-    "longitude": 80.2760267,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 303,
     "species_name": "Bridled Tern",
     "count": 1,
     "observer_name": "Mallika Rajasekaran",
-    "location_name": "IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832",
+    "location_name": "IN-Karnataka-Mangaluru",
     "latitude": 12.8585618,
     "longitude": 74.8322915,
     "month_name": "Feb",
@@ -3517,7 +3301,7 @@
   },
   {
     "id": 305,
-    "species_name": "Little/Saunders's Tern",
+    "species_name": "Little/saunders's Tern",
     "count": 5,
     "observer_name": "Pronoy Baidya",
     "location_name": "Agacaim Tidal mudflats",
@@ -3555,7 +3339,7 @@
     "id": 308,
     "species_name": "White-winged Tern",
     "count": 86,
-    "observer_name": "TheNatureTrust",
+    "observer_name": "The NatureTrust",
     "location_name": "PALLIKARANAI MARSH",
     "latitude": 12.9486871,
     "longitude": 80.219636,
@@ -3580,7 +3364,7 @@
     "species_name": "Black-naped Tern",
     "count": 1,
     "observer_name": "Karthik Teegalapalli",
-    "location_name": "Unknown Location - 11.606x92.695 - 13 Feb 2017 14:23",
+    "location_name": "",
     "latitude": 11.6055506,
     "longitude": 92.6948001,
     "month_name": "Feb",
@@ -3615,7 +3399,7 @@
     "id": 313,
     "species_name": "River Tern",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -3633,18 +3417,6 @@
     "longitude": 73.731544,
     "month_name": "Jan",
     "day_no": 15,
-    "year": 2017
-  },
-  {
-    "id": 315,
-    "species_name": "Sterna sp.",
-    "count": 15,
-    "observer_name": "PANKAJ GUPTA",
-    "location_name": "Gateway of India",
-    "latitude": 18.9222973,
-    "longitude": 72.8341343,
-    "month_name": "Jan",
-    "day_no": 7,
     "year": 2017
   },
   {
@@ -3673,7 +3445,7 @@
   },
   {
     "id": 319,
-    "species_name": "large tern sp.",
+    "species_name": "Large Tern",
     "count": 50,
     "observer_name": "Geoffrey A. Williamson",
     "location_name": "Lake DPS school, Navi Mumbai",
@@ -3681,18 +3453,6 @@
     "longitude": 73.0189776,
     "month_name": "Jan",
     "day_no": 9,
-    "year": 2017
-  },
-  {
-    "id": 320,
-    "species_name": "tern sp.",
-    "count": 2,
-    "observer_name": "Sumedh Jog",
-    "location_name": "Bhopar, Dombivli, Maharashtra, India",
-    "latitude": 19.1985337,
-    "longitude": 73.0745959,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -3705,18 +3465,6 @@
     "longitude": 78.427283,
     "month_name": "Jan",
     "day_no": 13,
-    "year": 2017
-  },
-  {
-    "id": 322,
-    "species_name": "gull/tern sp.",
-    "count": 50,
-    "observer_name": "Anonymous eBirder",
-    "location_name": "Gangai Amman Temple Street",
-    "latitude": 12.8111283,
-    "longitude": 80.0284783,
-    "month_name": "Jan",
-    "day_no": 3,
     "year": 2017
   },
   {
@@ -3756,18 +3504,6 @@
     "year": 2017
   },
   {
-    "id": 326,
-    "species_name": "sandgrouse sp.",
-    "count": 2,
-    "observer_name": "vivek r",
-    "location_name": "hupla lake",
-    "latitude": 18.0427569,
-    "longitude": 77.2946978,
-    "month_name": "Jan",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 327,
     "species_name": "Rock Pigeon",
     "count": 4,
@@ -3781,7 +3517,7 @@
   },
   {
     "id": 331,
-    "species_name": "Common Wood-Pigeon",
+    "species_name": "Common Wood-pigeon",
     "count": 5,
     "observer_name": "ASHA SOHIL",
     "location_name": "nikki tawi",
@@ -3793,7 +3529,7 @@
   },
   {
     "id": 332,
-    "species_name": "Speckled Wood-Pigeon",
+    "species_name": "Speckled Wood-pigeon",
     "count": 3,
     "observer_name": "Manju Sinha",
     "location_name": "Race Course, Dehradun",
@@ -3805,7 +3541,7 @@
   },
   {
     "id": 333,
-    "species_name": "Ashy Wood-Pigeon",
+    "species_name": "Ashy Wood-pigeon",
     "count": 4,
     "observer_name": "Esha Munshi",
     "location_name": "Makku, Uttarakhand",
@@ -3817,7 +3553,7 @@
   },
   {
     "id": 334,
-    "species_name": "Nilgiri Wood-Pigeon",
+    "species_name": "Nilgiri Wood-pigeon",
     "count": 2,
     "observer_name": "Harsha Jayaramaiah",
     "location_name": "Moyar Road",
@@ -3841,7 +3577,7 @@
   },
   {
     "id": 336,
-    "species_name": "Andaman Wood-Pigeon",
+    "species_name": "Andaman Wood-pigeon",
     "count": 1,
     "observer_name": "Chris Bowden",
     "location_name": "Chidiyatapu",
@@ -3852,20 +3588,8 @@
     "year": 2017
   },
   {
-    "id": 337,
-    "species_name": "Columba sp.",
-    "count": 25,
-    "observer_name": "Priyadarshi Meena",
-    "location_name": "Madhogarh",
-    "latitude": 26.756992,
-    "longitude": 76.165992,
-    "month_name": "Feb",
-    "day_no": 12,
-    "year": 2017
-  },
-  {
     "id": 338,
-    "species_name": "Oriental Turtle-Dove",
+    "species_name": "Oriental Turtle-dove",
     "count": 1,
     "observer_name": "Sangita Mani",
     "location_name": "Kanha NP--Mukki Zone",
@@ -3877,7 +3601,7 @@
   },
   {
     "id": 339,
-    "species_name": "Eurasian Collared-Dove",
+    "species_name": "Eurasian Collared-dove",
     "count": 1,
     "observer_name": "Rohit Chakravarty",
     "location_name": "Saiki Lake, Nagpur",
@@ -3889,7 +3613,7 @@
   },
   {
     "id": 340,
-    "species_name": "Red Collared-Dove",
+    "species_name": "Red Collared-dove",
     "count": 2,
     "observer_name": "Gourav Kumar Mishra",
     "location_name": "Brookshabad",
@@ -3924,20 +3648,8 @@
     "year": 2017
   },
   {
-    "id": 343,
-    "species_name": "Streptopelia sp.",
-    "count": 1,
-    "observer_name": "Lekshmi Bhooshan",
-    "location_name": "Kuttanadu Wetlands--Kallara--Mudakkali",
-    "latitude": 9.6904548,
-    "longitude": 76.4951205,
-    "month_name": "Jan",
-    "day_no": 3,
-    "year": 2017
-  },
-  {
     "id": 344,
-    "species_name": "Barred Cuckoo-Dove",
+    "species_name": "Barred Cuckoo-dove",
     "count": 1,
     "observer_name": "Saniya Chaplod",
     "location_name": "Pakke Tiger Reserve",
@@ -3949,7 +3661,7 @@
   },
   {
     "id": 345,
-    "species_name": "Andaman Cuckoo-Dove",
+    "species_name": "Andaman Cuckoo-dove",
     "count": 5,
     "observer_name": "Chris Bowden",
     "location_name": "Kalatang",
@@ -3973,7 +3685,7 @@
   },
   {
     "id": 347,
-    "species_name": "Asian/Pacific Emerald Dove",
+    "species_name": "Asian/pacific Emerald Dove",
     "count": 1,
     "observer_name": "Rajendra Prasad",
     "location_name": "15.868x78.714 - 31-Jan-2017 1:03 pm",
@@ -3997,7 +3709,7 @@
   },
   {
     "id": 349,
-    "species_name": "Gray-fronted Green-Pigeon",
+    "species_name": "Gray-fronted Green-pigeon",
     "count": 3,
     "observer_name": "Anoop CR",
     "location_name": "Thirunelly, Thirunelly Rd",
@@ -4009,7 +3721,7 @@
   },
   {
     "id": 350,
-    "species_name": "Andaman Green-Pigeon",
+    "species_name": "Andaman Green-pigeon",
     "count": 10,
     "observer_name": "Gourav Kumar Mishra",
     "location_name": "Chidiyatapu Biological Park",
@@ -4021,7 +3733,7 @@
   },
   {
     "id": 351,
-    "species_name": "Ashy-headed Green-Pigeon",
+    "species_name": "Ashy-headed Green-pigeon",
     "count": 8,
     "observer_name": "Saniya Chaplod",
     "location_name": "Pakke Tiger Reserve",
@@ -4044,20 +3756,8 @@
     "year": 2017
   },
   {
-    "id": 356,
-    "species_name": "Treron sp.",
-    "count": 4,
-    "observer_name": "Steffin Babu",
-    "location_name": "Girls College Junction, Nagaon",
-    "latitude": 26.3582949,
-    "longitude": 92.6875708,
-    "month_name": "Jan",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 357,
-    "species_name": "Green Imperial-Pigeon",
+    "species_name": "Green Imperial-pigeon",
     "count": 2,
     "observer_name": "Milan Sojitra",
     "location_name": "Lamiya Bay",
@@ -4069,7 +3769,7 @@
   },
   {
     "id": 358,
-    "species_name": "Mountain Imperial-Pigeon",
+    "species_name": "Mountain Imperial-pigeon",
     "count": 1,
     "observer_name": "Harsha Jayaramaiah",
     "location_name": "IN-Tamil Nadu-Iyerpadi-Balaji Temple Road - 10.353x76.999",
@@ -4081,7 +3781,7 @@
   },
   {
     "id": 359,
-    "species_name": "imperial-pigeon sp.",
+    "species_name": "Imperial Pigeon",
     "count": 1,
     "observer_name": "raveendran kc",
     "location_name": "pambadum shola",
@@ -4089,18 +3789,6 @@
     "longitude": 77.2623342,
     "month_name": "Jan",
     "day_no": 12,
-    "year": 2017
-  },
-  {
-    "id": 360,
-    "species_name": "pigeon/dove sp.",
-    "count": 2,
-    "observer_name": "greeshma paleeri",
-    "location_name": "Kurinjakkal Thuruthu 10.5337  76.1755",
-    "latitude": 10.53372,
-    "longitude": 76.17551,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -4137,18 +3825,6 @@
     "longitude": 88.4732866,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 364,
-    "species_name": "coucal sp.",
-    "count": 1,
-    "observer_name": "Sreekumar E R",
-    "location_name": "Kuttumucku-Nettissery Paddy Field",
-    "latitude": 10.5448377,
-    "longitude": 76.2462437,
-    "month_name": "Jan",
-    "day_no": 8,
     "year": 2017
   },
   {
@@ -4251,7 +3927,7 @@
     "id": 373,
     "species_name": "Plaintive Cuckoo",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -4273,10 +3949,10 @@
   },
   {
     "id": 375,
-    "species_name": "Plaintive/Gray-bellied Cuckoo",
+    "species_name": "Plaintive/gray-bellied Cuckoo",
     "count": 1,
     "observer_name": "Rama Ranee",
-    "location_name": "Unknown Location - 12.813x77.567 - 17 Feb 2017 9:57 a.m.",
+    "location_name": "",
     "latitude": 12.8129079,
     "longitude": 77.5672951,
     "month_name": "Mar",
@@ -4284,20 +3960,8 @@
     "year": 2017
   },
   {
-    "id": 376,
-    "species_name": "Cacomantis sp.",
-    "count": 1,
-    "observer_name": "TheNatureTrust (GroupAccount)",
-    "location_name": "RIVER",
-    "latitude": 11.8708787,
-    "longitude": 79.2068003,
-    "month_name": "Jan",
-    "day_no": 30,
-    "year": 2017
-  },
-  {
     "id": 377,
-    "species_name": "Fork-tailed Drongo-Cuckoo",
+    "species_name": "Fork-tailed Drongo-cuckoo",
     "count": 1,
     "observer_name": "Niranjan A",
     "location_name": "Kodimattom",
@@ -4309,7 +3973,7 @@
   },
   {
     "id": 378,
-    "species_name": "Square-tailed Drongo-Cuckoo",
+    "species_name": "Square-tailed Drongo-cuckoo",
     "count": 1,
     "observer_name": "Pallab Prakash Saikia",
     "location_name": "Panbari Forest",
@@ -4321,7 +3985,7 @@
   },
   {
     "id": 380,
-    "species_name": "Large Hawk-Cuckoo",
+    "species_name": "Large Hawk-cuckoo",
     "count": 1,
     "observer_name": "Sreedhar Vijayakrishnan",
     "location_name": "Manamboli Powerhouse",
@@ -4333,7 +3997,7 @@
   },
   {
     "id": 381,
-    "species_name": "Common Hawk-Cuckoo",
+    "species_name": "Common Hawk-cuckoo",
     "count": 1,
     "observer_name": "Rohit Chakravarty",
     "location_name": "Saiki Lake, Nagpur",
@@ -4341,18 +4005,6 @@
     "longitude": 79.1763639,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 382,
-    "species_name": "hawk-cuckoo sp.",
-    "count": 1,
-    "observer_name": "Steffin Babu",
-    "location_name": "Jiajuri Tea Estate, Chapanala",
-    "latitude": 26.317,
-    "longitude": 92.8674,
-    "month_name": "Jan",
-    "day_no": 6,
     "year": 2017
   },
   {
@@ -4393,7 +4045,7 @@
   },
   {
     "id": 386,
-    "species_name": "Common/Oriental Cuckoo",
+    "species_name": "Common/oriental Cuckoo",
     "count": 1,
     "observer_name": "rajesh poojary",
     "location_name": "Barvi Forest Range",
@@ -4401,30 +4053,6 @@
     "longitude": 73.3344054,
     "month_name": "Jan",
     "day_no": 29,
-    "year": 2017
-  },
-  {
-    "id": 387,
-    "species_name": "Cuculus sp.",
-    "count": 1,
-    "observer_name": "T R Shankar Raman",
-    "location_name": "Valparai--Cooperative Colony",
-    "latitude": 10.3303548,
-    "longitude": 76.9602907,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 388,
-    "species_name": "cuckoo sp. (Cuculidae sp.)",
-    "count": 1,
-    "observer_name": "Soumya Banerjee",
-    "location_name": "Rajarhat Wetland and marshes",
-    "latitude": 22.6022517,
-    "longitude": 88.4732866,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -4441,7 +4069,7 @@
   },
   {
     "id": 390,
-    "species_name": "Andaman Masked-Owl",
+    "species_name": "Andaman Masked-owl",
     "count": 1,
     "observer_name": "Milan Sojitra",
     "location_name": "Puducherry University",
@@ -4453,7 +4081,7 @@
   },
   {
     "id": 391,
-    "species_name": "Sri Lanka Bay-Owl",
+    "species_name": "Sri Lanka Bay-owl",
     "count": 1,
     "observer_name": "raphy kallettumkara",
     "location_name": "Thattekad Bird Sanctuary--Urulanthanni",
@@ -4465,7 +4093,7 @@
   },
   {
     "id": 392,
-    "species_name": "Andaman Scops-Owl",
+    "species_name": "Andaman Scops-owl",
     "count": 2,
     "observer_name": "Milan Sojitra",
     "location_name": "Cutbert Bay WLS",
@@ -4477,7 +4105,7 @@
   },
   {
     "id": 393,
-    "species_name": "Mountain Scops-Owl",
+    "species_name": "Mountain Scops-owl",
     "count": 1,
     "observer_name": "Rohan Chakravarty",
     "location_name": "Tippi Forest Guest House",
@@ -4489,7 +4117,7 @@
   },
   {
     "id": 394,
-    "species_name": "Indian Scops-Owl",
+    "species_name": "Indian Scops-owl",
     "count": 1,
     "observer_name": "Jaichand Johnson",
     "location_name": "Museum Bain's Compound",
@@ -4501,7 +4129,7 @@
   },
   {
     "id": 395,
-    "species_name": "Collared Scops-Owl",
+    "species_name": "Collared Scops-owl",
     "count": 1,
     "observer_name": "Balwant Negi",
     "location_name": "Forest Compound Ramnagar",
@@ -4513,7 +4141,7 @@
   },
   {
     "id": 396,
-    "species_name": "Pallid Scops-Owl",
+    "species_name": "Pallid Scops-owl",
     "count": 1,
     "observer_name": "Vipul Trivedi",
     "location_name": "Little Rann of Kachchh--Desert Coursers",
@@ -4525,7 +4153,7 @@
   },
   {
     "id": 397,
-    "species_name": "Oriental Scops-Owl",
+    "species_name": "Oriental Scops-owl",
     "count": 2,
     "observer_name": "Mrinmayee Thakur",
     "location_name": "Bondla Wildlife Sanctuary",
@@ -4537,7 +4165,7 @@
   },
   {
     "id": 398,
-    "species_name": "Eurasian Eagle-Owl",
+    "species_name": "Eurasian Eagle-owl",
     "count": 1,
     "observer_name": "Munib Khanyari",
     "location_name": "Argay Valley",
@@ -4549,7 +4177,7 @@
   },
   {
     "id": 399,
-    "species_name": "Rock Eagle-Owl",
+    "species_name": "Rock Eagle-owl",
     "count": 2,
     "observer_name": "Anonymous eBirder",
     "location_name": "IN - 8.449x77.712 - Dec 31, 2016 13:50",
@@ -4561,7 +4189,7 @@
   },
   {
     "id": 400,
-    "species_name": "Spot-bellied Eagle-Owl",
+    "species_name": "Spot-bellied Eagle-owl",
     "count": 1,
     "observer_name": "Yadu ..",
     "location_name": "Golur Vayal (Madappallippara, Kurichyadu)",
@@ -4573,7 +4201,7 @@
   },
   {
     "id": 401,
-    "species_name": "Dusky Eagle-Owl",
+    "species_name": "Dusky Eagle-owl",
     "count": 4,
     "observer_name": "Max Breckenridge",
     "location_name": "Bharatpur--Keoladeo Ghana NP",
@@ -4585,7 +4213,7 @@
   },
   {
     "id": 402,
-    "species_name": "Brown Fish-Owl",
+    "species_name": "Brown Fish-owl",
     "count": 1,
     "observer_name": "K.Sravan Kumar",
     "location_name": "Masinagudi",
@@ -4597,7 +4225,7 @@
   },
   {
     "id": 403,
-    "species_name": "Tawny Fish-Owl",
+    "species_name": "Tawny Fish-owl",
     "count": 2,
     "observer_name": "Sandeep Bapat",
     "location_name": "Corbett NP",
@@ -4645,7 +4273,7 @@
   },
   {
     "id": 407,
-    "species_name": "Asian Barred/Jungle Owlet",
+    "species_name": "Asian Barred/jungle Owlet",
     "count": 1,
     "observer_name": "Dinesh Pundir",
     "location_name": "Wildlife Institute of India Campus",
@@ -4693,7 +4321,7 @@
   },
   {
     "id": 411,
-    "species_name": "Mottled Wood-Owl",
+    "species_name": "Mottled Wood-owl",
     "count": 1,
     "observer_name": "Murtuza Hussain  Abrar",
     "location_name": "Ananthagiri Hills, Vikarabad",
@@ -4705,7 +4333,7 @@
   },
   {
     "id": 412,
-    "species_name": "Brown Wood-Owl",
+    "species_name": "Brown Wood-owl",
     "count": 1,
     "observer_name": "Mrinmayee Thakur",
     "location_name": "Bondla Wildlife Sanctuary",
@@ -4776,18 +4404,6 @@
     "year": 2017
   },
   {
-    "id": 418,
-    "species_name": "owl sp.",
-    "count": 1,
-    "observer_name": "Anonymous eBirder",
-    "location_name": "Tirunelveli-Moolaikkaraipatti Road",
-    "latitude": 8.6499417,
-    "longitude": 77.7415717,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 419,
     "species_name": "Sri Lanka Frogmouth",
     "count": 2,
@@ -4801,7 +4417,7 @@
   },
   {
     "id": 421,
-    "species_name": "Great Eared-Nightjar",
+    "species_name": "Great Eared-nightjar",
     "count": 1,
     "observer_name": "Shakti vel",
     "location_name": "Nadettuchaal--Charupara",
@@ -4896,30 +4512,6 @@
     "year": 2017
   },
   {
-    "id": 429,
-    "species_name": "Caprimulgus sp.",
-    "count": 1,
-    "observer_name": "B.R. Ansil",
-    "location_name": "Kadumane Estate",
-    "latitude": 12.9207554,
-    "longitude": 75.6557608,
-    "month_name": "Jan",
-    "day_no": 19,
-    "year": 2017
-  },
-  {
-    "id": 430,
-    "species_name": "nightjar sp.",
-    "count": 1,
-    "observer_name": "Prathamesh Desai",
-    "location_name": "Little Rann of Kachchh--Zainabad Edge",
-    "latitude": 23.2804577,
-    "longitude": 71.6669083,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 431,
     "species_name": "White-rumped Needletail",
     "count": 1,
@@ -4992,18 +4584,6 @@
     "year": 2017
   },
   {
-    "id": 437,
-    "species_name": "swiftlet sp.",
-    "count": 4,
-    "observer_name": "Dp Srivastava",
-    "location_name": "Khetiyo-Uttarakhand-Lansdowne-246155 - 29.6248x78.9769",
-    "latitude": 29.624755,
-    "longitude": 78.976852,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 438,
     "species_name": "Alpine Swift",
     "count": 2,
@@ -5041,7 +4621,7 @@
   },
   {
     "id": 441,
-    "species_name": "fork-tailed swift sp.",
+    "species_name": "Fork-tailed Swift",
     "count": 4,
     "observer_name": "Raimund Barth",
     "location_name": "KB Cirkle Annadana",
@@ -5076,20 +4656,8 @@
     "year": 2017
   },
   {
-    "id": 444,
-    "species_name": "Apus sp.",
-    "count": 4,
-    "observer_name": "Shreya Dasgupta",
-    "location_name": "Doddaballapura Road",
-    "latitude": 13.115509,
-    "longitude": 77.5803638,
-    "month_name": "Jan",
-    "day_no": 4,
-    "year": 2017
-  },
-  {
     "id": 445,
-    "species_name": "Asian Palm-Swift",
+    "species_name": "Asian Palm-swift",
     "count": 4,
     "observer_name": "Deepa Mohan",
     "location_name": "Ramdevara Betta, Ramanagara",
@@ -5101,7 +4669,7 @@
   },
   {
     "id": 446,
-    "species_name": "large swift sp.",
+    "species_name": "Large Swift",
     "count": 1,
     "observer_name": "Premchand Reghuvaran",
     "location_name": "Kole Wetlands--Mulloorkayal",
@@ -5113,24 +4681,12 @@
   },
   {
     "id": 447,
-    "species_name": "small swift sp.",
+    "species_name": "Small Swift",
     "count": 30,
     "observer_name": "Praveen es",
     "location_name": "Kole Wetlands--Uppungal",
     "latitude": 10.6925775,
     "longitude": 75.9966946,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 448,
-    "species_name": "swift sp.",
-    "count": 50,
-    "observer_name": "Niranjana C",
-    "location_name": "Kole Wetlands--Pullazhi",
-    "latitude": 10.5239949,
-    "longitude": 76.1580741,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -5175,7 +4731,7 @@
     "id": 453,
     "species_name": "Eurasian Hoopoe",
     "count": 4,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -5233,7 +4789,7 @@
   },
   {
     "id": 458,
-    "species_name": "Malabar Pied-Hornbill",
+    "species_name": "Malabar Pied-hornbill",
     "count": 13,
     "observer_name": "sajeesh radhakrishnan",
     "location_name": "Natures Nest & Surrounding",
@@ -5245,7 +4801,7 @@
   },
   {
     "id": 459,
-    "species_name": "Oriental Pied-Hornbill",
+    "species_name": "Oriental Pied-hornbill",
     "count": 2,
     "observer_name": "Balwant Negi",
     "location_name": "Sawal Deh West",
@@ -5268,22 +4824,10 @@
     "year": 2017
   },
   {
-    "id": 462,
-    "species_name": "hornbill sp.",
-    "count": 1,
-    "observer_name": "Renuka Vijayaraghavan",
-    "location_name": "Nagerhole National Park",
-    "latitude": 11.9390899,
-    "longitude": 76.2705526,
-    "month_name": "Mar",
-    "day_no": 13,
-    "year": 2017
-  },
-  {
     "id": 463,
     "species_name": "Common Kingfisher",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -5305,10 +4849,10 @@
   },
   {
     "id": 465,
-    "species_name": "Black-backed Dwarf-Kingfisher",
+    "species_name": "Black-backed Dwarf-kingfisher",
     "count": 2,
     "observer_name": "Arnold Goveas",
-    "location_name": "IN-Karnataka-Mangalore-Manjalpaade - 12.9259x74.8794",
+    "location_name": "IN-Karnataka-Mangaluru",
     "latitude": 12.925946,
     "longitude": 74.879362,
     "month_name": "Jan",
@@ -5412,18 +4956,6 @@
     "year": 2017
   },
   {
-    "id": 474,
-    "species_name": "kingfisher sp.",
-    "count": 1,
-    "observer_name": "lakshmipathi ks",
-    "location_name": "Yediyala",
-    "latitude": 12.1498103,
-    "longitude": 77.1046047,
-    "month_name": "Jan",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 475,
     "species_name": "Blue-bearded Bee-eater",
     "count": 2,
@@ -5439,7 +4971,7 @@
     "id": 476,
     "species_name": "Green Bee-eater",
     "count": 8,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -5496,18 +5028,6 @@
     "year": 2017
   },
   {
-    "id": 481,
-    "species_name": "bee-eater sp.",
-    "count": 2,
-    "observer_name": "Steffin Babu",
-    "location_name": "Nehru Yuva Kendra, Nagaon",
-    "latitude": 26.3517287,
-    "longitude": 92.6923478,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 482,
     "species_name": "European Roller",
     "count": 1,
@@ -5523,24 +5043,12 @@
     "id": 483,
     "species_name": "Indian Roller",
     "count": 2,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 484,
-    "species_name": "roller sp.",
-    "count": 1,
-    "observer_name": "Rofikul Islam",
-    "location_name": "Diring T.E. Kaziranga",
-    "latitude": 26.5846126,
-    "longitude": 93.4769368,
-    "month_name": "Jan",
-    "day_no": 7,
     "year": 2017
   },
   {
@@ -5571,7 +5079,7 @@
     "id": 487,
     "species_name": "Coppersmith Barbet",
     "count": 2,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -5619,7 +5127,7 @@
     "id": 492,
     "species_name": "Brown-headed Barbet",
     "count": 3,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -5641,7 +5149,7 @@
   },
   {
     "id": 494,
-    "species_name": "Brown-headed/White-cheeked Barbet",
+    "species_name": "Brown-headed/white-cheeked Barbet",
     "count": 2,
     "observer_name": "Anonymous eBirder",
     "location_name": "Kurumbampatti-Salem - Yercaud Ghat Road",
@@ -5673,18 +5181,6 @@
     "longitude": 79.419629,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 497,
-    "species_name": "Psilopogon sp.",
-    "count": 1,
-    "observer_name": "Cinchona GHS(Group account)",
-    "location_name": "Rayan Division",
-    "latitude": 10.2691265,
-    "longitude": 76.9898593,
-    "month_name": "Jan",
-    "day_no": 13,
     "year": 2017
   },
   {
@@ -5749,7 +5245,7 @@
   },
   {
     "id": 505,
-    "species_name": "Brown-capped/Gray-capped Woodpecker",
+    "species_name": "Brown-capped/gray-capped Woodpecker",
     "count": 1,
     "observer_name": "vrinda  lath",
     "location_name": "IN - 31.576x76.215 - 30-Dec-2015 4:10 pm",
@@ -5856,23 +5352,11 @@
     "year": 2017
   },
   {
-    "id": 514,
-    "species_name": "Dendrocopos sp.",
-    "count": 1,
-    "observer_name": "vrinda  lath",
-    "location_name": "IN - 31.578x76.219 - 31-Dec-2016 5:14 pm",
-    "latitude": 31.5783143,
-    "longitude": 76.219082,
-    "month_name": "Jan",
-    "day_no": 10,
-    "year": 2017
-  },
-  {
     "id": 515,
     "species_name": "White-bellied Woodpecker",
     "count": 1,
     "observer_name": "Kiran bagade",
-    "location_name": "IN - 12.734x75.886 - 01-Jan-2017 9:33 PM",
+    "location_name": "",
     "latitude": 12.7340953,
     "longitude": 75.8856355,
     "month_name": "Jan",
@@ -5988,18 +5472,6 @@
     "year": 2017
   },
   {
-    "id": 525,
-    "species_name": "flameback sp.",
-    "count": 1,
-    "observer_name": "lakshmipathi ks",
-    "location_name": "Yediyala",
-    "latitude": 12.1498103,
-    "longitude": 77.1046047,
-    "month_name": "Jan",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 526,
     "species_name": "Pale-headed Woodpecker",
     "count": 2,
@@ -6037,7 +5509,7 @@
   },
   {
     "id": 529,
-    "species_name": "Common/Greater Flameback",
+    "species_name": "Common/greater Flameback",
     "count": 4,
     "observer_name": "P. B. Samkumar",
     "location_name": "Thattekad",
@@ -6096,18 +5568,6 @@
     "year": 2017
   },
   {
-    "id": 534,
-    "species_name": "woodpecker sp.",
-    "count": 1,
-    "observer_name": "Jishnu R",
-    "location_name": "IN-Kerala-Munroe Island-MunroeIsland - Chittumala Road - 9.002x76.635",
-    "latitude": 9.0021071,
-    "longitude": 76.6349813,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 535,
     "species_name": "Collared Falconet",
     "count": 1,
@@ -6157,7 +5617,7 @@
   },
   {
     "id": 539,
-    "species_name": "Lesser/Eurasian Kestrel",
+    "species_name": "Lesser/eurasian Kestrel",
     "count": 1,
     "observer_name": "AM AMSA",
     "location_name": "Salim Ali Centre for Ornithology and Natural History, Coimbatore",
@@ -6252,30 +5712,6 @@
     "year": 2017
   },
   {
-    "id": 547,
-    "species_name": "falcon sp.",
-    "count": 1,
-    "observer_name": "pooja pawar",
-    "location_name": "Iyerpadi",
-    "latitude": 10.3638373,
-    "longitude": 76.9772717,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 548,
-    "species_name": "diurnal raptor sp.",
-    "count": 3,
-    "observer_name": "Kannan U L",
-    "location_name": "Kole Wetlands--Manakodi",
-    "latitude": 10.4792033,
-    "longitude": 76.1723328,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 549,
     "species_name": "Alexandrine Parakeet",
     "count": 1,
@@ -6315,7 +5751,7 @@
     "id": 552,
     "species_name": "Plum-headed Parakeet",
     "count": 6,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -6397,24 +5833,12 @@
   },
   {
     "id": 559,
-    "species_name": "Vernal Hanging-Parrot",
+    "species_name": "Vernal Hanging-parrot",
     "count": 3,
     "observer_name": "Anoop CR",
     "location_name": "Thirunelly, Thirunelly Rd",
     "latitude": 11.90767,
     "longitude": 75.9999,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 560,
-    "species_name": "parakeet sp.",
-    "count": 10,
-    "observer_name": "Mohandas Giriyappa",
-    "location_name": "Kaikondanahalli Kere, Bangalore",
-    "latitude": 12.9134841,
-    "longitude": 77.673533,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -6505,7 +5929,7 @@
   },
   {
     "id": 569,
-    "species_name": "Large/Common Woodshrike",
+    "species_name": "Large/common Woodshrike",
     "count": 1,
     "observer_name": "Anonymous eBirder",
     "location_name": "Kaziranga NP",
@@ -6672,18 +6096,6 @@
     "year": 2017
   },
   {
-    "id": 585,
-    "species_name": "minivet sp.",
-    "count": 1,
-    "observer_name": "B.R. Ansil",
-    "location_name": "Kadumane Estate",
-    "latitude": 12.9207554,
-    "longitude": 75.6557608,
-    "month_name": "Jan",
-    "day_no": 4,
-    "year": 2017
-  },
-  {
     "id": 586,
     "species_name": "Large Cuckooshrike",
     "count": 1,
@@ -6708,18 +6120,6 @@
     "year": 2017
   },
   {
-    "id": 588,
-    "species_name": "Coracina sp.",
-    "count": 1,
-    "observer_name": "Eric Barnes",
-    "location_name": "Lake Man Sagar, Jaipur",
-    "latitude": 26.9568086,
-    "longitude": 75.8486867,
-    "month_name": "Feb",
-    "day_no": 15,
-    "year": 2017
-  },
-  {
     "id": 589,
     "species_name": "Black-winged Cuckooshrike",
     "count": 2,
@@ -6741,18 +6141,6 @@
     "longitude": 77.7267265,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 591,
-    "species_name": "cuckooshrike sp.",
-    "count": 1,
-    "observer_name": "Akshay Surendra",
-    "location_name": "Muthodi",
-    "latitude": 13.4505713,
-    "longitude": 75.6464752,
-    "month_name": "Jan",
-    "day_no": 25,
     "year": 2017
   },
   {
@@ -6781,7 +6169,7 @@
   },
   {
     "id": 594,
-    "species_name": "Red-tailed/Isabelline Shrike",
+    "species_name": "Red-tailed/isabelline Shrike",
     "count": 1,
     "observer_name": "Anup Chavda",
     "location_name": "Nalsarovar Bird Sanctuary",
@@ -6819,7 +6207,7 @@
     "id": 598,
     "species_name": "Long-tailed Shrike",
     "count": 3,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -6852,20 +6240,8 @@
     "year": 2017
   },
   {
-    "id": 601,
-    "species_name": "shrike sp.",
-    "count": 1,
-    "observer_name": "Hanuman Gawas",
-    "location_name": "Mhadei Wildlife Sanctuary (IBA)",
-    "latitude": 15.5683089,
-    "longitude": 74.2297,
-    "month_name": "Jan",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 603,
-    "species_name": "Himalayan Shrike-Babbler",
+    "species_name": "Himalayan Shrike-babbler",
     "count": 2,
     "observer_name": "Prashant Negi",
     "location_name": "Great Himalayan NP",
@@ -6877,7 +6253,7 @@
   },
   {
     "id": 604,
-    "species_name": "Blyth's Shrike-Babbler",
+    "species_name": "Blyth's Shrike-babbler",
     "count": 2,
     "observer_name": "Rofikul Islam",
     "location_name": "Elephant",
@@ -6889,9 +6265,9 @@
   },
   {
     "id": 605,
-    "species_name": "Green Shrike-Babbler",
+    "species_name": "Green Shrike-babbler",
     "count": 5,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
@@ -6901,7 +6277,7 @@
   },
   {
     "id": 606,
-    "species_name": "Black-eared Shrike-Babbler",
+    "species_name": "Black-eared Shrike-babbler",
     "count": 6,
     "observer_name": "Subhojit Chakladar",
     "location_name": "Khonoma Nature Conservation and Tragopan Sanctuary (KNCTS)--Parking Lot",
@@ -6951,7 +6327,7 @@
     "id": 610,
     "species_name": "Black-hooded Oriole",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -6973,10 +6349,10 @@
   },
   {
     "id": 612,
-    "species_name": "old world oriole sp.",
+    "species_name": "Old World Oriole",
     "count": 1,
     "observer_name": "Shereen Chang",
-    "location_name": "8.9970x76.6194 - Jan 3, 2017, 6:58 AM",
+    "location_name": "",
     "latitude": 8.996975,
     "longitude": 76.619416,
     "month_name": "Jan",
@@ -7092,18 +6468,6 @@
     "year": 2017
   },
   {
-    "id": 623,
-    "species_name": "drongo sp.",
-    "count": 2,
-    "observer_name": "SACHIN KRISHNA M V",
-    "location_name": "puzhakkal kole",
-    "latitude": 10.5309884,
-    "longitude": 76.1724347,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 624,
     "species_name": "White-throated Fantail",
     "count": 2,
@@ -7141,7 +6505,7 @@
   },
   {
     "id": 627,
-    "species_name": "White-throated/White-browed Fantail",
+    "species_name": "White-throated/white-browed Fantail",
     "count": 2,
     "observer_name": "Dp Srivastava",
     "location_name": "Khetiyo-Uttarakhand-Lansdowne-246155 - 29.6248x78.9769",
@@ -7153,7 +6517,7 @@
   },
   {
     "id": 628,
-    "species_name": "Spot-breasted/White-browed Fantail",
+    "species_name": "Spot-breasted Fantail",
     "count": 1,
     "observer_name": "Harsha Jayaramaiah",
     "location_name": "Lingambudhi Lake--Main Entrance",
@@ -7161,18 +6525,6 @@
     "longitude": 76.616083,
     "month_name": "Jan",
     "day_no": 5,
-    "year": 2017
-  },
-  {
-    "id": 629,
-    "species_name": "fantail sp.",
-    "count": 1,
-    "observer_name": "Harshith JV",
-    "location_name": "Forest Department Nature Park, Hampi - 15.274x76.484",
-    "latitude": 15.2735087,
-    "longitude": 76.483719,
-    "month_name": "Jan",
-    "day_no": 7,
     "year": 2017
   },
   {
@@ -7189,7 +6541,7 @@
   },
   {
     "id": 631,
-    "species_name": "Indian Paradise-Flycatcher",
+    "species_name": "Indian Paradise-flycatcher",
     "count": 2,
     "observer_name": "bijumon ke",
     "location_name": "eruvassy",
@@ -7225,7 +6577,7 @@
   },
   {
     "id": 634,
-    "species_name": "Yellow-billed Blue-Magpie",
+    "species_name": "Yellow-billed Blue-magpie",
     "count": 1,
     "observer_name": "Prosenjit Dawn",
     "location_name": "IN-West Bengal-Bara Mungwa-Unnamed Road - 27.063x88.41",
@@ -7237,7 +6589,7 @@
   },
   {
     "id": 635,
-    "species_name": "Red-billed Blue-Magpie",
+    "species_name": "Red-billed Blue-magpie",
     "count": 10,
     "observer_name": "Nitin Kapoor",
     "location_name": "IN-Uttarakhand-Ranikhet-263645 - 29.6402x79.4196",
@@ -7249,7 +6601,7 @@
   },
   {
     "id": 636,
-    "species_name": "Yellow-billed/Red-billed Blue-Magpie",
+    "species_name": "Yellow-billed/red-billed Blue-magpie",
     "count": 2,
     "observer_name": "sutirtha lahiri",
     "location_name": "IN-Himachal Pradesh-Shimla-Chotta Shimla to Kusumpti Road - 31.088x77.179",
@@ -7261,7 +6613,7 @@
   },
   {
     "id": 637,
-    "species_name": "Common Green-Magpie",
+    "species_name": "Common Green-magpie",
     "count": 1,
     "observer_name": "Andr√© Weiss",
     "location_name": "Jeypore Reserve Forest",
@@ -7275,7 +6627,7 @@
     "id": 638,
     "species_name": "Rufous Treepie",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -7392,18 +6744,6 @@
     "year": 2017
   },
   {
-    "id": 652,
-    "species_name": "crow sp.",
-    "count": 1,
-    "observer_name": "NaveenKumar Ganugapenta",
-    "location_name": "Agara Kere",
-    "latitude": 12.9214163,
-    "longitude": 77.6414967,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 653,
     "species_name": "Common Raven",
     "count": 9,
@@ -7417,7 +6757,7 @@
   },
   {
     "id": 654,
-    "species_name": "Greater Hoopoe-Lark",
+    "species_name": "Greater Hoopoe-lark",
     "count": 4,
     "observer_name": "Max Breckenridge",
     "location_name": "Little Rann of Kachchh--Melak Beyt",
@@ -7444,7 +6784,7 @@
     "species_name": "Desert Lark",
     "count": 2,
     "observer_name": "Jan Hansen",
-    "location_name": "26.8595x70.6212 - Jan 18, 2017, 11:30 AM",
+    "location_name": "",
     "latitude": 26.859549,
     "longitude": 70.621158,
     "month_name": "Jan",
@@ -7453,7 +6793,7 @@
   },
   {
     "id": 657,
-    "species_name": "Black-crowned Sparrow-Lark",
+    "species_name": "Black-crowned Sparrow-lark",
     "count": 2,
     "observer_name": "Ankit Rajotia",
     "location_name": "Desert NP, Sudasari area, Jaisalmer",
@@ -7465,7 +6805,7 @@
   },
   {
     "id": 658,
-    "species_name": "Ashy-crowned Sparrow-Lark",
+    "species_name": "Ashy-crowned Sparrow-lark",
     "count": 1,
     "observer_name": "Rohit Chakravarty",
     "location_name": "Saiki Lake, Nagpur",
@@ -7521,18 +6861,6 @@
     "longitude": 81.801405,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 663,
-    "species_name": "Mirafra sp.",
-    "count": 1,
-    "observer_name": "Deepak Jois",
-    "location_name": "Muthanallur Lake, Bangalore",
-    "latitude": 12.8198358,
-    "longitude": 77.7267265,
-    "month_name": "Jan",
-    "day_no": 8,
     "year": 2017
   },
   {
@@ -7656,30 +6984,6 @@
     "year": 2017
   },
   {
-    "id": 676,
-    "species_name": "lark sp.",
-    "count": 7,
-    "observer_name": "TheNatureTrust",
-    "location_name": "PERIPHERAL OF NELLAPATTU BIRD SANCTUAY",
-    "latitude": 13.7724629,
-    "longitude": 79.9787443,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 677,
-    "species_name": "martin sp.",
-    "count": 5,
-    "observer_name": "Biswajit Chakdar",
-    "location_name": "IN-Maharashtra-Lonavala - 18.76x73.378 - 12-Jan-2017 5:19 PM",
-    "latitude": 18.7597012,
-    "longitude": 73.3776753,
-    "month_name": "Jan",
-    "day_no": 12,
-    "year": 2017
-  },
-  {
     "id": 678,
     "species_name": "Gray-throated Martin",
     "count": 6,
@@ -7696,7 +7000,7 @@
     "species_name": "Pale Sand Martin",
     "count": 30,
     "observer_name": "Rofikul Islam",
-    "location_name": "Maguri beel",
+    "location_name": "Maguri Beel",
     "latitude": 27.5757373,
     "longitude": 95.3908324,
     "month_name": "Jan",
@@ -7705,7 +7009,7 @@
   },
   {
     "id": 681,
-    "species_name": "Bank Swallow/Pale Sand Martin",
+    "species_name": "Bank Swallow/pale Sand Martin",
     "count": 1,
     "observer_name": "Abhijith surendran",
     "location_name": "Changaram Wetlands -- Ezhupunna",
@@ -7716,20 +7020,8 @@
     "year": 2017
   },
   {
-    "id": 682,
-    "species_name": "Riparia sp.",
-    "count": 1,
-    "observer_name": "Rajneesh Suvarna",
-    "location_name": "IN-Karnataka-Ponnampet - 12.159x75.934 - 21 Jan 2017 17:31",
-    "latitude": 12.1592999,
-    "longitude": 75.9343261,
-    "month_name": "Jan",
-    "day_no": 21,
-    "year": 2017
-  },
-  {
     "id": 683,
-    "species_name": "Eurasian Crag-Martin",
+    "species_name": "Eurasian Crag-martin",
     "count": 37,
     "observer_name": "Prashant Kumar",
     "location_name": "Kotabagh",
@@ -7741,7 +7033,7 @@
   },
   {
     "id": 684,
-    "species_name": "Dusky Crag-Martin",
+    "species_name": "Dusky Crag-martin",
     "count": 2,
     "observer_name": "padma ramaswamy",
     "location_name": "Ramdevara Betta, Ramanagara",
@@ -7825,7 +7117,7 @@
   },
   {
     "id": 691,
-    "species_name": "Red-rumped/Striated Swallow",
+    "species_name": "Red-rumped/striated Swallow",
     "count": 5,
     "observer_name": "Pallab Prakash Saikia",
     "location_name": "Kaziranga Beel",
@@ -7849,10 +7141,10 @@
   },
   {
     "id": 693,
-    "species_name": "Common House-Martin",
+    "species_name": "Common House-martin",
     "count": 25,
     "observer_name": "Chinmay Rahane",
-    "location_name": "IN-Maharashtra-Unnamed Road - 18.338x73.683 - 07-Jan-2017 17:09",
+    "location_name": "IN-Maharashtra",
     "latitude": 18.3380091,
     "longitude": 73.6832845,
     "month_name": "Jan",
@@ -7861,7 +7153,7 @@
   },
   {
     "id": 694,
-    "species_name": "Asian House-Martin",
+    "species_name": "Asian House-martin",
     "count": 3,
     "observer_name": "Rofikul Islam",
     "location_name": "Eaglenest Wildlife Sanctuary",
@@ -7873,7 +7165,7 @@
   },
   {
     "id": 695,
-    "species_name": "Nepal House-Martin",
+    "species_name": "Nepal House-martin",
     "count": 4,
     "observer_name": "Rohan Chakravarty",
     "location_name": "Tippi Forest Guest House",
@@ -7884,32 +7176,8 @@
     "year": 2017
   },
   {
-    "id": 696,
-    "species_name": "house-martin sp.",
-    "count": 1,
-    "observer_name": "HARISH K",
-    "location_name": "IN-Karnataka-Mudageri Arav - 14.882x74.134 - 11-Mar-2017 11:18 AM",
-    "latitude": 14.8817841,
-    "longitude": 74.1344947,
-    "month_name": "Mar",
-    "day_no": 11,
-    "year": 2017
-  },
-  {
-    "id": 697,
-    "species_name": "swallow sp.",
-    "count": 2,
-    "observer_name": "Jayakrishnan U",
-    "location_name": "PanayalWest",
-    "latitude": 12.4254287,
-    "longitude": 75.0550532,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 698,
-    "species_name": "Yellow-bellied Fairy-Fantail",
+    "species_name": "Yellow-bellied Fairy-fantail",
     "count": 1,
     "observer_name": "Balwant Negi",
     "location_name": "Aahana Resort, Savaldeh, Ramnagar",
@@ -7921,7 +7189,7 @@
   },
   {
     "id": 699,
-    "species_name": "Gray-headed Canary-Flycatcher",
+    "species_name": "Gray-headed Canary-flycatcher",
     "count": 4,
     "observer_name": "NIRAJ NARAYAN BARUA",
     "location_name": "Garbhanga Reserve Forest, Guwahati",
@@ -8076,18 +7344,6 @@
     "year": 2017
   },
   {
-    "id": 714,
-    "species_name": "Parid sp.",
-    "count": 1,
-    "observer_name": "Amol Bapat",
-    "location_name": "Corbett dhikala zone",
-    "latitude": 29.5850864,
-    "longitude": 78.8626796,
-    "month_name": "Jan",
-    "day_no": 16,
-    "year": 2017
-  },
-  {
     "id": 715,
     "species_name": "Black-throated Tit",
     "count": 20,
@@ -8175,7 +7431,7 @@
     "id": 722,
     "species_name": "White-cheeked Nuthatch",
     "count": 1,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
@@ -8205,18 +7461,6 @@
     "longitude": 93.058641,
     "month_name": "Jan",
     "day_no": 18,
-    "year": 2017
-  },
-  {
-    "id": 725,
-    "species_name": "nuthatch sp.",
-    "count": 1,
-    "observer_name": "Anonymous eBirder",
-    "location_name": "Rajaji NP--Gohri Range",
-    "latitude": 30.1255305,
-    "longitude": 78.3253098,
-    "month_name": "Jan",
-    "day_no": 9,
     "year": 2017
   },
   {
@@ -8277,18 +7521,6 @@
     "longitude": 88.3493241,
     "month_name": "Jan",
     "day_no": 14,
-    "year": 2017
-  },
-  {
-    "id": 731,
-    "species_name": "treecreeper sp.",
-    "count": 1,
-    "observer_name": "Santosh   Kumar Thakur",
-    "location_name": "Catchment WLS, Shimla Dt",
-    "latitude": 31.1119106,
-    "longitude": 77.2351265,
-    "month_name": "Jan",
-    "day_no": 11,
     "year": 2017
   },
   {
@@ -8413,7 +7645,7 @@
   },
   {
     "id": 745,
-    "species_name": "Red-vented/Red-whiskered Bulbul",
+    "species_name": "Red-vented/red-whiskered Bulbul",
     "count": 5,
     "observer_name": "Jiju Vinod",
     "location_name": "Mavoor Wetlands",
@@ -8463,7 +7695,7 @@
     "id": 750,
     "species_name": "White-browed Bulbul",
     "count": 1,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -8544,22 +7776,10 @@
     "year": 2017
   },
   {
-    "id": 758,
-    "species_name": "Pycnonotidae sp.",
-    "count": 4,
-    "observer_name": "namassivayan lakshmanan",
-    "location_name": "Toothampara Forest Estate IB",
-    "latitude": 10.4473832,
-    "longitude": 76.6662455,
-    "month_name": "Feb",
-    "day_no": 11,
-    "year": 2017
-  },
-  {
     "id": 759,
     "species_name": "Goldcrest",
     "count": 4,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
@@ -8605,7 +7825,7 @@
   },
   {
     "id": 763,
-    "species_name": "Pale-footed Bush-Warbler",
+    "species_name": "Pale-footed Bush-warbler",
     "count": 2,
     "observer_name": "Christopher Rustay",
     "location_name": "Kumeria Rd Stop#2",
@@ -8640,20 +7860,8 @@
     "year": 2017
   },
   {
-    "id": 766,
-    "species_name": "tesia sp.",
-    "count": 1,
-    "observer_name": "Arup Banerjee",
-    "location_name": "Murti Forest",
-    "latitude": 26.8439071,
-    "longitude": 88.8384962,
-    "month_name": "Feb",
-    "day_no": 2,
-    "year": 2017
-  },
-  {
     "id": 767,
-    "species_name": "Chestnut-crowned Bush-Warbler",
+    "species_name": "Chestnut-crowned Bush-warbler",
     "count": 2,
     "observer_name": "Saurav Dutta",
     "location_name": "Manas NP",
@@ -8665,7 +7873,7 @@
   },
   {
     "id": 768,
-    "species_name": "Gray-sided Bush-Warbler",
+    "species_name": "Gray-sided Bush-warbler",
     "count": 1,
     "observer_name": "Raman Kumar",
     "location_name": "Chandrabani-Karwapani Trail",
@@ -8749,7 +7957,7 @@
   },
   {
     "id": 775,
-    "species_name": "Brownish-flanked Bush-Warbler",
+    "species_name": "Brownish-flanked Bush-warbler",
     "count": 2,
     "observer_name": "Prashant Negi",
     "location_name": "Sai Ropa",
@@ -8761,7 +7969,7 @@
   },
   {
     "id": 776,
-    "species_name": "Hume's Bush-Warbler",
+    "species_name": "Hume's Bush-warbler",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Mandala road, Dirang",
@@ -8773,7 +7981,7 @@
   },
   {
     "id": 777,
-    "species_name": "Aberrant Bush-Warbler",
+    "species_name": "Aberrant Bush-warbler",
     "count": 1,
     "observer_name": "Rohan Chakravarty",
     "location_name": "Bhalukpong Ghat",
@@ -8781,18 +7989,6 @@
     "longitude": 92.6383924,
     "month_name": "Jan",
     "day_no": 8,
-    "year": 2017
-  },
-  {
-    "id": 778,
-    "species_name": "bush-warbler sp.",
-    "count": 1,
-    "observer_name": "Sanjeev Thakur",
-    "location_name": "Himalayan nature Park Kufri",
-    "latitude": 31.0956364,
-    "longitude": 77.2631443,
-    "month_name": "Feb",
-    "day_no": 17,
     "year": 2017
   },
   {
@@ -8833,7 +8029,7 @@
   },
   {
     "id": 782,
-    "species_name": "Dusky/Smoky Warbler",
+    "species_name": "Dusky/smoky Warbler",
     "count": 1,
     "observer_name": "Eric Barnes",
     "location_name": "Lake Man Sagar, Jaipur",
@@ -8941,7 +8137,7 @@
   },
   {
     "id": 791,
-    "species_name": "Yellow-browed/Hume's Warbler",
+    "species_name": "Yellow-browed/hume's Warbler",
     "count": 1,
     "observer_name": "Sanjay Sondhi",
     "location_name": "Sukhai CCA",
@@ -8977,7 +8173,7 @@
   },
   {
     "id": 794,
-    "species_name": "Green/Greenish Warbler",
+    "species_name": "Green/greenish Warbler",
     "count": 1,
     "observer_name": "Anup Chavda",
     "location_name": "Thol Bird Sanctuary",
@@ -9048,18 +8244,6 @@
     "year": 2017
   },
   {
-    "id": 801,
-    "species_name": "Phylloscopus sp.",
-    "count": 2,
-    "observer_name": "Prosenjit Dawn",
-    "location_name": "IN-West Bengal-Bara Mungwa-Unnamed Road - 27.063x88.41",
-    "latitude": 27.0633709,
-    "longitude": 88.409902,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 802,
     "species_name": "Golden-spectacled Warbler",
     "count": 1,
@@ -9120,18 +8304,6 @@
     "year": 2017
   },
   {
-    "id": 807,
-    "species_name": "Seicercus sp.",
-    "count": 1,
-    "observer_name": "Steffin Babu",
-    "location_name": "Kandhulimari Village, Nagaon.",
-    "latitude": 26.4613888,
-    "longitude": 92.6078783,
-    "month_name": "Jan",
-    "day_no": 9,
-    "year": 2017
-  },
-  {
     "id": 808,
     "species_name": "Thick-billed Warbler",
     "count": 1,
@@ -9169,7 +8341,7 @@
   },
   {
     "id": 811,
-    "species_name": "Booted/Sykes's Warbler",
+    "species_name": "Booted/sykes's Warbler",
     "count": 1,
     "observer_name": "Krishna Murthy",
     "location_name": "Rampura lake",
@@ -9180,32 +8352,8 @@
     "year": 2017
   },
   {
-    "id": 812,
-    "species_name": "Iduna sp.",
-    "count": 3,
-    "observer_name": "Sahana M",
-    "location_name": "Karadi Kere",
-    "latitude": 13.2840026,
-    "longitude": 76.556983,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 813,
-    "species_name": "Hippolais sp.",
-    "count": 1,
-    "observer_name": "Shanmugam Kalidass",
-    "location_name": "Nallathangal Odai Reservoir, Dharapuram",
-    "latitude": 10.7088681,
-    "longitude": 77.6061666,
-    "month_name": "Jan",
-    "day_no": 3,
-    "year": 2017
-  },
-  {
     "id": 814,
-    "species_name": "Black-browed Reed-Warbler",
+    "species_name": "Black-browed Reed-warbler",
     "count": 2,
     "observer_name": "SOUVIK NANDI",
     "location_name": "University Institute Of Technology",
@@ -9253,7 +8401,7 @@
   },
   {
     "id": 818,
-    "species_name": "Blyth's Reed-Warbler",
+    "species_name": "Blyth's Reed-warbler",
     "count": 1,
     "observer_name": "forest venkat",
     "location_name": "VGP Layout",
@@ -9265,7 +8413,7 @@
   },
   {
     "id": 819,
-    "species_name": "Paddyfield/Blyth's Reed-Warbler",
+    "species_name": "Paddyfield/blyth's Reed-warbler",
     "count": 1,
     "observer_name": "swamy N R",
     "location_name": "Dore kere",
@@ -9277,36 +8425,12 @@
   },
   {
     "id": 820,
-    "species_name": "Clamorous Reed-Warbler",
+    "species_name": "Clamorous Reed-warbler",
     "count": 2,
     "observer_name": "Niranjana C",
     "location_name": "Kole Wetlands--Pullazhi",
     "latitude": 10.5239949,
     "longitude": 76.1580741,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 821,
-    "species_name": "Acrocephalus sp.",
-    "count": 2,
-    "observer_name": "Raju Kidoor",
-    "location_name": "Kidoor",
-    "latitude": 12.633,
-    "longitude": 74.9852,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 822,
-    "species_name": "Iduna/Hippolais/Acrocephalus sp.",
-    "count": 7,
-    "observer_name": "pooja pawar",
-    "location_name": "Iyerpadi",
-    "latitude": 10.3638373,
-    "longitude": 76.9772717,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -9325,7 +8449,7 @@
   },
   {
     "id": 824,
-    "species_name": "Pallas's Grasshopper-Warbler",
+    "species_name": "Pallas's Grasshopper-warbler",
     "count": 1,
     "observer_name": "Andr√© Weiss",
     "location_name": "Maguri Beel",
@@ -9337,7 +8461,7 @@
   },
   {
     "id": 825,
-    "species_name": "Common Grasshopper-Warbler",
+    "species_name": "Common Grasshopper-warbler",
     "count": 1,
     "observer_name": "Harshavardhan Jamakhandi",
     "location_name": "community based conservation centre ( CCC) MM Hills",
@@ -9349,7 +8473,7 @@
   },
   {
     "id": 826,
-    "species_name": "Baikal Bush-Warbler",
+    "species_name": "Baikal Bush-warbler",
     "count": 1,
     "observer_name": "Pramod  Venkatesh murthy",
     "location_name": "Maguri Beel",
@@ -9361,7 +8485,7 @@
   },
   {
     "id": 827,
-    "species_name": "Spotted Bush-Warbler",
+    "species_name": "Spotted Bush-warbler",
     "count": 1,
     "observer_name": "Andr√© Weiss",
     "location_name": "Maguri Beel",
@@ -9405,18 +8529,6 @@
     "longitude": 79.0538406,
     "month_name": "Jan",
     "day_no": 16,
-    "year": 2017
-  },
-  {
-    "id": 831,
-    "species_name": "cisticola sp.",
-    "count": 2,
-    "observer_name": "Karunakanth Bathula",
-    "location_name": "Ameenpur Lake, Hyderabad",
-    "latitude": 17.519391,
-    "longitude": 78.328511,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -9531,22 +8643,10 @@
     "id": 843,
     "species_name": "Plain Prinia",
     "count": 2,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 844,
-    "species_name": "prinia sp.",
-    "count": 2,
-    "observer_name": "Sangita Mani",
-    "location_name": "Kanha NP--Mukki Zone",
-    "latitude": 22.158897,
-    "longitude": 80.6633377,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -9601,7 +8701,7 @@
   },
   {
     "id": 849,
-    "species_name": "Hume's/Lesser Whitethroat",
+    "species_name": "Hume's/lesser Whitethroat",
     "count": 2,
     "observer_name": "vivek r",
     "location_name": "papnash lake forest",
@@ -9619,18 +8719,6 @@
     "location_name": "Gomta Vadi",
     "latitude": 21.8951233,
     "longitude": 70.7141122,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 851,
-    "species_name": "Sylvia sp.",
-    "count": 2,
-    "observer_name": "Prathamesh Desai",
-    "location_name": "Little Rann of Kachchh--Zainabad Edge",
-    "latitude": 23.2804577,
-    "longitude": 71.6669083,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -9816,18 +8904,6 @@
     "year": 2017
   },
   {
-    "id": 870,
-    "species_name": "yuhina sp.",
-    "count": 2,
-    "observer_name": "Prosenjit Dawn",
-    "location_name": "IN-West Bengal-Bara Mungwa-Unnamed Road - 27.063x88.41",
-    "latitude": 27.0633709,
-    "longitude": 88.409902,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 871,
     "species_name": "Oriental White-eye",
     "count": 4,
@@ -9844,7 +8920,7 @@
     "species_name": "Chestnut-capped Babbler",
     "count": 4,
     "observer_name": "Rofikul Islam",
-    "location_name": "Maguri beel",
+    "location_name": "Maguri Beel",
     "latitude": 27.5757373,
     "longitude": 95.3908324,
     "month_name": "Jan",
@@ -9853,7 +8929,7 @@
   },
   {
     "id": 873,
-    "species_name": "Pin-striped Tit-Babbler",
+    "species_name": "Pin-striped Tit-babbler",
     "count": 6,
     "observer_name": "Rofikul Islam",
     "location_name": "jeypore",
@@ -9925,7 +9001,7 @@
   },
   {
     "id": 880,
-    "species_name": "Bar-winged Wren-Babbler",
+    "species_name": "Bar-winged Wren-babbler",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Mandala road, Dirang",
@@ -9937,7 +9013,7 @@
   },
   {
     "id": 881,
-    "species_name": "Rusty-throated Wren-Babbler",
+    "species_name": "Rusty-throated Wren-babbler",
     "count": 2,
     "observer_name": "Sumanta Pramanick",
     "location_name": "Mehao WLS",
@@ -9949,7 +9025,7 @@
   },
   {
     "id": 882,
-    "species_name": "Rufous-throated Wren-Babbler",
+    "species_name": "Rufous-throated Wren-babbler",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Eaglenest Wildlife Sanctuary",
@@ -9973,7 +9049,7 @@
   },
   {
     "id": 884,
-    "species_name": "Red-billed Scimitar-Babbler",
+    "species_name": "Red-billed Scimitar-babbler",
     "count": 1,
     "observer_name": "Sanjay Sondhi",
     "location_name": "Khiviku CCA",
@@ -9985,7 +9061,7 @@
   },
   {
     "id": 885,
-    "species_name": "Coral-billed Scimitar-Babbler",
+    "species_name": "Coral-billed Scimitar-babbler",
     "count": 5,
     "observer_name": "Rofikul Islam",
     "location_name": "Elephant",
@@ -9997,7 +9073,7 @@
   },
   {
     "id": 886,
-    "species_name": "Slender-billed Scimitar-Babbler",
+    "species_name": "Slender-billed Scimitar-babbler",
     "count": 2,
     "observer_name": "Rohan Chakravarty",
     "location_name": "Tippi Forest Guest House",
@@ -10009,7 +9085,7 @@
   },
   {
     "id": 887,
-    "species_name": "Streak-breasted Scimitar-Babbler",
+    "species_name": "Streak-breasted Scimitar-babbler",
     "count": 1,
     "observer_name": "Subhojit Chakladar",
     "location_name": "Khonoma Nature Conservation and Tragopan Sanctuary (KNCTS)--Parking Lot",
@@ -10021,7 +9097,7 @@
   },
   {
     "id": 888,
-    "species_name": "Indian Scimitar-Babbler",
+    "species_name": "Indian Scimitar-babbler",
     "count": 3,
     "observer_name": "Sangita Mani",
     "location_name": "Kanha NP--Mukki Zone",
@@ -10033,7 +9109,7 @@
   },
   {
     "id": 889,
-    "species_name": "White-browed Scimitar-Babbler",
+    "species_name": "White-browed Scimitar-babbler",
     "count": 2,
     "observer_name": "Dp Srivastava",
     "location_name": "Khetiyo-Uttarakhand-Lansdowne-246155 - 29.6248x78.9769",
@@ -10045,7 +9121,7 @@
   },
   {
     "id": 890,
-    "species_name": "Large Scimitar-Babbler",
+    "species_name": "Large Scimitar-babbler",
     "count": 2,
     "observer_name": "Rofikul Islam",
     "location_name": "jeypore",
@@ -10057,7 +9133,7 @@
   },
   {
     "id": 891,
-    "species_name": "Rusty-cheeked Scimitar-Babbler",
+    "species_name": "Rusty-cheeked Scimitar-babbler",
     "count": 6,
     "observer_name": "Nitin Kapoor",
     "location_name": "IN-Uttarakhand-Ranikhet-263645 - 29.6402x79.4196",
@@ -10077,18 +9153,6 @@
     "longitude": 95.382936,
     "month_name": "Jan",
     "day_no": 2,
-    "year": 2017
-  },
-  {
-    "id": 894,
-    "species_name": "babbler sp.",
-    "count": 2,
-    "observer_name": "Raju Kidoor",
-    "location_name": "Navajeevana School Perdala",
-    "latitude": 12.5853607,
-    "longitude": 75.073303,
-    "month_name": "Jan",
-    "day_no": 7,
     "year": 2017
   },
   {
@@ -10152,18 +9216,6 @@
     "year": 2017
   },
   {
-    "id": 900,
-    "species_name": "Schoeniparus sp.",
-    "count": 1,
-    "observer_name": "Sahas Barve",
-    "location_name": "IN-Assam-NH37 - 26.6137x93.5028 - Jan 17, 2017, 7:01 PM",
-    "latitude": 26.613673,
-    "longitude": 93.502836,
-    "month_name": "Jan",
-    "day_no": 17,
-    "year": 2017
-  },
-  {
     "id": 901,
     "species_name": "Puff-throated Babbler",
     "count": 2,
@@ -10201,7 +9253,7 @@
   },
   {
     "id": 904,
-    "species_name": "Long-billed Wren-Babbler",
+    "species_name": "Long-billed Wren-babbler",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Lama Camp, Eaglenest WLS",
@@ -10213,7 +9265,7 @@
   },
   {
     "id": 905,
-    "species_name": "Eyebrowed Wren-Babbler",
+    "species_name": "Eyebrowed Wren-babbler",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Eaglenest Wildlife Sanctuary",
@@ -10237,7 +9289,7 @@
   },
   {
     "id": 907,
-    "species_name": "Streaked Wren-Babbler",
+    "species_name": "Streaked Wren-babbler",
     "count": 1,
     "observer_name": "Yoav Perlman",
     "location_name": "Kaziranga NP--Agaratoli range",
@@ -10359,7 +9411,7 @@
     "id": 918,
     "species_name": "Jungle Babbler",
     "count": 15,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -10381,7 +9433,7 @@
   },
   {
     "id": 921,
-    "species_name": "Jungle/Yellow-billed Babbler",
+    "species_name": "Jungle/yellow-billed Babbler",
     "count": 12,
     "observer_name": "Nagaraja  Adiga",
     "location_name": "Kaiga township",
@@ -10389,18 +9441,6 @@
     "longitude": 74.3279111,
     "month_name": "Jan",
     "day_no": 30,
-    "year": 2017
-  },
-  {
-    "id": 922,
-    "species_name": "Turdoides sp.",
-    "count": 1,
-    "observer_name": "Kumaraswamy BR",
-    "location_name": "Hampi",
-    "latitude": 15.3363797,
-    "longitude": 76.4604537,
-    "month_name": "Jan",
-    "day_no": 5,
     "year": 2017
   },
   {
@@ -10425,18 +9465,6 @@
     "longitude": 93.4769368,
     "month_name": "Jan",
     "day_no": 7,
-    "year": 2017
-  },
-  {
-    "id": 925,
-    "species_name": "Garrulax sp.",
-    "count": 1,
-    "observer_name": "chicu lokgariwar",
-    "location_name": "Chatola",
-    "latitude": 29.4931439,
-    "longitude": 79.6454473,
-    "month_name": "Feb",
-    "day_no": 17,
     "year": 2017
   },
   {
@@ -10501,7 +9529,7 @@
   },
   {
     "id": 931,
-    "species_name": "Lesser/Greater Necklaced Laughingthrush",
+    "species_name": "Lesser/greater Necklaced Laughingthrush",
     "count": 10,
     "observer_name": "Devathi Parashuram",
     "location_name": "Pakke WLS",
@@ -10701,18 +9729,6 @@
     "longitude": 94.4807482,
     "month_name": "Jan",
     "day_no": 18,
-    "year": 2017
-  },
-  {
-    "id": 948,
-    "species_name": "laughingthrush sp.",
-    "count": 7,
-    "observer_name": "Murugesh Natesan",
-    "location_name": "Doddabetta Peak",
-    "latitude": 11.4011256,
-    "longitude": 76.7358595,
-    "month_name": "Jan",
-    "day_no": 20,
     "year": 2017
   },
   {
@@ -10956,18 +9972,6 @@
     "year": 2017
   },
   {
-    "id": 969,
-    "species_name": "Muscicapa sp.",
-    "count": 1,
-    "observer_name": "Divin Murukesh",
-    "location_name": "Mooleppadam to Kakkadampoyil",
-    "latitude": 11.336743,
-    "longitude": 76.1332369,
-    "month_name": "Jan",
-    "day_no": 7,
-    "year": 2017
-  },
-  {
     "id": 970,
     "species_name": "Indian Robin",
     "count": 1,
@@ -10981,9 +9985,9 @@
   },
   {
     "id": 971,
-    "species_name": "Oriental Magpie-Robin",
+    "species_name": "Oriental Magpie-robin",
     "count": 2,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -11041,7 +10045,7 @@
   },
   {
     "id": 976,
-    "species_name": "White-bellied Blue-Flycatcher",
+    "species_name": "White-bellied Blue-flycatcher",
     "count": 1,
     "observer_name": "Prasanna Parab",
     "location_name": "Netravali WLS",
@@ -11053,7 +10057,7 @@
   },
   {
     "id": 977,
-    "species_name": "Pale-chinned Blue-Flycatcher",
+    "species_name": "Pale-chinned Blue-flycatcher",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "jeypore",
@@ -11065,7 +10069,7 @@
   },
   {
     "id": 978,
-    "species_name": "Pale Blue-Flycatcher",
+    "species_name": "Pale Blue-flycatcher",
     "count": 1,
     "observer_name": "Saniya Chaplod",
     "location_name": "Pakke Tiger Reserve",
@@ -11089,7 +10093,7 @@
   },
   {
     "id": 980,
-    "species_name": "Large Blue-Flycatcher",
+    "species_name": "Large Blue-flycatcher",
     "count": 1,
     "observer_name": "Rohit Naniwadekar",
     "location_name": "Pakke WLS",
@@ -11101,7 +10105,7 @@
   },
   {
     "id": 981,
-    "species_name": "Tickell's Blue-Flycatcher",
+    "species_name": "Tickell's Blue-flycatcher",
     "count": 1,
     "observer_name": "Rahul Paranjape",
     "location_name": "Sinhagad Valley",
@@ -11113,7 +10117,7 @@
   },
   {
     "id": 982,
-    "species_name": "blue-flycatcher sp.",
+    "species_name": "Blue-flycatcher",
     "count": 4,
     "observer_name": "Sanjiv Khanna",
     "location_name": "IN-Punjab-Nurmahal-Jamsher Diwali Rd - 31.098x75.589",
@@ -11293,7 +10297,7 @@
   },
   {
     "id": 997,
-    "species_name": "Malabar Whistling-Thrush",
+    "species_name": "Malabar Whistling-thrush",
     "count": 1,
     "observer_name": "Mrinmayee Thakur",
     "location_name": "Bondla Wildlife Sanctuary",
@@ -11305,7 +10309,7 @@
   },
   {
     "id": 998,
-    "species_name": "Blue Whistling-Thrush",
+    "species_name": "Blue Whistling-thrush",
     "count": 1,
     "observer_name": "Balwant Negi",
     "location_name": "Aahana Resort, Savaldeh, Ramnagar",
@@ -11376,18 +10380,6 @@
     "year": 2017
   },
   {
-    "id": 1004,
-    "species_name": "forktail sp.",
-    "count": 1,
-    "observer_name": "Prosenjit Dawn",
-    "location_name": "IN-West Bengal-Bara Mungwa-Unnamed Road - 27.063x88.41",
-    "latitude": 27.0633709,
-    "longitude": 88.409902,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 1005,
     "species_name": "Siberian Rubythroat",
     "count": 1,
@@ -11439,7 +10431,7 @@
     "id": 1009,
     "species_name": "Grandala",
     "count": 31,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Great Himalayan NP",
     "latitude": 31.6412112,
     "longitude": 77.3865004,
@@ -11461,7 +10453,7 @@
   },
   {
     "id": 1011,
-    "species_name": "Rufous-breasted Bush-Robin",
+    "species_name": "Rufous-breasted Bush-robin",
     "count": 4,
     "observer_name": "Rofikul Islam",
     "location_name": "Lama Camp, Eaglenest WLS",
@@ -11473,7 +10465,7 @@
   },
   {
     "id": 1012,
-    "species_name": "White-browed Bush-Robin",
+    "species_name": "White-browed Bush-robin",
     "count": 1,
     "observer_name": "Rofikul Islam",
     "location_name": "Eaglenest Wildlife Sanctuary",
@@ -11485,9 +10477,9 @@
   },
   {
     "id": 1013,
-    "species_name": "Golden Bush-Robin",
+    "species_name": "Golden Bush-robin",
     "count": 1,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "mist chamaber Khalini",
     "latitude": 31.0847857,
     "longitude": 77.1619391,
@@ -11640,18 +10632,6 @@
     "year": 2017
   },
   {
-    "id": 1028,
-    "species_name": "Ficedula sp.",
-    "count": 1,
-    "observer_name": "Prasanna Parab",
-    "location_name": "Netravali WLS",
-    "latitude": 15.1191931,
-    "longitude": 74.2529869,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 1029,
     "species_name": "Blue-fronted Redstart",
     "count": 1,
@@ -11748,20 +10728,8 @@
     "year": 2017
   },
   {
-    "id": 1038,
-    "species_name": "redstart sp.",
-    "count": 1,
-    "observer_name": "Neeraj Sharma",
-    "location_name": "Jammu and around",
-    "latitude": 32.7178327,
-    "longitude": 74.8384809,
-    "month_name": "Jan",
-    "day_no": 3,
-    "year": 2017
-  },
-  {
     "id": 1039,
-    "species_name": "Chestnut-bellied Rock-Thrush",
+    "species_name": "Chestnut-bellied Rock-thrush",
     "count": 1,
     "observer_name": "Rohan Chakravarty",
     "location_name": "Tippi Forest Guest House",
@@ -11773,7 +10741,7 @@
   },
   {
     "id": 1040,
-    "species_name": "Blue-capped Rock-Thrush",
+    "species_name": "Blue-capped Rock-thrush",
     "count": 1,
     "observer_name": "Ashish Jha",
     "location_name": "Uma Maheswaram",
@@ -11785,7 +10753,7 @@
   },
   {
     "id": 1041,
-    "species_name": "Blue Rock-Thrush",
+    "species_name": "Blue Rock-thrush",
     "count": 1,
     "observer_name": "Anoop CR",
     "location_name": "Thirunelly, Thirunelly Rd",
@@ -11892,18 +10860,6 @@
     "year": 2017
   },
   {
-    "id": 1053,
-    "species_name": "wheatear sp.",
-    "count": 1,
-    "observer_name": "Vineeth  Malabaricus",
-    "location_name": "Forsyth Lodge",
-    "latitude": 22.5956873,
-    "longitude": 78.1499898,
-    "month_name": "Jan",
-    "day_no": 25,
-    "year": 2017
-  },
-  {
     "id": 1054,
     "species_name": "Pied Thrush",
     "count": 1,
@@ -12000,18 +10956,6 @@
     "year": 2017
   },
   {
-    "id": 1062,
-    "species_name": "Zoothera sp.",
-    "count": 1,
-    "observer_name": "suresh sharma",
-    "location_name": "Ch. Devi Lal Herbal Nature Park, Khizrabad, Haryana",
-    "latitude": 30.2700388,
-    "longitude": 77.4909925,
-    "month_name": "Feb",
-    "day_no": 5,
-    "year": 2017
-  },
-  {
     "id": 1063,
     "species_name": "Tickell's Thrush",
     "count": 1,
@@ -12039,7 +10983,7 @@
     "id": 1065,
     "species_name": "White-collared Blackbird",
     "count": 2,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
@@ -12099,7 +11043,7 @@
     "id": 1070,
     "species_name": "Chestnut Thrush",
     "count": 1,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
@@ -12147,24 +11091,12 @@
     "id": 1074,
     "species_name": "Mistle Thrush",
     "count": 1,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
     "month_name": "Jan",
     "day_no": 11,
-    "year": 2017
-  },
-  {
-    "id": 1075,
-    "species_name": "Turdus sp.",
-    "count": 1,
-    "observer_name": "Anonymous eBirder",
-    "location_name": "40 Feet Bridge",
-    "latitude": 11.7516138,
-    "longitude": 78.1877148,
-    "month_name": "Jan",
-    "day_no": 26,
     "year": 2017
   },
   {
@@ -12189,18 +11121,6 @@
     "longitude": 95.382936,
     "month_name": "Feb",
     "day_no": 2,
-    "year": 2017
-  },
-  {
-    "id": 1078,
-    "species_name": "thrush sp.",
-    "count": 1,
-    "observer_name": "Anu john",
-    "location_name": "IN-Kerala-Kozhikode-Indoor Stadium Cross Road - 11.258x75.786",
-    "latitude": 11.2576046,
-    "longitude": 75.7857933,
-    "month_name": "Jan",
-    "day_no": 3,
     "year": 2017
   },
   {
@@ -12279,7 +11199,7 @@
     "id": 1085,
     "species_name": "Asian Pied Starling",
     "count": 12,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -12291,7 +11211,7 @@
     "id": 1086,
     "species_name": "Brahminy Starling",
     "count": 2,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -12303,7 +11223,7 @@
     "id": 1087,
     "species_name": "Chestnut-tailed Starling",
     "count": 6,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -12325,7 +11245,7 @@
   },
   {
     "id": 1089,
-    "species_name": "Chestnut-tailed/Malabar Starling",
+    "species_name": "Chestnut-tailed/malabar Starling",
     "count": 10,
     "observer_name": "Niranjana C",
     "location_name": "Kerala Agricultural University, Main Campus",
@@ -12385,7 +11305,7 @@
   },
   {
     "id": 1094,
-    "species_name": "Common/Jungle Myna",
+    "species_name": "Common/jungle Myna",
     "count": 1,
     "observer_name": "NaveenKumar Ganugapenta",
     "location_name": "Munekolala Lake",
@@ -12409,7 +11329,7 @@
   },
   {
     "id": 1096,
-    "species_name": "black myna sp.",
+    "species_name": "Black Myna",
     "count": 5,
     "observer_name": "nizar  virani",
     "location_name": "rawdon square",
@@ -12429,18 +11349,6 @@
     "longitude": 93.5128441,
     "month_name": "Jan",
     "day_no": 16,
-    "year": 2017
-  },
-  {
-    "id": 1099,
-    "species_name": "myna/starling sp.",
-    "count": 41,
-    "observer_name": "Avishkar Munje",
-    "location_name": "GKVK Campus, Bangalore",
-    "latitude": 13.0857318,
-    "longitude": 77.5713301,
-    "month_name": "Jan",
-    "day_no": 14,
     "year": 2017
   },
   {
@@ -12469,7 +11377,7 @@
   },
   {
     "id": 1103,
-    "species_name": "Jerdon's/Golden-fronted Leafbird",
+    "species_name": "Jerdon's/golden-fronted Leafbird",
     "count": 1,
     "observer_name": "Mohit Aggarwal",
     "location_name": "Muthanallur Lake, Bangalore",
@@ -12487,18 +11395,6 @@
     "location_name": "Garbhanga Reserve Forest, Guwahati",
     "latitude": 26.0929764,
     "longitude": 91.742878,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 1105,
-    "species_name": "leafbird sp.",
-    "count": 2,
-    "observer_name": "Rajesh Radhakrishnan",
-    "location_name": "Malampuzha Ring Road (Left hand side)",
-    "latitude": 10.8488591,
-    "longitude": 76.6675544,
     "month_name": "Jan",
     "day_no": 1,
     "year": 2017
@@ -12553,10 +11449,10 @@
   },
   {
     "id": 1110,
-    "species_name": "Thick-billed/Pale-billed Flowerpecker",
+    "species_name": "Thick-billed/pale-billed Flowerpecker",
     "count": 1,
     "observer_name": "Arun kumar  B K",
-    "location_name": "IN - 14.595x74.846 - 20 Jan 2017 1:24 PM",
+    "location_name": "",
     "latitude": 14.5953697,
     "longitude": 74.8464055,
     "month_name": "Jan",
@@ -12621,30 +11517,6 @@
     "longitude": 93.5614157,
     "month_name": "Jan",
     "day_no": 6,
-    "year": 2017
-  },
-  {
-    "id": 1116,
-    "species_name": "Dicaeum sp.",
-    "count": 1,
-    "observer_name": "Raman Kumar",
-    "location_name": "Curzon Road, Dalanwala, Dehradun",
-    "latitude": 30.3122598,
-    "longitude": 78.0516011,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 1117,
-    "species_name": "flowerpecker sp.",
-    "count": 1,
-    "observer_name": "Adhithyan  NK",
-    "location_name": "Kole Wetlands--Enamavu Regulator Bridge",
-    "latitude": 10.529712,
-    "longitude": 76.1024988,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -12792,18 +11664,6 @@
     "year": 2017
   },
   {
-    "id": 1130,
-    "species_name": "sunbird sp.",
-    "count": 2,
-    "observer_name": "SACHIN KRISHNA M V",
-    "location_name": "puzhakkal kole",
-    "latitude": 10.5309884,
-    "longitude": 76.1724347,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 1131,
     "species_name": "Little Spiderhunter",
     "count": 2,
@@ -12888,18 +11748,6 @@
     "year": 2017
   },
   {
-    "id": 1140,
-    "species_name": "accentor sp.",
-    "count": 7,
-    "observer_name": "Kavinder kumar",
-    "location_name": "Niharni",
-    "latitude": 31.7816678,
-    "longitude": 77.4122493,
-    "month_name": "Feb",
-    "day_no": 22,
-    "year": 2017
-  },
-  {
     "id": 1141,
     "species_name": "Forest Wagtail",
     "count": 1,
@@ -12937,7 +11785,7 @@
   },
   {
     "id": 1144,
-    "species_name": "Western/Eastern Yellow Wagtail",
+    "species_name": "Western/eastern Yellow Wagtail",
     "count": 5,
     "observer_name": "Andr√© Weiss",
     "location_name": "Maguri Beel",
@@ -12996,22 +11844,10 @@
     "year": 2017
   },
   {
-    "id": 1149,
-    "species_name": "wagtail sp.",
-    "count": 1,
-    "observer_name": "Steffin Babu",
-    "location_name": "Nehru Yuva Kendra, Nagaon",
-    "latitude": 26.3517287,
-    "longitude": 92.6923478,
-    "month_name": "Jan",
-    "day_no": 1,
-    "year": 2017
-  },
-  {
     "id": 1150,
     "species_name": "Richard's Pipit",
     "count": 1,
-    "observer_name": "TheNatureTrust",
+    "observer_name": "The NatureTrust",
     "location_name": "Nelapattu Bird Sanctuary-ANDHRA PRADESH",
     "latitude": 13.8258471,
     "longitude": 79.9488918,
@@ -13023,7 +11859,7 @@
     "id": 1151,
     "species_name": "Paddyfield Pipit",
     "count": 4,
-    "observer_name": "Aaditya  S Kumar",
+    "observer_name": "Aaditya S Kumar",
     "location_name": "CDA Sector 9 to Shelter Road",
     "latitude": 20.4910647,
     "longitude": 85.7993388,
@@ -13033,7 +11869,7 @@
   },
   {
     "id": 1152,
-    "species_name": "Richard's/Paddyfield Pipit",
+    "species_name": "Richard's/paddyfield Pipit",
     "count": 2,
     "observer_name": "Anonymous eBirder",
     "location_name": "Balaare kere",
@@ -13069,7 +11905,7 @@
   },
   {
     "id": 1155,
-    "species_name": "Richard's/Blyth's Pipit",
+    "species_name": "Richard's/blyth's Pipit",
     "count": 2,
     "observer_name": "MS Raghunath",
     "location_name": "TungabhadraHighLevelCanalHampi_15.277x76.484 - 6 Jan 2017 09:55",
@@ -13153,7 +11989,7 @@
   },
   {
     "id": 1162,
-    "species_name": "Tree/Olive-backed Pipit",
+    "species_name": "Tree/olive-backed Pipit",
     "count": 1,
     "observer_name": "Kiran bagade",
     "location_name": "Mukanapalya lake",
@@ -13201,26 +12037,14 @@
   },
   {
     "id": 1166,
-    "species_name": "Water/American Pipit",
+    "species_name": "Water/american Pipit",
     "count": 1,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Pong Dam wildlife Sanctuary",
     "latitude": 31.9284177,
     "longitude": 76.1650372,
     "month_name": "Feb",
     "day_no": 17,
-    "year": 2017
-  },
-  {
-    "id": 1167,
-    "species_name": "pipit sp.",
-    "count": 1,
-    "observer_name": "Varun Kher",
-    "location_name": "Baner Hill, Pune",
-    "latitude": 18.549481,
-    "longitude": 73.7845981,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   },
   {
@@ -13245,30 +12069,6 @@
     "longitude": 69.3151474,
     "month_name": "Jan",
     "day_no": 7,
-    "year": 2017
-  },
-  {
-    "id": 1170,
-    "species_name": "warbler sp. (Parulidae sp.)",
-    "count": 1,
-    "observer_name": "Karthik  Thrikkadeeri",
-    "location_name": "Golden village road",
-    "latitude": 12.9459799,
-    "longitude": 77.6542881,
-    "month_name": "Jan",
-    "day_no": 26,
-    "year": 2017
-  },
-  {
-    "id": 1171,
-    "species_name": "sparrow sp.",
-    "count": 2,
-    "observer_name": "Chayant Gonsalves",
-    "location_name": "IN-Himachal Pradesh-Dharamshala-Bhagsunag Road",
-    "latitude": 32.2387576,
-    "longitude": 76.3239732,
-    "month_name": "Jan",
-    "day_no": 4,
     "year": 2017
   },
   {
@@ -13407,7 +12207,7 @@
     "id": 1183,
     "species_name": "Red-headed Bunting",
     "count": 2,
-    "observer_name": "The Nature Trust",
+    "observer_name": "The NatureTrust",
     "location_name": "Nelapattu Bird Sanctuary-ANDHRA PRADESH",
     "latitude": 13.8258471,
     "longitude": 79.9488918,
@@ -13417,7 +12217,7 @@
   },
   {
     "id": 1184,
-    "species_name": "Black-headed/Red-headed Bunting",
+    "species_name": "Black-headed/red-headed Bunting",
     "count": 150,
     "observer_name": "Praveen J",
     "location_name": "Tungabhadra Canal",
@@ -13437,18 +12237,6 @@
     "longitude": 93.455286,
     "month_name": "Jan",
     "day_no": 8,
-    "year": 2017
-  },
-  {
-    "id": 1186,
-    "species_name": "Emberiza sp.",
-    "count": 6,
-    "observer_name": "Praveen J",
-    "location_name": "Tungabhadra Canal",
-    "latitude": 15.2764263,
-    "longitude": 76.484828,
-    "month_name": "Jan",
-    "day_no": 6,
     "year": 2017
   },
   {
@@ -13477,7 +12265,7 @@
   },
   {
     "id": 1189,
-    "species_name": "Plain Mountain-Finch",
+    "species_name": "Plain Mountain-finch",
     "count": 3,
     "observer_name": "Chetna Sharma",
     "location_name": "Narkand, Himachal Pradesh",
@@ -13564,7 +12352,7 @@
     "species_name": "Orange Bullfinch",
     "count": 1,
     "observer_name": "S R Aamir",
-    "location_name": "34.139x74.871 - Jan 28, 2017 12:33 AM",
+    "location_name": "",
     "latitude": 34.1393342,
     "longitude": 74.8712498,
     "month_name": "Jan",
@@ -13692,18 +12480,6 @@
     "year": 2017
   },
   {
-    "id": 1210,
-    "species_name": "rosefinch sp.",
-    "count": 10,
-    "observer_name": "Santosh   Kumar Thakur",
-    "location_name": "Catchment WLS, Shimla Dt",
-    "latitude": 31.1119106,
-    "longitude": 77.2351265,
-    "month_name": "Jan",
-    "day_no": 11,
-    "year": 2017
-  },
-  {
     "id": 1211,
     "species_name": "Scarlet Finch",
     "count": 1,
@@ -13791,7 +12567,7 @@
     "id": 1219,
     "species_name": "Collared Grosbeak",
     "count": 3,
-    "observer_name": "Santosh   Kumar Thakur",
+    "observer_name": "Santosh Kumar Thakur",
     "location_name": "Catchment WLS, Shimla Dt",
     "latitude": 31.1119106,
     "longitude": 77.2351265,
@@ -13821,30 +12597,6 @@
     "longitude": 92.1095037,
     "month_name": "Jan",
     "day_no": 23,
-    "year": 2017
-  },
-  {
-    "id": 1222,
-    "species_name": "Mycerobas sp.",
-    "count": 1,
-    "observer_name": "Wildlife Wing Himachal Pradesh Forest Department",
-    "location_name": "Udaipur along with Chenab river",
-    "latitude": 32.7234651,
-    "longitude": 76.6653657,
-    "month_name": "Feb",
-    "day_no": 17,
-    "year": 2017
-  },
-  {
-    "id": 1223,
-    "species_name": "finch sp.",
-    "count": 1,
-    "observer_name": "Neeraj Sharma",
-    "location_name": "Jammu and around",
-    "latitude": 32.7178327,
-    "longitude": 74.8384809,
-    "month_name": "Jan",
-    "day_no": 12,
     "year": 2017
   },
   {
@@ -13905,18 +12657,6 @@
     "longitude": 95.8431387,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 1229,
-    "species_name": "Passer sp.",
-    "count": 2,
-    "observer_name": "Catherene  Christian",
-    "location_name": "Desert National Park",
-    "latitude": 26.8469462,
-    "longitude": 72.2081799,
-    "month_name": "Jan",
-    "day_no": 22,
     "year": 2017
   },
   {
@@ -13989,18 +12729,6 @@
     "longitude": 72.4030352,
     "month_name": "Jan",
     "day_no": 1,
-    "year": 2017
-  },
-  {
-    "id": 1237,
-    "species_name": "Ploceus sp.",
-    "count": 65,
-    "observer_name": "Sumesh  b",
-    "location_name": "Changaram Wetlands -- Ezhupunna",
-    "latitude": 9.7994413,
-    "longitude": 76.288514,
-    "month_name": "Feb",
-    "day_no": 13,
     "year": 2017
   },
   {
@@ -14085,18 +12813,6 @@
     "longitude": 88.4732866,
     "month_name": "Jan",
     "day_no": 3,
-    "year": 2017
-  },
-  {
-    "id": 1246,
-    "species_name": "Lonchura sp.",
-    "count": 1,
-    "observer_name": "Umesh Mani",
-    "location_name": "Adayaru Estuary",
-    "latitude": 13.0121679,
-    "longitude": 80.2760267,
-    "month_name": "Jan",
-    "day_no": 1,
     "year": 2017
   }
 ]
