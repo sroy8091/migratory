@@ -1,0 +1,5437 @@
+﻿Andaman and Nicobar Islands
+Austin Strait:
+IBA Code	IN-AN-01
+Site Name	Austin Strait
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Baratang - Rafters Creek
+IBA Code	IN-AN-02
+Site Name	Baratang - Rafters Creek
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Semi Evergreen  and Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Car Nicobar:
+IBA Code	IN-AN-03
+Site Name	Car Nicobar
+Province	Andaman & Nicobar
+Districts	Nicobar Islands
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Chainpur and Hanspuri:
+IBA Code	IN-AN-04
+Site Name	Chainpur and Hanspuri
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species(A1, A2)
+Habitat Type	Tropical Semi Evergreen 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Great Nicobar, Little Nicobar:
+IBA Code	IN-AN-05
+Site Name	Great Nicobar, Little Nicobar
+Province	Andaman & Nicobar
+Districts	Nicobar Islands
+Area	85319 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Interview Island:
+IBA Code	IN-AN-06
+Site Name	Interview Island
+Province	Andaman & Nicobar
+Districts	Andaman
+Area	13387 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+ 
+Jarawa Reserve (Middle and South):
+IBA Code	IN-AN-07
+Site Name	Jarawa Reserve (Middle and South)
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	91108 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+ 
+Kadakachang:
+IBA Code	IN-AN-08
+Site Name	Kadakachang
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen and Tropical Semi Evergreen, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Land Fall Island:
+IBA Code	IN-AN-09
+Site Name	Land Fall Island
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	2948 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen and Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Little Andamans:
+IBA Code	IN-AN-10
+Site Name	Little Andamans
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	52000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Mahatma Gandhi Marine:
+IBA Code	IN-AN-11
+Site Name	Mahatma Gandhi Marine
+Province	Andaman & Nicobar
+Districts	Andaman islands
+Area	28150 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Mount Diavalo - Cuthbert Bay:
+IBA Code	IN-AN-12
+Site Name	Mount Diavalo - Cuthbert Bay
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Mount Harriet - Shoal Bay:
+IBA Code	IN-AN-13
+Site Name	Mount Harriet - Shoal Bay
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	4662 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Narcondam Island:
+IBA Code	IN-AN-14
+Site Name	Narcondam Island
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	681 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+North and South Sentinel:
+IBA Code	IN-AN-15
+Site Name	North and South Sentinel
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	4700 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+North Reef Island:
+IBA Code	IN-AN-16
+Site Name	North Reef Island
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	348 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Rani Jhansi Marine:
+IBA Code	IN-AN-17
+Site Name	Rani Jhansi Marine
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	25614 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Saddle Peak:
+IBA Code	IN-AN-18
+Site Name	Saddle Peak
+Province	Andaman & Nicobar
+Districts	Andaman Islands
+Area	3254 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Tilanghong, Camorta, Katchal, Nanc:
+IBA Code	IN-AN-19
+Site Name	Tilanghong, Camorta, Katchal, Nanc
+Province	Andaman & Nicobar
+Districts	Nicobar Islands
+Area	1683 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Tropical Grassland, Littoral 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+ 
+
+
+Andhra Pradesh 
+Coringa and Godaveri Estuary:
+IBA Code	IN-AP-01
+Site Name	Coringa and Godaveri Estuary
+Province	Andhra Pradesh
+Districts	East Godavari
+Area	23570 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Mangrove, Dry Deciduous Tropical 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Horsely Hills:
+IBA Code	IN-AP-02
+Site Name	Horsely Hills
+Province	Andhra Pradesh
+Districts	Chittoor
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Kaundinya:
+IBA Code	IN-AP-03
+Site Name	Kaundinya
+Province	Andhra Pradesh
+Districts	Chittoor
+Area	35670 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Deciduous , Tropical Secondary Scrub
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Kolleru:
+IBA Code	IN-AP-04
+Site Name	Kolleru
+Province	Andhra Pradesh
+Districts	West Godavari, Krishna
+Area	67300 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp Tropical Secondary Scrub
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Manjira:
+IBA Code	IN-AP-05
+Site Name	Manjira
+Province	Andhra Pradesh
+Districts	Medak
+Area	2000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Riverine Wetland
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Nagarjuna Sagar - Srisailam Rajeev:
+IBA Code	IN-AP-06
+Site Name	Nagarjuna Sagar - Srisailam Rajeev
+Province	Andhra Pradesh
+Districts	-
+Area	356809 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Sub Tropical Dry Evergreen 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Nelapattu:
+IBA Code	IN-AP-07
+Site Name	Nelapattu
+Province	Andhra Pradesh
+Districts	Nellore
+Area	440 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Littoral , Tropical Secondary Scrub
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Pakhal:
+IBA Code	IN-AP-08
+Site Name	Pakhal
+Province	Andhra Pradesh
+Districts	Warangal
+Area	87930 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4iii)
+Habitat Type	Southern Mixed Deciduous Type 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Pocharam:
+IBA Code	IN-AP-09
+Site Name	Pocharam
+Province	Andhra Pradesh
+Districts	Medak and Nizamabad
+Area	13000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Mixed Dry Deciduous 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Pulicat Lake:
+IBA Code	IN-AP-10
+Site Name	Pulicat Lake
+Province	Andhra Pradesh
+Districts	Nellore
+Area	60000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Littoral , Tropical Dry Evergreen 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Rollapadu:
+IBA Code	IN-AP-11
+Site Name	Rollapadu
+Province	Andhra Pradesh
+Districts	Kurnool
+Area	614 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population
+Sri Lankamalleshwaram:
+IBA Code	IN-AP-12
+Site Name	Sri Lankamalleshwaram
+Province	Andhra Pradesh
+Districts	Cuddapah
+Area	46400 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Deciduous s
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Sri Penusula Narasimha:
+IBA Code	IN-AP-13
+Site Name	Sri Penusula Narasimha
+Province	Andhra Pradesh
+Districts	Nellore and Cuddapah
+Area	103085 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous, Sub Tropical Secondary Scrub
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Sri Venkateswara:
+IBA Code	IN-AP-14
+Site Name	Sri Venkateswara
+Province	Andhra Pradesh
+Districts	Chittoor and Cuddapah
+Area	50694 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Telineelapuram:
+IBA Code	IN-AP-15
+Site Name	Telineelapuram
+Province	Andhra Pradesh
+Districts	Srikakulam
+Area	460 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+Uppalapaddu:
+IBA Code	IN-AP-16
+Site Name	Uppalapaddu
+Province	Andhra Pradesh
+Districts	Guntur
+Area	15 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 	 
+Recommended citations: Jhunjhunwala, S., Rahmani, A.R., Ishtiaq, F., Islam, Z., 2001. The Important Bird Areas Programme in India. Buceros Vol. 6. No. 2 
+Islam, M.Z. & Rahmani A.R. (2004), Important Bird Areas in India : Priority sites for conservation. Indian Bird Conservation Network, BNHS & BirdLife International (UK ). Pp xviii + 1133
+
+
+Arunachal Pradesh 
+Chaglagaum - Denning - Walong:
+IBA Code	IN-AR-01
+Site Name	Chaglagaum - Denning - Walong
+Province	Arunachal Pradesh
+Districts	Lohit
+Area	200000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Sub Alpine Dry Scrub
+ 	 
+ 	 
+Chayang Tajo - Khenewa Lada Area:
+IBA Code	IN-AR-02
+Site Name	Chayang Tajo - Khenewa Lada Area
+Province	Arunachal Pradesh
+Districts	East Kameng
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical, Semi Evergreen , Sub Tropical Broad Leaved Hill
+D?Ering Memorial:
+IBA Code	IN-AR-03
+Site Name	D?Ering Memorial
+Province	Arunachal Pradesh
+Districts	East Siang
+Area	19000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A2, A4i)
+Habitat Type	Riverine Vegetation, Montane Grassy Slopes
+Dibang and Adjacent Areas:
+IBA Code	IN-AR-04
+Site Name	Dibang and Adjacent Areas
+Province	Arunachal Pradesh
+Districts	Lower Dibang Valley
+Area	20200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Grassy Slopes, Tropical Wet Evergreen
+ 	 
+Dibang:
+IBA Code	IN-AR-05
+Site Name	Dibang
+Province	Arunachal Pradesh
+Districts	Upper Dibang Valley
+Area	414900 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill, Sub Tropical Pine , Sub Tropical Dry Evergreen
+Ditchu:
+IBA Code	IN-AR-06
+Site Name	Ditchu
+Province	Arunachal Pradesh
+Districts	Lohit
+Area	179200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen 
+Eaglenest and Seesa:
+IBA Code	IN-AR-07
+Site Name	Eaglenest and Seesa
+Province	Arunachal Pradesh
+Districts	West Kameng
+Area	31700 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Evergreen, Montane Wet Temperate , Sub Alpine 
+Itanagar:
+IBA Code	IN-AR-08
+Site Name	Itanagar
+Province	Arunachal Pradesh
+Districts	Papumpare
+Area	14030 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Semi Evergreen 
+ 	 
+Kane:
+IBA Code	IN-AR-09
+Site Name	Kane
+Province	Arunachal Pradesh
+Districts	West Siang
+Area	5500 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen , Sub Tropical Broad Leaved Hill
+Kolo Riang - Sarli - Damin Areas:
+IBA Code	IN-AR-10
+Site Name	Kolo Riang - Sarli - Damin Areas
+Province	Arunachal Pradesh
+Districts	Lower Subansiri
+Area	200000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen, Montane Wet Temperate , Sub Alpine Dry Scrub
+Mago Thingbu and Luguthang Area:
+IBA Code	IN-AR-11
+Site Name	Mago Thingbu and Luguthang Area
+Province	Arunachal Pradesh
+Districts	Tawang
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Dry Evergreen, Sub Tropical Broad Leaved Hill
+Manabum and Tengapanis:
+IBA Code	IN-AR-12
+Site Name	Manabum and Tengapanis
+Province	Arunachal Pradesh
+Districts	Lohit
+Area	58000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Sub Tropical Dry Evergreen 
+Mechuka - Monigong - Jorgging:
+IBA Code	IN-AR-13
+Site Name	Mechuka - Monigong - Jorgging
+Province	Arunachal Pradesh
+Districts	West and Upper Siang.
+Area	250000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill, Sub Tropical Pine , Sub Alpine , Alpine Arid Pasture
+ 	 
+ 	 
+Mehao:
+IBA Code	IN-AR-14
+Site Name	Mehao
+Province	Arunachal Pradesh
+Districts	Dibang Valley
+Area	28150 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen , Sub Tropical Broad Leaved Hill, Montane Wet Temperate 
+ 	 
+ 	 
+Mouling:
+IBA Code	IN-AR-15
+Site Name	Mouling
+Province	Arunachal Pradesh
+Districts	Upper, East and West Siang
+Area	48300 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Subtropical Broad Leaved Hill and Montane Wet Temperate 
+ 	 
+Nacho - Limeking - Taksing - Majha:
+IBA Code	IN-AR-16
+Site Name	Nacho - Limeking - Taksing - Majha
+Province	Arunachal Pradesh
+Districts	Upper Subansiri
+Area	200000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Sub Alpine 
+Nafra - Lada Area:
+IBA Code	IN-AR-17
+Site Name	Nafra - Lada Area
+Province	Arunachal Pradesh
+Districts	West Kameng & East Kameng
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill, Sub Tropical Pine , Sub Alpine Dry Scrub, Alpine Dry Pasture
+ 
+Namdapha and Kamlang:
+IBA Code	IN-AR-18
+Site Name	Namdapha and Kamlang
+Province	Arunachal Pradesh
+Districts	Changlang and Lohit
+Area	259082 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen, Montane Wet Temperate , Sub Alpine Dry Scrub
+Namsang Mukh - Vodoria:
+IBA Code	IN-AR-19
+Site Name	Namsang Mukh - Vodoria
+Province	Arunachal Pradesh
+Districts	Tirap
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen 
+Pakhui:
+IBA Code	IN-AR-20
+Site Name	Pakhui
+Province	Arunachal Pradesh
+Districts	East Kameng
+Area	86195 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen 
+Papum:
+IBA Code	IN-AR-21
+Site Name	Papum
+Province	Arunachal Pradesh
+Districts	East Kameng
+Area	106300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Sub Tropical Dry Evergreen , Sub Tropical Broad Leaved Hill
+Sangti Valley:
+IBA Code	IN-AR-22
+Site Name	Sangti Valley
+Province	Arunachal Pradesh
+Districts	West Kameng
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Montane Wet Temperate , Sub Tropical Broad Leaved Hill
+ 
+Shergaon, Mandla Phudung and Kalak:
+IBA Code	IN-AR-23
+Site Name	Shergaon, Mandla Phudung and Kalak
+Province	Arunachal Pradesh
+Districts	West Kameng
+Area	50000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine 
+ 	 
+Tally Valley:
+IBA Code	IN-AR-24
+Site Name	Tally Valley
+Province	Arunachal Pradesh
+Districts	Lower Subansiri
+Area	51587 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Dry Evergreen , Sub Tropical Broad Leaved Hill, Sub Tropical Pine 
+The Chaporis of Lohit Reserve:
+IBA Code	IN-AR-25
+Site Name	The Chaporis of Lohit Reserve
+Province	Arunachal Pradesh
+Districts	West Siang
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill
+Thungri Changlang Poshingla, Maji,:
+IBA Code	IN-AR-26
+Site Name	Thungri Changlang Poshingla, Maji,
+Province	Arunachal Pradesh
+Districts	West Kameng
+Area	50000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Sub Tropical, Broad Leaved Hill
+Yardi - Rabe Supse:
+IBA Code	IN-AR-27
+Site Name	Yardi - Rabe Supse
+Province	Arunachal Pradesh
+Districts	West Siang
+Area	49600 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Sub Tropical Broad Leaved Hill, Sub Tropical Pine , Montane Wet temperate 
+ 	 
+Zamithang - Nelya - Sageshwar Lake:
+IBA Code	IN-AR-28
+Site Name	Zamithang - Nelya - Sageshwar Lake
+Province	Arunachal Pradesh
+Districts	Kameng
+Area	30000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Sub Tropical Broad Leaved Hill, Sub Alpine Dry Scrub
+
+
+Assam 
+Amchang Hills:
+IBA Code	IN-AS-01
+Site Name	Amchang Hills
+Province	Assam
+Districts	Kamrup
+Area	7400 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous , Tropical Wet Evergreen , Wetland
+
+Barail Range:
+IBA Code	IN-AS-02
+Site Name	Barail Range
+Province	Assam
+Districts	Cachar/North Cachar Hills
+Area	80000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen and Sub Tropical Broad leaved Hill
+ 	 
+
+  
+Barnodi:
+IBA Code	IN-AS-03
+Site Name	Barnodi
+Province	Assam
+Districts	Darrang
+Area	2622 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous , Tropical Semi Evergreen  and Tropical Grassland
+
+  
+Bauwwa Beel:
+IBA Code	IN-AS-04
+Site Name	Bauwwa Beel
+Province	Assam
+Districts	Hailakandi
+Area	70 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp
+
+  
+Behali:
+IBA Code	IN-AS-05
+Site Name	Behali
+Province	Assam
+Districts	Sonitpur
+Area	14000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Wet Evergreen  and Semi Evergreen 
+
+  
+Bherjan - Borajan Padumoni:
+IBA Code	IN-AS-06
+Site Name	Bherjan - Borajan Padumoni
+Province	Assam
+Districts	Tinsukia
+Area	774 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Wet Evergreen 
+ 	 
+
+  
+Bordoibum - Beelmukh:
+IBA Code	IN-AS-07
+Site Name	Bordoibum - Beelmukh
+Province	Assam
+Districts	Dhemaji-Lakhimpur
+Area	1125 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Flooded Valley Grassland
+
+  
+Bordoloni - Sampora:
+IBA Code	IN-AS-08
+Site Name	Bordoloni - Sampora
+Province	Assam
+Districts	Lakhimpur and Dhemaji
+Area	3000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Grassland
+
+  
+Chakrasila Complex:
+IBA Code	IN-AS-09
+Site Name	Chakrasila Complex
+Province	Assam
+Districts	Dhubri  /  Kokrajhar
+Area	5300 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Tropical Moist Deciduous , Tropical Grassland, Tropical Semi Evergreen
+ 	 
+ 
+
+  
+Chand Dubi Beel and Adjacent Area:
+IBA Code	IN-AS-10
+Site Name	Chand Dubi Beel and Adjacent Area
+Province	Assam
+Districts	Kamrup
+Area	2000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Fresh water Swamp, Tropical Moist Deciduous
+
+  
+Deobali Jalah:
+IBA Code	IN-AS-11
+Site Name	Deobali Jalah
+Province	Assam
+Districts	Nagaon
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp, Tropical Grassland
+ 	 
+
+  
+Dhansiri:
+IBA Code	IN-AS-12
+Site Name	Dhansiri
+Province	Assam
+Districts	Karbi Anglong
+Area	77000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+
+  
+Dibru - Saikhowa:
+IBA Code	IN-AS-13
+Site Name	Dibru - Saikhowa
+Province	Assam
+Districts	Tinsukia, Dibrugarh and Dhemaji
+Area	80000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous , Tropical Grassland
+
+  
+Dipor Beel:
+IBA Code	IN-AS-14
+Site Name	Dipor Beel
+Province	Assam
+Districts	Kamrup
+Area	414 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+
+  
+
+  
+East and North Karbi Anglong:
+IBA Code	IN-AS-16
+Site Name	East and North Karbi Anglong
+Province	Assam
+Districts	Karbi Anglong
+Area	11818 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Semi Evergreen, Tropical Moist Deciduous, Tropical Bamboo Brakes
+ 	 
+
+  
+Garam Pani:
+IBA Code	IN-AS-17
+Site Name	Garam Pani
+Province	Assam
+Districts	Karbi Anglong
+Area	15000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Semi Evergreen 
+
+  
+Gibbon (Hollongapar):
+IBA Code	IN-AS-18
+Site Name	Gibbon (Hollongapar)
+Province	Assam
+Districts	Jorhat
+Area	2098 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Semi Evergreen 
+ 	 
+ 	 
+
+  
+Habang:
+IBA Code	IN-AS-19
+Site Name	Habang
+Province	Assam
+Districts	Karbi Anglong
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory seabird or terrestrial species (A4ii)
+Habitat Type	Montane Grassy Slopes, Tropical Bamboo Brakes
+ 	 
+
+  
+Inner Line and Kathakal:
+IBA Code	IN-AS-20
+Site Name	Inner Line and Kathakal
+Province	Assam
+Districts	Cachar and Hailkandi
+Area	130000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Wet Evergreen and Semi- Evergreen 
+
+  
+Jamjing - Senghjans:
+IBA Code	IN-AS-21
+Site Name	Jamjing - Senghjans
+Province	Assam
+Districts	Dhemaji
+Area	9500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Wooded Grassland, Wetland, Salix  Swamp
+
+  
+Jatinga:
+IBA Code	IN-AS-22
+Site Name	Jatinga
+Province	Assam
+Districts	North Cachar
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to exceed thresholds set for migratory species at bottleneck sites (A1, A4iv)
+Habitat Type	Tropical Evergreen , Semi Evergreen , jhum land and Orchards
+
+  
+Jengdia Beel and Satgaon:
+IBA Code	IN-AS-23
+Site Name	Jengdia Beel and Satgaon
+Province	Assam
+Districts	Kamrup
+Area	500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Wetland (freshwater lakes and pools), human habitation
+ 	 
+
+  
+Jhanjimukh - Kokilamukh:
+IBA Code	IN-AS-24
+Site Name	Jhanjimukh - Kokilamukh
+Province	Assam
+Districts	Jorhat
+Area	2500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Seasonal Marsh, Riverine Vegetation
+
+  
+Kaziranga:
+IBA Code	IN-AS-25
+Site Name	Kaziranga
+Province	Assam
+Districts	Golaghat/Nagaon/Sonitpur
+Area	84980 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory seabird or terrestrial species (A1, A2, A4i, A4ii)
+Habitat Type	Tropical Grassland, Tropical Dry Deciduous, Tropical Semi Evergreen 
+ 	 
+
+  
+Kuarbari Dalani:
+IBA Code	IN-AS-26
+Site Name	Kuarbari Dalani
+Province	Assam
+Districts	Lakhimpur
+Area	15 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grassland
+ 
+
+  
+Langting - Mupa:
+IBA Code	IN-AS-27
+Site Name	Langting - Mupa
+Province	Assam
+Districts	North Cachar Hills
+Area	49300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist deciduous, Tropical Semi Evergreen
+
+  
+Laokhowa and Burhachapori:
+IBA Code	IN-AS-28
+Site Name	Laokhowa and Burhachapori
+Province	Assam
+Districts	Sonitpur and Nagaon
+Area	11417 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous , Tropical Grassland, Freshwater Swamp, Tropical, Secondary Scrub
+ 	 
+
+  
+Lumding - Marat Longri:
+IBA Code	IN-AS-29
+Site Name	Lumding - Marat Longri
+Province	Assam
+Districts	Nagon, Karbi, Anglong
+Area	67400 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous  and Tropical Semi Evergreen 
+
+  
+Majuli:
+IBA Code	IN-AS-30
+Site Name	Majuli
+Province	Assam
+Districts	Jorhat
+Area	88000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Riverine Vegetation, Sub Tropical Secondary Scrub, Tropical Grassland, Fresh Water Swamp, Tropical
+ 
+
+  
+Manas:
+IBA Code	IN-AS-31
+Site Name	Manas
+Province	Assam
+Districts	Barpeta and Bongiagaon
+Area	50000 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous, Tropical Semi Evergreen, Tropical Grassland, Riverine Vegetation
+
+  
+Nameri:
+IBA Code	IN-AS-32
+Site Name	Nameri
+Province	Assam
+Districts	Sonitpur
+Area	20000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Semi Evergreen, Tropical Moist Deciduous, Tropical Grassland, Riverine Vegetation
+
+  
+Orang:
+IBA Code	IN-AS-33
+Site Name	Orang
+Province	Assam
+Districts	Darrang And Sonitpur
+Area	7881 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory seabird or terrestrial species (A1, A4ii)
+Habitat Type	Tropical Moist Deciduous, Wet Savanna Grassland, Wetland
+
+  
+Pabho Reserve:
+IBA Code	IN-AS-34
+Site Name	Pabho Reserve
+Province	Assam
+Districts	Lakhimpur
+Area	4900 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Freshwater Swamp, Sub Tropical Secondary Scrub
+
+  
+Pabitora:
+IBA Code	IN-AS-35
+Site Name	Pabitora
+Province	Assam
+Districts	Morigaon
+Area	3883 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A2, A4iii)
+Habitat Type	Tropical Moist Deciduous, Tropical Grassland, Fresh Water Swamp
+ 	 
+ 	 
+
+  
+Panidihing, Phokolai Beel:
+IBA Code	IN-AS-36
+Site Name	Panidihing, Phokolai Beel
+Province	Assam
+Districts	Sibsagar
+Area	4000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Tropical Grassland, Freshwater Swamp
+
+  
+Ripu Chirang:
+IBA Code	IN-AS-37
+Site Name	Ripu Chirang
+Province	Assam
+Districts	Kokrajhar
+Area	120000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Semi Evergreen and Tropical Moist Deciduous 
+ 	 
+
+  
+Sibsagar Tanks:
+IBA Code	IN-AS-38
+Site Name	Sibsagar Tanks
+Province	Assam
+Districts	Sibsagar
+Area	150 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp, Tropical Moist Scrub
+ 	 
+
+  
+Son Beel:
+IBA Code	IN-AS-39
+Site Name	Son Beel
+Province	Assam
+Districts	Karimganj
+Area	1500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Sonai - Rupa:
+IBA Code	IN-AS-40
+Site Name	Sonai - Rupa
+Province	Assam
+Districts	Sonitpur
+Area	22000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous s and Tropical Grassland
+
+  
+Subansiri:
+IBA Code	IN-AS-41
+Site Name	Subansiri
+Province	Assam
+Districts	Dhemaji (Subansiri Reserve ), Lakhimpur
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Riverine Vegetation
+
+  
+Tamranga - Dalani - Bhairav Complex:
+IBA Code	IN-AS-42
+Site Name	Tamranga - Dalani - Bhairav Complex
+Province	Assam
+Districts	Bongaigaon
+Area	4600 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp, Tropical Moist Deciduous, Tropical Bamboo Brakes
+
+  
+Tirap - Patkai (Saliki - Adjacent):
+IBA Code	IN-AS-43
+Site Name	Tirap - Patkai (Saliki - Adjacent)
+Province	Assam
+Districts	Tinsukia
+Area	15450 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Semi Evergreen , Tropical Wet Evergreen 
+
+  
+Upper Dihing (East Complex):
+IBA Code	IN-AS-44
+Site Name	Upper Dihing (East Complex)
+Province	Assam
+Districts	Tinsukia
+Area	19200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen 
+
+  
+Upperdihing (West Complex):
+IBA Code	IN-AS-45
+Site Name	Upper Dihing (West Complex)
+Province	Assam
+Districts	Dibrugarh / Tinsukia
+Area	46775 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen 
+
+  
+Urpad Beel:
+IBA Code	IN-AS-46
+Site Name	Urpad Beel
+Province	Assam
+Districts	Goalpara
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+
+  
+ 
+
+
+Bihar 
+Chaurs of North Bihar:
+IBA Code	IN-BR-01
+Site Name	Chaurs of North Bihar
+Province	Bihar
+Districts	Darbhanga
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+
+  
+Danapur Cantonment Area:
+IBA Code	IN-BR-02
+Site Name	Danapur Cantonment Area
+Province	Bihar
+Districts	Patna
+Area	400 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Gogabil Pakshi Vihar:
+IBA Code	IN-BR-03
+Site Name	Gogabil Pakshi Vihar
+Province	Bihar
+Districts	Katihar
+Area	200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Kanwarjheel:
+IBA Code	IN-BR-04
+Site Name	Kanwarjheel
+Province	Bihar
+Districts	Begusarai
+Area	6311 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh, Sub Tropical Secondary Scrub
+
+Kurseala River Course and Diyara :
+IBA Code	IN-BR-05
+Site Name	Kurseala River Course and Diyara 
+Province	Bihar
+Districts	Kathiar
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+
+Kusheshwarsthan:
+IBA Code	IN-BR-06
+Site Name	Kusheshwarsthan
+Province	Bihar
+Districts	Bihar
+Area	2932 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Freshwater Swamp
+
+Mokama Taal (Barah) Wetlands:
+IBA Code	IN-BR-07
+Site Name	Mokama Taal (Barah) Wetlands
+Province	Bihar
+Districts	Patna, Samastipur & Begusarai
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+ 	 
+ 	 
+
+Nagi Dam and Nakti Dam:
+IBA Code	IN-BR-08
+Site Name	Nagi Dam and Nakti Dam
+Province	Bihar
+Districts	Jamui
+Area	523 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+
+Reservoirs of Chota Nagpur:
+IBA Code	IN-BR-09
+Site Name	Reservoirs of Chota Nagpur
+Province	Bihar
+Districts	Dhanbad, Hazaribagh
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+ 	 
+ 	 
+
+Valmiki:
+IBA Code	IN-BR-10
+Site Name	Valmiki
+Province	Bihar
+Districts	West Champaran
+Area	88078 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous, Tropical , Bamboo Brakes, Montane Grassy Slopes,  Freshwater Swamp
+ 	 
+ 	 
+
+Vikram Shila Gangetic Dolphin:
+IBA Code	IN-BR-11
+Site Name	Vikram Shila Gangetic Dolphin
+Province	Bihar
+Districts	Bhagalpur
+Area	5000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Riverine Vegetation
+ 	 
+
+  
+ 
+
+
+Chattisgarh 
+Barnawapara:
+IBA Code	IN-CT-01
+Site Name	Barnawapara
+Province	Chattisgarh
+Districts	Raipur
+Area	24466 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous 
+
+  
+Gomarda:
+IBA Code	IN-CT-02
+Site Name	Gomarda
+Province	Chattisgarh
+Districts	Raipur
+Area	27791 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 	 
+
+Indravati:
+IBA Code	IN-CT-03
+Site Name	Indravati
+Province	Chattisgarh
+Districts	Dantewada, Bastar
+Area	125837 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous 
+
+Udanti and Sitanadi:
+IBA Code	IN-CT-04
+Site Name	Udanti and Sitanadi
+Province	Chattisgarh
+Districts	Raipur, Dhamtari
+Area	80096 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+
+  
+
+
+Delhi 
+Okhla:
+IBA Code	IN-DL-01
+Site Name	Okhla
+Province	Delhi
+Districts	Gautam Buddh Nagar
+Area	400 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 
+ 
+
+Goa 
+Bhagwan Mahavir:
+IBA Code	IN-GA-01
+Site Name	Bhagwan Mahavir
+Province	Goa
+Districts	South Goa
+Area	14852 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen ,  Tropical Moist Deciduous , Tropical Semi  Evergreen 
+ 	 
+
+  
+Carambolim:
+IBA Code	IN-GA-02
+Site Name	Carambolim
+Province	Goa
+Districts	Ilhas taluka
+Area	72 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Cotigao:
+IBA Code	IN-GA-03
+Site Name	Cotigao
+Province	Goa
+Districts	South Goa
+Area	8565 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen 
+ 	 
+
+Madei:
+IBA Code	IN-GA-04
+Site Name	Madei
+Province	Goa
+Districts	North Goa
+Area	158000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Riverine Vegetation, Littoral 
+ 	 
+ 	 
+
+  
+ 
+
+
+Gujarat 
+Banni Grassland and Chhari Dhand:
+IBA Code	IN-GJ-01
+Site Name	Banni Grassland and Chhari Dhand
+Province	Gujarat
+Districts	Kutch
+Area	384700 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Tropical Grassland, Freshwater Swamp,  Tropical Secondary Scrub
+
+  
+Bhal Area:
+IBA Code	IN-GJ-02
+Site Name	Bhal Area
+Province	Gujarat
+Districts	Bhavnagar
+Area	259000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grassland, Tropical Moist Scrub
+
+Charakla Salt Pans:
+IBA Code	IN-GJ-03
+Site Name	Charakla Salt Pans
+Province	Gujarat
+Districts	Jamnagar
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Salt Pan, Tidal Mudflat, Mangrove
+ 	 
+
+Flamingo City:
+IBA Code	IN-GJ-04
+Site Name	Flamingo City
+Province	Gujarat
+Districts	Kutch
+Area	750722 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Littoral 
+ 	 
+ 	 
+
+Gir:
+IBA Code	IN-GJ-05
+Site Name	Gir
+Province	Gujarat
+Districts	Junagadh (NP), Junagadh & Amreli (WLS)
+Area	141213 sq. km.
+Status	National Park
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous, Tropical  Secondary Scrub, Tropical Grassland
+ 
+
+Kaj Wetlands:
+IBA Code	IN-GJ-06
+Site Name	Kaj Wetlands
+Province	Gujarat
+Districts	Junagadh
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+
+Khijadia:
+IBA Code	IN-GJ-07
+Site Name	Khijadia
+Province	Gujarat
+Districts	Jamnagar
+Area	1650 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Littoral 
+
+Marine:
+IBA Code	IN-GJ-08
+Site Name	Marine
+Province	Gujarat
+Districts	Jamanagar
+Area	45792 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Littoral , Riverine Vegetation,  Tropical Arid Zone
+ 	 
+
+Nal Sarover:
+IBA Code	IN-GJ-09
+Site Name	Nal Sarover
+Province	Gujarat
+Districts	Ahmadabad, Surendranagar
+Area	12082 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+ 	 
+
+Naliya:
+IBA Code	IN-GJ-10
+Site Name	Naliya
+Province	Gujarat
+Districts	Kutch
+Area	50000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grassland
+ 	 
+ 	 
+ 	 
+
+Rampura Grassland:
+IBA Code	IN-GJ-11
+Site Name	Rampura Grassland
+Province	Gujarat
+Districts	Dahod
+Area	2000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Montane Grassy Slopes
+ 	 
+
+Salt Pans of Bhavnagar:
+IBA Code	IN-GJ-12
+Site Name	Salt Pans of Bhavnagar
+Province	Gujarat
+Districts	Bhavnagar
+Area	357540 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Littoral 
+ 	 
+
+Thol Lake:
+IBA Code	IN-GJ-13
+Site Name	Thol Lake
+Province	Gujarat
+Districts	Mahesana
+Area	700 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Velavadar Blackbuck:
+IBA Code	IN-GJ-14
+Site Name	Velavadar Blackbuck
+Province	Gujarat
+Districts	Bhavnagar
+Area	3408 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, ? 1% of a bio-geographic population of a congregatory seabird or terrestrial species (A1, A4ii)
+Habitat Type	Montane Grassy Slopes, Littoral 
+ 	 
+ 	 
+
+Wetlends of Kheda District:
+IBA Code	IN-GJ-15
+Site Name	Wetlends of Kheda District
+Province	Gujarat
+Districts	Kheda
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Littoral 
+ 	 
+
+Wild Ass and Nanda Island:
+IBA Code	IN-GJ-16
+Site Name	Wild Ass and Nanda Island
+Province	Gujarat
+Districts	Katch, Rajkot, Mehsana, Banaskantha & Surendr
+Area	495371 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory seabird or terrestrial species (A1, A3, A4i, A4ii)
+Habitat Type	Littoral , Tropical Thorn 
+ 	 
+
+Bhaskarpara:
+IBA Code	IN-GJ-17
+Site Name	Bhaskarpara
+Province	Gujarat
+Districts	Surendranagar
+Area	200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	 
+ 
+
+  
+ 
+ 
+
+Haryana 
+Basai Wetlands:
+IBA Code	IN-HR-01
+Site Name	Basai Wetlands
+Province	Haryana
+Districts	Gurgaon
+Area	100 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+
+  
+Bhindawas:
+IBA Code	IN-HR-02
+Site Name	Bhindawas
+Province	Haryana
+Districts	Rohtak
+Area	412 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Kalesar:
+IBA Code	IN-HR-03
+Site Name	Kalesar
+Province	Haryana
+Districts	Kurukshetra
+Area	10088 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous
+ 	 
+
+Sultanpur:
+IBA Code	IN-HR-04
+Site Name	Sultanpur
+Province	Haryana
+Districts	Gurgaon
+Area	143 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Littoral , Montane Grassy Slopes
+ 
+
+Wetlands of Yamuna:
+IBA Code	IN-HR-05
+Site Name	Wetlands of Yamuna
+Province	Haryana
+Districts	Yamuna nagar
+Area	20000 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+
+
+Himachal Pradesh 
+Bandli:
+IBA Code	IN-HP-01
+Site Name	Bandli
+Province	Himachal Pradesh
+Districts	Mandi
+Area	4132 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Alpine , Montane Wet Temperate 
+ 	 
+
+  
+Chail:
+BA Code	IN-HP-02
+Site Name	Chail
+Province	Himachal Pradesh
+Districts	Solan and Shimla
+Area	10854 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Alpine , Montane Grassy Slopes, Sub Tropical Broad Leaved Hill
+
+Churdhar:
+IBA Code	IN-HP-03
+Site Name	Churdhar
+Province	Himachal Pradesh
+Districts	Sirmaur
+Area	5615 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Sub Tropical Pine , Alpine Moist Pasture
+ 	 
+
+Daranghati:
+IBA Code	IN-HP-04
+Site Name	Daranghati
+Province	Himachal Pradesh
+Districts	Shimla
+Area	16700 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Alpine Moist Scrub, Alpine Moist Pasture, Sub Tropical Broad Leaved Hill, Sub Alpine 
+
+  
+Dhauladhar:
+IBA Code	IN-HP-05
+Site Name	Dhauladhar
+Province	Himachal Pradesh
+Districts	Kangra
+Area	94398 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Alpine Moist Scrub, Alpine Moist Pasture, Himalayan Wet Temperate
+ 	 
+
+Gamgul Siahbehi:
+IBA Code	IN-HP-06
+Site Name	Gamgul Siahbehi
+Province	Himachal Pradesh
+Districts	Chamba
+Area	10885 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Montane Grassy Slopes, Sub Tropical Broad Leaved Hill
+ 	 
+ 	 
+
+Govind Sagar and Naina:
+IBA Code	IN-UT-06
+Site Name	Govind and, Sandra, Kotinad
+Province	Uttarakhand
+Districts	Uttarkashi
+Area	95308 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Moist Temperate , Sub Tropical Pine , Alpine Moist Pasture
+
+Great Himalayan:
+IBA Code	IN-HP-08
+Site Name	Great Himalayan
+Province	Himachal Pradesh
+Districts	Kullu
+Area	75400 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Alpine Dry Scrub, Alpine Moist Pasture, Flooded Valley Grassland, Sub Tropical Broad Leaved 
+ 
+
+Kais:
+IBA Code	IN-HP-09
+Site Name	Kais
+Province	Himachal Pradesh
+Districts	Kullu
+Area	1419 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Montane Grassy Slopes, Alpine Moist Pasture
+ 	 
+ 	 
+
+Kalatop Khajjiar:
+IBA Code	IN-HP-10
+Site Name	Kalatop Khajjiar
+Province	Himachal Pradesh
+Districts	Chamba
+Area	6100 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Alpine , Sub Tropical Broad  Leaved Hill, Flooded Valley Grassland, Alpine Moist Pasture
+
+Kanawar:
+IBA Code	IN-HP-11
+Site Name	Kanawar
+Province	Himachal Pradesh
+Districts	Kullu
+Area	5400 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Alpine Dry Pasture, Alpine Dry Scrub, Alpine Moist Pasture, Sub Tropical Broad Leaved 
+
+Kibber:
+IBA Code	IN-HP-12
+Site Name	Kibber
+Province	Himachal Pradesh
+Districts	Lahul & Spiti
+Area	140050 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Alpine Dry Scrub, Alpine Moist Pasture
+ 
+
+Kugti:
+IBA Code	IN-HP-13
+Site Name	Kugti
+Province	Himachal Pradesh
+Districts	Chamba
+Area	37886 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Alpine , Alpine Moist Pasture,  Alpine Dry Pasture
+ 	 
+
+Lippa Asrang:
+IBA Code	IN-HP-14
+Site Name	Lippa Asrang
+Province	Himachal Pradesh
+Districts	Kinnaur
+Area	3090 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Himalayan Dry Temperate , Alpine Arid Pasture, Alpine Dry Scrub
+ 	 
+
+Majathal:
+IBA Code	IN-HP-15
+Site Name	Majathal
+Province	Himachal Pradesh
+Districts	Solan, Shimla
+Area	4000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Dry Temperate
+
+Manali:
+IBA Code	IN-HP-16
+Site Name	Manali
+Province	Himachal Pradesh
+Districts	Kullu
+Area	3180 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine 
+ 	 
+
+Nargu:
+IBA Code	IN-HP-17
+Site Name	Nargu
+Province	Himachal Pradesh
+Districts	Mandi
+Area	27837 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Biome-restricted assemblage, Data deficient (A3, DD)
+Habitat Type	Himalayan Moist Temperate ,  Sub Alpine , Sub Tropical Pine 
+
+Pin Valley:
+IBA Code	IN-HP-18
+Site Name	Pin Valley
+Province	Himachal Pradesh
+Districts	Lahaul, Spiti
+Area	67500 sq. km.
+Status	National Park
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Alpine Dry Pasture
+ 	 
+ 	 
+ 
+Pong Dam Lake:
+IBA Code	IN-HP-19
+Site Name	Pong Dam Lake
+Province	Himachal Pradesh
+Districts	Kangra
+Area	30729 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Aquatic
+
+Rupi Bhaba:
+IBA Code	IN-HP-20
+Site Name	Rupi Bhaba
+Province	Himachal Pradesh
+Districts	Kinnaur
+Area	26900 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Riverine  Vegetation, Alpine Moist Pasture, Sub Tropical  Broad Leaved
+ 	 
+
+Sangla (Raksham Chitkul):
+IBA Code	IN-HP-21
+Site Name	Sangla (Raksham Chitkul)
+Province	Himachal Pradesh
+Districts	Kinaur
+Area	65000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Moist Temperate , Alpine Moist Pastures
+ 	 
+ 	 
+
+Sarah Valley, Lower Dharamshala:
+IBA Code	IN-HP-22
+Site Name	Sarah Valley, Lower Dharamshala
+Province	Himachal Pradesh
+Districts	Kangra
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Himalayan Moist Temperate, Himalayan Secondary Scrub
+ 	 
+
+Sechu Tuan Nala:
+IBA Code	IN-HP-23
+Site Name	Sechu Tuan Nala
+Province	Himachal Pradesh
+Districts	Chamba
+Area	10295 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Moist Temperate, Alpine Moist Scrub
+ 	 
+
+Shikari Devi:
+IBA Code	IN-HP-24
+Site Name	Shikari Devi
+Province	Himachal Pradesh
+Districts	Mandi
+Area	7200 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Himalayan Moist Temperate , Sub Alpine , Himalayan Dry Scrub
+ 	 
+ 	 
+
+Shimla Water Catchment:
+IBA Code	IN-HP-25
+Site Name	Shimla Water Catchment
+Province	Himachal Pradesh
+Districts	Shimla, Kufri
+Area	1025 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Himalayan Moist Temperate 
+ 	 
+
+Talra:
+IBA Code	IN-HP-26
+Site Name	Talra
+Province	Himachal Pradesh
+Districts	Shimla
+Area	2600 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Himalayan Moist Temperate 
+
+Tirthan:
+IBA Code	IN-HP-27
+Site Name	Tirthan
+Province	Himachal Pradesh
+Districts	Kullu
+Area	6112 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Alpine Moist Scrub, Alpine Arid  Pasture, Montane Grassy Slopes, Sub  Tropical Broad Leaved Hill
+ 	 
+
+  
+
+
+Jammu & Kashmir
+Chushul Marshes:
+IBA Code	IN-JK-01
+Site Name	Chushul Marshes
+Province	Jammu & Kashmir
+Districts	Leh, Ladakh
+Area	1500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Aquatic, Flooded Valley Grassland
+
+  
+Dachigam:
+IBA Code	IN-JK-02
+Site Name	Dachigam
+Province	Jammu & Kashmir
+Districts	Srinagar
+Area	17125 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Alpine Moist Scrub, Himalayan Moist Temperate, Alpine Moist Pasture
+
+Dehra Gali :
+IBA Code	IN-JK-03
+Site Name	Dehra Gali 
+Province	Jammu & Kashmir
+Districts	Poonch, Rajouri
+Area	1800 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Wet Temperate, Sub Tropical Pine , Sub Tropical BroadLeaved 
+ 	 
+
+Gulmar:
+IBA Code	IN-JK-04
+Site Name	Gulmar
+Province	Jammu & Kashmir
+Districts	Baramulla
+Area	13925 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Himalayan Wet Temperate, Alpine Moist Scrub, Alpine Moist Pasture
+
+  
+Haigam Rakh:
+IBA Code	IN-JK-05
+Site Name	Haigam Rakh
+Province	Jammu & Kashmir
+Districts	Baramulla
+Area	1400 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Aquatic, Riverine Vegetation,  Himalayan Secondary Scrub
+ 	 
+
+Hanle Shado - Bug:
+BA Code	IN-JK-06
+Site Name	Hanle Shado - Bug
+Province	Jammu & Kashmir
+Districts	Leh, Ladakh
+Area	8000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Riverine Vegetation, Flooded Valley  Grassland, Alpine Moist Pasture
+
+Hemis:
+IBA Code	IN-JK-07
+Site Name	Hemis
+Province	Jammu & Kashmir
+Districts	Ladakh
+Area	410000 sq. km.
+Status	National Park
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Alpine Dry Pasture, Riverine Vegetation, Alpine Moist Scrub
+
+Hirapora:
+IBA Code	IN-JK-08
+Site Name	Hirapora
+Province	Jammu & Kashmir
+Districts	Pulwama
+Area	11450 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Himalayan Wet Temperate, Himalayan Moist Temperate, Himalayan Secondary Scrub
+
+Hokarsar:
+IBA Code	IN-JK-09
+Site Name	Hokarsar
+Province	Jammu & Kashmir
+Districts	Budgam and Srinagar
+Area	1375 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Seasonal Marsh
+ 	 
+
+Kishtwar:
+IBA Code	IN-JK-10
+Site Name	Kishtwar
+Province	Jammu & Kashmir
+Districts	Dodo
+Area	40500 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Seasonal Marsh
+ 	 
+ 	 
+
+Lachipora:
+IBA Code	IN-JK-11
+Site Name	Lachipora
+Province	Jammu & Kashmir
+Districts	Baramulla
+Area	9350 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Alpine Moist Pasture
+ 	 
+ 	 
+
+Limber:
+IBA Code	IN-JK-12
+Site Name	Limber
+Province	Jammu & Kashmir
+Districts	Baramulla
+Area	4375 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Pine 
+ 	 
+
+Mirgund Jheel:
+IBA Code	IN-JK-13
+Site Name	Mirgund Jheel
+Province	Jammu & Kashmir
+Districts	Budgam
+Area	300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Flooded Valley Grassland, Freshwater  Swamp, Himalayan Secondary Scrub
+ 	 
+ 	 
+
+Overa - Aru:
+IBA Code	IN-JK-14
+Site Name	Overa - Aru
+Province	Jammu & Kashmir
+Districts	Anantnag
+Area	51100 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Himalayan Dry Temperate, Alpine Moist Scrub, Alpine Dry Scrub
+ 	 
+ 	 
+ 	 
+
+Pangong Tso:
+IBA Code	IN-JK-15
+Site Name	Pangong Tso
+Province	Jammu & Kashmir
+Districts	Leh, Ladakh
+Area	65000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Aquatic
+
+RaMANagar:
+IBA Code	IN-JK-16
+Site Name	Ramanagar
+Province	Jammu & Kashmir
+Districts	Jammu
+Area	1275 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Alpine Dry Scrub
+ 	 
+
+Shallabugh Lake and Marshes:
+IBA Code	IN-JK-17
+Site Name	Shallabugh Lake and Marshes
+Province	Jammu & Kashmir
+Districts	Srinagar
+Area	700 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4iii)
+Habitat Type	Freshwater Swamp, Himalayan Secondary Scrub
+ 	 
+
+Tsokar Basin:
+IBA Code	IN-JK-18
+Site Name	Tsokar Basin
+Province	Jammu & Kashmir
+Districts	Leh, Ladakh
+Area	10000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Aquatic
+
+Tso Morari Lake and Adjacent Marsh:
+IBA Code	IN-JK-19
+Site Name	Tso Morari Lake and Adjacent Marsh
+Province	Jammu & Kashmir
+Districts	Leh
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Aquatic, Alpine Moist Pasture
+
+Wular Lake:
+IBA Code	IN-JK-20
+Site Name	Wular Lake
+Province	Jammu & Kashmir
+Districts	Baramulla
+Area	12200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp, Riverine Vegetation, Flooded Valley Grassland, Himalayan Secondary Scrub
+ 	 
+
+Gharana Wetland Reserve:
+IBA Code	IN-JK-21
+Site Name	Gharana Wetland Reserve
+Province	Jammu & Kashmir
+Districts	Jammu
+Area	300 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species, Data deficient (A4iii, DD)
+Habitat Type	Aquatic
+ 	 
+
+
+
+Jharkhand 
+Hazaribagh and North Karnpur Valley:
+IBA Code	IN-JH-01
+Site Name	Hazaribagh and North Karnpur Valley
+Province	Jharkhand
+Districts	Hazaribagh
+Area	198625 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Tropical Dry Deciduous
+ 	 
+ 	 
+
+  
+Palamu:
+IBA Code	IN-JH-02
+Site Name	Palamu
+Province	Jharkhand
+Districts	Palamau
+Area	79433 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Bamboo Brakes, Tropical Dry  Deciduous, Tropical Grassland, Riverine Vegetation
+ 	 
+ 	 
+
+Udhwa Lake:
+IBA Code	IN-JH-03
+Site Name	Udhwa Lake
+Province	Jharkhand
+Districts	Sahebganj
+Area	565 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp
+
+  
+
+
+Karnataka 
+Adichunchunagiri:
+IBA Code	IN-KA-01
+Site Name	Adichunchunagiri
+Province	Karnataka
+Districts	Mandya
+Area	88 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous , Tropical Thorn 
+ 	 
+
+  
+Anshi:
+IBA Code	IN-KA-02
+Site Name	Anshi
+Province	Karnataka
+Districts	North Kannada
+Area	25000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Semi Evergreen , Tropical Wet Evergreen 
+
+Bandipur:
+IBA Code	IN-KA-03
+Site Name	Bandipur
+Province	Karnataka
+Districts	Mysore
+Area	87420 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous 
+ 	 
+
+Bannerghatta:
+BA Code	IN-KA-04
+Site Name	Bannerghatta
+Province	Karnataka
+Districts	Bangalore
+Area	10427 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Deciduous 
+
+Bhadra:
+IBA Code	IN-KA-05
+Site Name	Bhadra
+Province	Karnataka
+Districts	Chikmangalur, Shimoga
+Area	49246 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous, Tropical Dry
+ 	 
+ 
+
+  
+Bimgad and Castle Rock:
+IBA Code	IN-KA-06
+Site Name	Bimgad and Castle Rock
+Province	Karnataka
+Districts	Belgaum
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Lowland Evergreen Rain, Tropical Moist Deciduous 
+
+Biligiri Rangaswamy Temple:
+IBA Code	IN-KA-07
+Site Name	Biligiri Rangaswamy Temple
+Province	Karnataka
+Districts	Chamarajanagar
+Area	53952 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous, Tropical Dry Deciduous 
+ 	 
+
+Bramhagiri:
+IBA Code	IN-KA-08
+Site Name	Bramhagiri
+Province	Karnataka
+Districts	Kodagu
+Area	18129 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi, Evergreen, Montane Wet Temperate , Montane, Grassy
+ 	 
+
+Cauvery:
+IBA Code	IN-KA-09
+Site Name	Cauvery
+Province	Karnataka
+Districts	Mysore, Bangalore, Mandya
+Area	52696 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous, Riverine Vegetation
+
+Dandeli:
+IBA Code	IN-KA-10
+Site Name	Dandeli
+Province	Karnataka
+Districts	Uttarkanada
+Area	84316 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous, Tropical Semi Evergreen
+
+Gudavi:
+IBA Code	IN-KA-11
+Site Name	Gudavi
+Province	Karnataka
+Districts	Shimoga
+Area	74 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A2, A4i)
+Habitat Type	Tropical Moist Deciduous 
+ 
+
+Hampi:
+IBA Code	IN-KA-12
+Site Name	Hampi
+Province	Karnataka
+Districts	Bellary
+Area	2600 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Thorn , Tropical Secondary Scrub
+ 	 
+
+Jogimatti State :
+IBA Code	IN-KA-13
+Site Name	Jogimatti State 
+Province	Karnataka
+Districts	Chitradurga
+Area	10718 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Thorn 
+
+Karanji Tank:
+IBA Code	IN-KA-14
+Site Name	Karanji Tank
+Province	Karnataka
+Districts	Mysore
+Area	65 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp, Tropical Secondary Scrub
+ 	 
+ 	 
+
+Kemmangundi and Bababudan Hills:
+IBA Code	IN-KA-15
+Site Name	Kemmangundi and Bababudan Hills
+Province	Karnataka
+Districts	Chikmagalur
+Area	10292 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Montane Wet Temperate , Tropical  Grassland
+
+Kemphole:
+IBA Code	IN-KA-16
+Site Name	Kemphole
+Province	Karnataka
+Districts	Hassan and Dakshina Kannada
+Area	3200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen
+ 	 
+ 	 
+
+Kokkare Bellur:
+IBA Code	IN-KA-17
+Site Name	Kokkare Bellur
+Province	Karnataka
+Districts	Mandya
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Sub Tropical Secondary Scrub
+ 	 
+
+Krishana Rajsagar Reservior:
+IBA Code	IN-KA-18
+Site Name	Krishana Rajsagar Reservoir
+Province	Karnataka
+Districts	Mysore and Mandya
+Area	12500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Kudermukh:
+IBA Code	IN-KA-19
+Site Name	Kudermukh
+Province	Karnataka
+Districts	Chikmagalur
+Area	56328 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen, Montane Wet Temperate , Montane Grassland
+ 	 
+ 	 
+
+Kukkarahalli Tank:
+IBA Code	IN-KA-20
+Site Name	Kukkarahalli Tank
+Province	Karnataka
+Districts	Mysore
+Area	58 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Freshwater Swamp, Montane Grassy Slopes, Tropical Moist Scrub
+ 	 
+
+Kunthur - Kallur Lakes:
+IBA Code	IN-KA-21
+Site Name	Kunthur - Kallur Lakes
+Province	Karnataka
+Districts	Chamarajanagar
+Area	460 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Ligambudhi Lake:
+BA Code	IN-KA-22
+Site Name	Ligambudhi Lake
+Province	Karnataka
+Districts	 
+Area	76 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Tropical Arid Zone, Tropical Dry Deciduous, Tropical Secondary Scrub
+
+Magadi Wetland:
+IBA Code	IN-KA-23
+Site Name	Magadi Wetland
+Province	Karnataka
+Districts	 
+Area	192 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Melkote Temple:
+IBA Code	IN-KA-24
+Site Name	Melkote Temple
+Province	Karnataka
+Districts	Mandya
+Area	4982 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Secondary Scrub
+
+Nagarahole:
+IBA Code	IN-KA-25
+Site Name	Nagarahole
+Province	Karnataka
+Districts	Mysore, Kodagu
+Area	64339 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous, Tropical Dry Deciduous 
+ 	 
+
+Nandi Hills:
+IBA Code	IN-KA-26
+Site Name	Nandi Hills
+Province	Karnataka
+Districts	Koller
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Deciduous , Tropical Secondary Scrub
+ 	 
+ 	 
+
+Narasimabudhi Lake:
+IBA Code	IN-KA-27
+Site Name	Narasimabudhi Lake
+Province	Karnataka
+Districts	Mysore
+Area	809 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Pushpagiri:
+IBA Code	IN-KA-28
+Site Name	Pushpagiri
+Province	Karnataka
+Districts	Kodagu and Dakshina Kannada
+Area	10292 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Montane Wet Temperate , Montane Grassy 
+ 	 
+ 	 
+
+Ramanagara State :
+IBA Code	IN-KA-29
+Site Name	Ramanagara State 
+Province	Karnataka
+Districts	Bangalore
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Thorn 
+ 	 
+
+Ranebennur Blackbuck:
+IBA Code	IN-KA-30
+Site Name	Ranebennur Blackbuck
+Province	Karnataka
+Districts	Dharwad
+Area	11900 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Thorn s
+
+Ranganathitoo:
+IBA Code	IN-KA-31
+Site Name	Ranganathitoo
+Province	Karnataka
+Districts	Mysore
+Area	68 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Riverine Vegetation
+ 	 
+
+Shravathi Valley:
+IBA Code	IN-KA-32
+Site Name	Shravathi Valley
+Province	Karnataka
+Districts	Shimoga
+Area	43123 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Semi Evergreen, Tropical Wet Evergreen, Tropical Moist Deciduous
+ 	 
+ 	 
+
+Someshwara:
+IBA Code	IN-KA-33
+Site Name	Someshwara
+Province	Karnataka
+Districts	Udipi
+Area	8840 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Tropical Grassland
+ 	 
+ 	 
+
+Sulekere Lake:
+IBA Code	IN-KA-34
+Site Name	Sulekere Lake
+Province	Karnataka
+Districts	Mandya
+Area	500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Talakaveri:
+IBA Code	IN-KA-35
+Site Name	Talakaveri
+Province	Karnataka
+Districts	Kodagu
+Area	10501 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous, Tropical Thorn 
+ 	 
+ 	 
+
+Arabhithittu:
+IBA Code	IN-KA-36
+Site Name	Arabhithittu
+Province	Karnataka
+Districts	Mysore
+Area	1350 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Data deficient (DD)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+
+Shettiahalli:
+IBA Code	IN-KA-37
+Site Name	Shettiahalli
+Province	Karnataka
+Districts	Shimoga
+Area	39560 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Semi-Evergreen , Tropical Deciduous s
+ 	 
+ 
+
+  
+
+
+Kerala 
+ 
+Amarambalam - Nilambur
+IBA Code	IN-KL-01
+Site Name	Amarambalam - Nilambur
+Province	Kerala
+Districts	Malapuram
+Area	26572 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous
+ 	 
+
+  
+Aralam
+IBA Code	IN-KL-02
+Site Name	Aralam
+Province	Kerala
+Districts	Kannur
+Area	5500 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+
+  
+Chimmony
+Chinnar
+IBA Code	IN-KL-03
+Site Name	Chimmony
+Province	Kerala
+Districts	Trichur
+Area	9000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Moist Scrub
+ 	 
+ 	 
+ 	 
+
+  
+Eravikulam
+IBA Code	IN-KL-05
+Site Name	Eravikulam
+Province	Kerala
+Districts	Idukki
+Area	9700 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Broad leaved Hill,  Montane Grassy Slopes
+ 	 
+ 	 
+
+  
+Idukki
+IBA Code	IN-KL-06
+Site Name	Idukki
+Province	Kerala
+Districts	Idukki
+Area	7000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Semi Evergreen , Tropical Secondary Scrub
+ 	 
+ 	 
+ 	 
+
+  
+Kattampally
+IBA Code	IN-KL-07
+Site Name	Kattampally
+Province	Kerala
+Districts	Kannur
+Area	750 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp, Seasonal Marsh, Sub Tropical Secondary Scrub
+ 	 
+
+  
+Kole
+IBA Code	IN-KL-08
+Site Name	Kole
+Province	Kerala
+Districts	Trichur and Malappuram
+Area	13632 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Konni
+IBA Code	IN-KL-09
+Site Name	Konni
+Province	Kerala
+Districts	Quilon and Pathanamthitta
+Area	33116 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous, Tropical Grassland
+ 	 
+
+  
+Kottiyoor
+IBA Code	IN-KL-10
+Site Name	Kottiyoor
+Province	Kerala
+Districts	Kannur
+Area	3500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen 
+ 	 
+ 	 
+ 	 
+
+  
+Kulathupuzha
+IBA Code	IN-KL-11
+Site Name	Kulathupuzha
+Province	Kerala
+Districts	Kollam (Quilon)
+Area	21900 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species(A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+
+  
+Nelliyampathy
+IBA Code	IN-KL-12
+Site Name	Nelliyampathy
+Province	Kerala
+Districts	Palghat
+Area	20005 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen 
+ 	 
+
+  
+Neyyar
+IBA Code	IN-KL-13
+Site Name	Neyyar
+Province	Kerala
+Districts	Thiruvanthapuram
+Area	12800 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous 
+ 	 
+
+  
+Parambikulam
+IBA Code	IN-KL-14
+Site Name	Parambikulam
+Province	Kerala
+Districts	Palghat
+Area	28500 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous, Tropical Dry Deciduous
+ 	 
+ 	 
+ 
+
+  
+Peechi - Vazhani
+IBA Code	IN-KL-15
+Site Name	Peechi - Vazhani
+Province	Kerala
+Districts	Trichur
+Area	12500 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Moist, Tropical Semi Evergreen 
+ 	 
+
+  
+Peppara
+IBA Code	IN-KL-16
+Site Name	Peppara
+Province	Kerala
+Districts	Trivandrum
+Area	5300 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous , Tropical Grassland
+ 	 
+ 	 
+ 	 
+
+  
+Periyar
+IBA Code	IN-KL-17
+Site Name	Periyar
+Province	Kerala
+Districts	Idukki
+Area	77700 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen , Freshwater Swamp
+ 
+
+  
+Ranni
+IBA Code	IN-KL-18
+Site Name	Ranni
+Province	Kerala
+Districts	Quilon
+Area	87738 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Data deficient (A1, A2, DD)
+Habitat Type	Tropical Moist Deciduous , Tropical Dry Evergreen , Tropical Semi Evergreen 
+ 	 
+
+  
+Shendurney
+IBA Code	IN-KL-19
+Site Name	Shendurney
+Province	Kerala
+Districts	Quilon
+Area	10032 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Deciduous , Tropical Wet Evergreen , Tropical Dry Evergreen 
+ 	 
+
+  
+Silent Valley
+IBA Code	IN-KL-20
+Site Name	Silent Valley
+Province	Kerala
+Districts	Palakkad
+Area	8952 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen 
+
+  
+Thattakkad
+IBA Code	IN-KL-21
+Site Name	Thattakkad
+Province	Kerala
+Districts	Idduki
+Area	2516 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Wet Evergreen, Tropical Semi Evergreen, Tropical Moist Deciduous
+
+  
+Vazhachal  Division
+IBA Code	IN-KL-22
+Site Name	Vazhachal  Division
+Province	Kerala
+Districts	Thrissur & Ernakulam
+Area	41300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen, Tropical Wet Evergreen, Tropical Moist Deciduous
+
+  
+Vembanad Lake
+IBA Code	IN-KL-23
+Site Name	Vembanad Lake
+Province	Kerala
+Districts	Ernakulam, Alleppey, Kottayam, and Pathanamthitta
+Area	79400 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Littoral , Freshwater Swamp, Montane Grassy Slopes
+ 	 
+ 	 
+ 	 
+
+  
+Wynaad
+IBA Code	IN-KL-24
+Site Name	Wynaad
+Province	Kerala
+Districts	Wynaad
+Area	34444 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous 
+ 	 
+ 	 
+ 
+
+
+
+Lakshadweep 
+Pitti Island:
+IBA Code	IN-LD-01
+Site Name	Pitti Island
+Province	Lakshadweep
+Districts	Lakshadweep Island
+Area	1 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4iii)
+Habitat Type	Tropical Secondary Scrub
+ 	 
+ 
+
+
+Madhya Pradesh 
+Bandhavgarh:
+IBA Code	IN-MP-01
+Site Name	Bandhavgarh
+Province	Madhya Pradesh
+Districts	Shahdol
+Area	44885 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Moist Deciduous  and Tropical Grassland
+ 
+
+  
+Barna Reservoir:
+IBA Code	IN-MP-02
+Site Name	Barna Reservoir
+Province	Madhya Pradesh
+Districts	Raisen
+Area	7690 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Bhoj (Upper Lake) Wetland:
+IBA Code	IN-MP-03
+Site Name	Bhoj (Upper Lake) Wetland
+Province	Madhya Pradesh
+Districts	Bhopal
+Area	3072 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Tropical Secondary Scrub, Tropical Dry Deciduous
+ 	 
+ 	 
+
+Bori:
+IBA Code	IN-MP-04
+Site Name	Bori
+Province	Madhya Pradesh
+Districts	Hoshangabad
+Area	48572 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 	 
+
+Dihaila Jheel:
+IBA Code	IN-MP-05
+Site Name	Dihaila Jheel
+Province	Madhya Pradesh
+Districts	Shivpuri
+Area	371 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Gandhi Sagar Reservoir:
+IBA Code	IN-MP-06
+Site Name	Gandhi Sagar Reservoir
+Province	Madhya Pradesh
+Districts	Neemuch, Mandsaur
+Area	36862 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory seabird or terrestrial species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4ii, A4iii)
+Habitat Type	Wetland and Dry deciduous 
+ 
+
+Ghatigaon Bustard:
+IBA Code	IN-MP-07
+Site Name	Ghatigaon Bustard
+Province	Madhya Pradesh
+Districts	Gwalior
+Area	51100 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous , Tropical Arid Zone
+ 	 
+
+Halali Reservoir:
+IBA Code	IN-MP-08
+Site Name	Halali Reservoir
+Province	Madhya Pradesh
+Districts	Bhopal, Raisen
+Area	2528 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+
+Kanha:
+IBA Code	IN-MP-09
+Site Name	Kanha
+Province	Madhya Pradesh
+Districts	Mandla & Balaghat
+Area	94000 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous , Tropical Grasslands
+
+Madhav:
+IBA Code	IN-MP-10
+Site Name	Madhav
+Province	Madhya Pradesh
+Districts	Shivpuri
+Area	37522 sq. km.
+Status	National Park
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+
+Panna:
+IBA Code	IN-MP-11
+Site Name	Panna
+Province	Madhya Pradesh
+Districts	Panna, Chhattarpur
+Area	54267 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+
+Pench:
+IBA Code	IN-MP-12
+Site Name	Pench
+Province	Madhya Pradesh
+Districts	Seoni and Chhindwara
+Area	75789 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+
+Rangawa Reservoir:
+IBA Code	IN-MP-13
+Site Name	Rangawa Reservoir
+Province	Madhya Pradesh
+Districts	Chhattarpur
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Ratapani:
+IBA Code	IN-MP-14
+Site Name	Ratapani
+Province	Madhya Pradesh
+Districts	Raisen, Sehore
+Area	82384 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Tropical Dry Deciduous , Tropical Moist Deciduous , Freshwater Swamp
+
+Sailana Kharmor:
+IBA Code	IN-MP-15
+Site Name	Sailana Kharmor
+Province	Madhya Pradesh
+Districts	Ratlam
+Area	1296 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grassland
+ 	 
+
+Sardarpur:
+IBA Code	IN-MP-16
+Site Name	Sardarpur
+Province	Madhya Pradesh
+Districts	Dhar
+Area	34812 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grassland
+ 	 
+
+Yeshwantsagar Reservoir:
+IBA Code	IN-MP-17
+Site Name	Yeshwantsagar Reservoir
+Province	Madhya Pradesh
+Districts	Indore
+Area	14000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+
+
+
+Maharashtra 
+Bhimashankar:
+IBA Code	IN-MH-01
+Site Name	Bhimashankar
+Province	Maharashtra
+Districts	Pune, Raigad, Thane
+Area	13078 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Semi Evergreen , Tropical Moist Deciduous 
+ 	 
+
+  
+Burnt Island (Bandra) Vengurla:
+IBA Code	IN-MH-02
+Site Name	Burnt Island (Bandra) Vengurla
+Province	Maharashtra
+Districts	Sindhudurga
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Biome-restricted assemblage, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A3, A4iii)
+Habitat Type	Tropical Secondary Scrub
+ 	 
+
+Gangapur Dam and Grassland:
+IBA Code	IN-MH-03
+Site Name	Gangapur Dam and Grassland
+Province	Maharashtra
+Districts	Nashik
+Area	4000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Montane Grassy Slopes
+ 
+Ins Shivaji and Adjoining Areas:
+IBA Code	IN-MH-04
+Site Name	Ins Shivaji and Adjoining Areas
+Province	Maharashtra
+Districts	Pune & Raigad
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Semi Evergreen , and Moist deciduous 
+ 	 
+
+Jaikwadi:
+IBA Code	IN-MH-05
+Site Name	Jaikwadi
+Province	Maharashtra
+Districts	Ahmadnagar and Aurangabad
+Area	34105 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Jawaharlal Nehru Bustard, Nannaj:
+IBA Code	IN-MH-06
+Site Name	Jawaharlal Nehru Bustard, Nannaj
+Province	Maharashtra
+Districts	Solapur, Ahmednagar
+Area	849644 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Thorn 
+ 	 
+
+Koyna:
+IBA Code	IN-MH-07
+Site Name	Koyna
+Province	Maharashtra
+Districts	Satara
+Area	42652 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen , Tropical Moist Deciduous 
+ 	 
+ 	 
+
+Mahul - Sewri Mudflats:
+IBA Code	IN-MH-08
+Site Name	Mahul - Sewri Mudflats
+Province	Maharashtra
+Districts	Mumbai
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Littoral 
+
+Melghat and Gugamal:
+IBA Code	IN-MH-09
+Site Name	Melghat and Gugamal
+Province	Maharashtra
+Districts	Amravati
+Area	115003 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Deciduous , Tropical Grassland
+ 	 
+ 	 
+
+Nagzira:
+IBA Code	IN-MH-10
+Site Name	Nagzira
+Province	Maharashtra
+Districts	Bhandara
+Area	15281 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous , Riverine , Tropical Grassland
+ 	 
+
+Nandur Madhameshwar:
+IBA Code	IN-MH-11
+Site Name	Nandur Madhameshwar
+Province	Maharashtra
+Districts	Nashik
+Area	10012 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Tropical Dry Deciduous 
+ 	 
+
+Nawegaon:
+IBA Code	IN-MH-12
+Site Name	Nawegaon
+Province	Maharashtra
+Districts	Bhandara and Gondia
+Area	13388 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous s, Aquatic, Freshwater Swamp
+ 	 
+
+Ozar, Wani and Adjoining Grassland:
+IBA Code	IN-MH-13
+Site Name	Ozar, Wani and Adjoining Grassland
+Province	Maharashtra
+Districts	Nashik
+Area	20000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Thorn 
+
+Radhanagari:
+IBA Code	IN-MH-14
+Site Name	Radhanagari
+Province	Maharashtra
+Districts	Kolhapur
+Area	35116 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen , Tropical Moist Deciduous
+
+Sanjay Gandhi and Tungareshwar:
+IBA Code	IN-MH-15
+Site Name	Sanjay Gandhi and Tungareshwar
+Province	Maharashtra
+Districts	Mumbai and Thane
+Area	10308 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous , Tropical Dry Evergreen , Freshwater Swamp
+
+Tadoba and Andheri:
+IBA Code	IN-MH-16
+Site Name	Tadoba and Andheri
+Province	Maharashtra
+Districts	Chandrapur
+Area	11655 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous , Tropical Wet Evergreen , Freshwater Swamp
+
+Talodas:
+IBA Code	IN-MH-17
+Site Name	Talodas
+Province	Maharashtra
+Districts	Nandurbar
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1,A2)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+
+Tansa:
+IBA Code	IN-MH-18
+Site Name	Tansa
+Province	Maharashtra
+Districts	Thane
+Area	30481 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous 
+
+Thane Creek:
+IBA Code	IN-MH-19
+Site Name	Thane Creek
+Province	Maharashtra
+Districts	Mumbai/Thane
+Area	12200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Fresh Water Swamp, Littoral 
+ 	 
+
+Toranmal:
+IBA Code	IN-MH-20
+Site Name	Toranmal
+Province	Maharashtra
+Districts	Nandurbar
+Area	26000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 
+
+
+
+Manipur 
+Ango Hills:
+IBA Code	IN-MAN-01
+Site Name	Ango Hills
+Province	Manipur
+Districts	Ukhrul
+Area	40000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Semi Evergreen , Tropical Dry Evergreen , Subtropical Broad leafed Hill
+ 	 
+
+  
+Bunning:
+IBA Code	IN-MAN-02
+Site Name	Bunning
+Province	Manipur
+Districts	Tamenglong
+Area	11580 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Tropical Dry Evergreen 
+ 	 
+ 	 
+
+Dzuko:
+IBA Code	IN-MAN-03
+Site Name	Dzuko, Japfu and Puliebadze
+Province	Manipur
+Districts	Senapati
+Area	2500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill, Montane Wet Temperate 
+
+  
+Jiri-Makru:
+IBA Code	IN-MAN-04
+Site Name	Jiri Makru
+Province	Manipur
+Districts	Imphal East and Tamenglong
+Area	19800 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Tropical Wet Evergreen  and Tropical Semi Evergreen 
+
+Kailam:
+IBA Code	IN-MAN-05
+Site Name	Kailam
+Province	Manipur
+Districts	Churachanpur
+Area	18750 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen 
+ 	 
+
+Loktak Lake and Keibul:
+IBA Code	IN-MAN-06
+Site Name	Loktak Lake and Keibul
+Province	Manipur
+Districts	Bishnupur and Imphal West
+Area	20000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+
+Siroi:
+IBA Code	IN-MAN-07
+Site Name	Siroi
+Province	Manipur
+Districts	Ukhrul
+Area	5000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill, Montane Grassy Slopes
+
+Yangoupokpi - Lokchao:
+IBA Code	IN-MAN-08
+Site Name	Yangoupokpi - Lokchao
+Province	Manipur
+Districts	Chandel
+Area	18480 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Semi Evergreen  and Tropical Moist Deciduous 
+ 	 
+ 	 
+ 	 
+
+Zeilad Lake:
+IBA Code	IN-MAN-09
+Site Name	Zeilad Lake
+Province	Manipur
+Districts	Tamenglong
+Area	2100 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Tropical Wet Evergreen , Freshwater Swamp
+ 	 
+ 
+
+
+
+Meghalaya 
+Balphakram and Siju:
+IBA Code	IN-ML-01
+Site Name	Balphakram and Siju
+Province	Meghalaya
+Districts	South Garo Hills
+Area	26947 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A2, A4i)
+Habitat Type	Tropical Wet Evergreen , Tropical Dry Deciduous, Tropical Grassland
+ 	 
+ 	 
+
+  
+Mawphlang Sacred Grove:
+IBA Code	IN-ML-02
+Site Name	Mawphlang Sacred Grove
+Province	Meghalaya
+Districts	East Khasi Hills
+Area	100 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Subtropical Broadleaved 
+ 	 
+ 	 
+
+Nokrek Ridge:
+IBA Code	IN-ML-03
+Site Name	Nokrek Ridge
+Province	Meghalaya
+Districts	East & West Garo Hills
+Area	4748 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen, Tropical Semi Evergreen
+ 	 
+
+Nongkhyllem:
+IBA Code	IN-ML-04
+Site Name	Nongkhyllem
+Province	Meghalaya
+Districts	Ri-Bhoi
+Area	2900 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous , Tropical Semi Evergreen  and Montane Grassy Slopes
+ 	 
+ 	 
+
+  
+Norpuh - Narpuhs:
+IBA Code	IN-ML-05
+Site Name	Norpuh - Narpuhs
+Province	Meghalaya
+Districts	Jaintia Hills
+Area	16110 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+ 	 
+
+Riat Khwan - Umiam Lake:
+IBA Code	IN-ML-06
+Site Name	Riat Khwan - Umiam Lake
+Province	Meghalaya
+Districts	East Khasi Hills and Ri-Bhoi
+Area	1500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine , Sub Tropical Broad Leaved Hill
+ 	 
+ 	 
+ 	 
+
+Saipung Link:
+IBA Code	IN-ML-07
+Site Name	Saipung Link
+Province	Meghalaya
+Districts	Jaintia Hills
+Area	15000 sq. km.
+Status	Non Officially Protected
+Criteria	Data deficient (DD)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen , Tropical Moist Deciduous 
+ 	 
+ 	 
+ 	 
+
+Upper Shillong:
+IBA Code	IN-ML-08
+Site Name	Upper Shillong
+Province	Meghalaya
+Districts	East Khasi Hills
+Area	1296 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Pine  and Sub Tropical Broad Leaved Hill
+ 	 
+ 	 
+
+Cherapunjee: Cliffs, Gorges:
+IBA Code	IN-ML-09
+Site Name	Cherapunjee: Cliffs, Gorges 
+Province	Meghalaya
+Districts	East Khasi Hills
+Area	1000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Evergreen , Broadleaf Mountane  and Grassland Plateau
+ 	 
+ 
+
+
+
+Mizoram
+Blue Mountain:
+IBA Code	IN-MZ-01
+Site Name	Blue Mountain
+Province	Mizoram
+Districts	Saiha
+Area	5000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Sub Tropical Broad leaved Hill
+ 	 
+ 	 
+ 	 
+
+  
+Dampa:
+IBA Code	IN-MZ-02
+Site Name	Dampa
+Province	Mizoram
+Districts	West Phaileng
+Area	50000 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Moist Deciduous , Tropical Dry Evergreen , Tropical Semi Evergreen , Tropical Grassland
+ 	 
+ 	 
+
+  
+Lengteng:
+IBA Code	IN-MZ-03
+Site Name	Lengteng
+Province	Mizoram
+Districts	Champai
+Area	12000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen , Sub Tropical Broad Leaved Hill
+ 	 
+
+Murlen:
+IBA Code	IN-MZ-04
+Site Name	Murlen
+Province	Mizoram
+Districts	Champhai
+Area	20000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen and Tropical Semi Evergreen 
+ 	 
+ 	 
+
+Ngengpui:
+IBA Code	IN-MZ-05
+Site Name	Ngengpui
+Province	Mizoram
+Districts	West Phaileng
+Area	11000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Biome-restricted assemblage, Data deficient (A3, DD)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen 
+ 	 
+ 	 
+
+Palak Lake:
+IBA Code	IN-MZ-06
+Site Name	Palak Lake
+Province	Mizoram
+Districts	Saiha
+Area	2000 sq. km.
+Status	Non Officially Protected
+Criteria	Biome-restricted assemblage, Data deficient (A3, DD)
+Habitat Type	Tropical Moist Deciduous , Tropical Dry Evergreen , Tropical Semi Evergreen 
+ 	 
+
+
+
+Nagaland 
+Fakim and Saramati Area:
+IBA Code	IN-NL-01
+Site Name	Fakim and Saramati Area
+Province	Nagaland
+Districts	Tuensang
+Area	30000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate 
+ 	 
+ 	 
+
+  
+Intanki:
+IBA Code	IN-NL-02
+Site Name	Intanki
+Province	Nagaland
+Districts	Dimapur, Kohima
+Area	20202 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Semi Evergreen , Tropical Dry Deciduous s and Tropical Moist Deciduous 
+ 	 
+ 	 
+
+Khonoma Nature Conservation:
+IBA Code	IN-NL-03
+Site Name	Khonoma Nature Conservation
+Province	Nagaland
+Districts	Kohima
+Area	2500 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen , Sub Tropical Broad Leaved 
+ 	 
+
+Mount Paona:
+IBA Code	IN-NL-04
+Site Name	Mount Paona
+Province	Nagaland
+Districts	Kohima
+Area	3000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved 
+ 	 
+ 	 
+
+  
+Mount Zanibu:
+Mount Zanibu:
+IBA Code	IN-NL-05
+Site Name	Mount Zanibu
+Province	Nagaland
+Districts	phek
+Area	4000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad leaved , Montane Wet Temperate 
+ 	 
+ 	 
+
+Mount Ziphu:
+IBA Code	IN-NL-06
+Site Name	Mount Ziphu
+Province	Nagaland
+Districts	Phek
+Area	5000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad leaved 
+ 	 
+ 	 
+
+Pfutsero - Chizami:
+IBA Code	IN-NL-07
+Site Name	Pfutsero - Chizami
+Province	Nagaland
+Districts	Phek
+Area	7000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad Leaved Hill, Tropical Secondary Scrub
+ 	 
+ 	 
+
+Puliebadze:
+IBA Code	IN-NL-08
+Site Name	Puliebadze
+Province	Nagaland
+Districts	Kohima
+Area	10923 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Sub Tropical Broad leaved Hill and Montane Wet Temperate 
+ 	 
+ 	 
+
+Satoi Range:
+IBA Code	IN-NL-09
+Site Name	Satoi Range
+Province	Nagaland
+Districts	Zunheboto and Phek
+Area	5000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Sub Tropical Broad Leaved Hill
+ 	 
+ 	 
+ 
+
+
+
+Orissa 
+Bhitarakannika:
+IBA Code	IN-OR-01
+Site Name	Bhitarakannika
+Province	Orissa
+Districts	Kendrapara (formally Cuttack)
+Area	81700 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Littoral , Tropical Moist Deciduous 
+ 	 
+
+  
+Chandka:
+IBA Code	IN-OR-02
+Site Name	Chandka
+Province	Orissa
+Districts	Khurda and Cuttack
+Area	17579 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Tropical Moist Deciduous 
+ 	 
+ 	 
+
+  
+Chilka Lake:
+IBA Code	IN-OR-03
+Site Name	Chilka Lake
+Province	Orissa
+Districts	Khurda, Puri and Ganjam
+Area	1553 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Aquatic
+ 	 
+
+Mangal Jodi:
+IBA Code	IN-OR-04
+Site Name	Mangal Jodi
+Province	Orissa
+Districts	Khurda
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Seasonal Marsh
+ 	 
+
+Satkosia Gorge:
+IBA Code	IN-OR-05
+Site Name	Satkosia Gorge
+Province	Orissa
+Districts	Dhenkal, Cuttack, Puri, Phulbani
+Area	79552 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous , Sub Tropical Leaved Hill
+ 	 
+ 	 
+
+Simlipal:
+IBA Code	IN-OR-06
+Site Name	Simlipal
+Province	Orissa
+Districts	Mayurbhanj
+Area	84570 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Semi Evergreen , Tropical Moist Deciduous , Tropical Dry Deciduous 
+ 	 
+ 	 
+ 	 
+
+Sunabeda:
+Sunabeda:
+IBA Code	IN-OR-07
+Site Name	Sunabeda
+Province	Orissa
+Districts	Nuapada
+Area	50000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Dry Deciduous
+ 	 
+
+
+
+Pondicherry 
+Bahour Lake :
+IBA Code	IN-PY-01
+Site Name	Bahour Lake
+Province	Pondicherry
+Districts	 
+Area	618 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 
+Ousteri Lake:
+IBA Code	IN-PY-02
+Site Name	Ousteri Lake
+Province	Pondicherry
+Districts	 
+Area	800 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 
+
+
+Punjab 
+Harike Lake:
+IBA Code	IN-PB-01
+Site Name	Harike Lake
+Province	Punjab
+Districts	Amritsar, Kapurthala and Firozpur
+Area	8600 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+
+  
+Kanjli Lake:
+IBA Code	IN-PB-02
+Site Name	Kanjli Lake
+Province	Punjab
+Districts	Kapurthala, Amritsar
+Area	490 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Ropar Wetland:
+IBA Code	IN-PB-03
+Site Name	Ropar Wetland
+Province	Punjab
+Districts	Ropar
+Area	1365 sq. km.
+Status	Non Officially Protected
+Criteria	Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species, Data deficient (A4iii, DD)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+
+
+Rajasthan
+Alniya Dam:
+IBA Code	IN-RJ-01
+Site Name	Alniya Dam
+Province	Rajasthan
+Districts	Kota
+Area	20143 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Bardha Dam Reservoir:
+IBA Code	IN-RJ-02
+Site Name	Bardha Dam Reservoir
+Province	Rajasthan
+Districts	Bundi
+Area	300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Biome-restricted assemblage, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A3, A4i)
+Habitat Type	Freshwater Swamp
+
+Desert:
+IBA Code	IN-RJ-03
+Site Name	Desert
+Province	Rajasthan
+Districts	Jaisalmer and Barmer
+Area	316200 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Tropical Arid Zone
+ 	 
+ 	 
+
+Diyatra:
+IBA Code	IN-RJ-04
+Site Name	Diyatra
+Province	Rajasthan
+Districts	Bikaner
+Area	5019 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Arid Zone, Tropical Secondary Scrub, Tropical Grassland
+ 	 
+
+  
+Gagwana Arain, Mangliyawas, Ramsar:
+IBA Code	IN-RJ-05
+Site Name	Gagwana Arain, Mangliyawas, Ramsar
+Province	Rajasthan
+Districts	Ajmer
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grasslands
+ 	 
+ 	 
+
+Jaisamand Lake:
+IBA Code	IN-RJ-06
+Site Name	Jaisamand Lake
+Province	Rajasthan
+Districts	Udaipur
+Area	7300 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Tropical Dry Deciduous
+ 	 
+ 	 
+
+Keoladeo:
+IBA Code	IN-RJ-07
+Site Name	Keoladeo
+Province	Rajasthan
+Districts	Bharatpur
+Area	2873 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Tropical Dry Deciduous 
+ 	 
+ 	 
+
+Khichan:
+IBA Code	IN-RJ-08
+Site Name	Khichan
+Province	Rajasthan
+Districts	Jodhpur
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp, Tropical Thorn , Tropical Arid Zone
+ 	 
+ 	 
+ 	 
+
+Kumbhalgarh:
+IBA Code	IN-RJ-09
+Site Name	Kumbhalgarh
+Province	Rajasthan
+Districts	Udaipur, Pali, Rajsamand
+Area	57825 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+
+Mount Abu:
+IBA Code	IN-RJ-10
+Site Name	Mount Abu
+Province	Rajasthan
+Districts	Sirohi
+Area	28884 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Semi Evergreen , Tropical Dry Deciduous 
+
+National Chambal:
+IBA Code	IN-RJ-11
+Site Name	National Chambal
+Province	Rajasthan
+Districts	Kota, Bundi
+Area	5200 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp, Riverine Vegetation
+ 
+
+Phulwari - Ki - Nal:
+IBA Code	IN-RJ-12
+Site Name	Phulwari - Ki - Nal
+Province	Rajasthan
+Districts	Udaipur
+Area	51114 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+
+Ram sagar Bandh:
+IBA Code	IN-RJ-13
+Site Name	Ram sagar Bandh
+Province	Rajasthan
+Districts	Bundi
+Area	400 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Ranthambore:
+IBA Code	IN-RJ-14
+Site Name	Ranthambore
+Province	Rajasthan
+Districts	Sawai Madhopur
+Area	39200 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 	 
+
+Sajjan Garh:
+IBA Code	IN-RJ-15
+Site Name	Sajjan Garh
+Province	Rajasthan
+Districts	Udaipur
+Area	519 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+ 	 
+ 	 
+ 	 
+
+Sambhar Lake:
+IBA Code	IN-RJ-16
+Site Name	Sambhar Lake
+Province	Rajasthan
+Districts	Nagaur, Jaipur, Ajmer
+Area	19000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+
+Sareri Bandh:
+IBA Code	IN-RJ-17
+Site Name	Sareri Bandh
+Province	Rajasthan
+Districts	Bhilwara
+Area	300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+
+Sariska:
+IBA Code	IN-RJ-18
+Site Name	Sariska
+Province	Rajasthan
+Districts	Alwar
+Area	86600 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous , Tropical Thorn s
+ 	 
+ 	 
+ 	 
+
+Sei Dam:
+IBA Code	IN-RJ-19
+Site Name	Sei Dam
+Province	Rajasthan
+Districts	Udaipur
+Area	300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp, Tropical Moist Deciduous 
+ 	 
+ 	 
+
+Sitamata:
+IBA Code	IN-RJ-20
+Site Name	Sitamata
+Province	Rajasthan
+Districts	Chittorgarh, Udaipur
+Area	42294 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous 
+ 
+
+Sonkhilya:
+IBA Code	IN-RJ-21
+Site Name	Sonkhilya
+Province	Rajasthan
+Districts	Ajmer
+Area	17134 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Secondary Scrub
+
+Talchapar:
+IBA Code	IN-RJ-22
+Site Name	Talchapar
+Province	Rajasthan
+Districts	Churu
+Area	790 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Arid Zone
+ 	 
+ 	 
+
+Udaipur Lake Complex:
+IBA Code	IN-RJ-23
+Site Name	Udaipur Lake Complex
+Province	Rajasthan
+Districts	Udaipur
+Area	3030 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 	 
+
+Baghdarrah:
+IBA Code	IN-RJ-24
+Site Name	Baghdarrah
+Province	Rajasthan
+Districts	Udaipur
+Area	342 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Freshwater Swamp, Tropical Dry Deciduous 
+ 	 
+
+  
+
+
+Sikkim
+Barsey Rhododendron:
+IBA Code	IN-SK-01
+Site Name	Barsey Rhododendron
+Province	Sikkim
+Districts	West SK
+Area	104000 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Dry Evergreen, Sub Tropical Broad Leaved Hill
+ 	 
+
+  
+Dombang Valley - Lachung - Lema Tu:
+IBA Code	IN-SK-02
+Site Name	Dombang Valley - Lachung - Lema Tu
+Province	Sikkim
+Districts	North SK
+Area	60000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Hilly Evergreen , Montane Broadleaf Evergreen and Deciduous , Montane Mixed Broadleaf
+
+Fambong Loh:
+IBA Code	IN-SK-03
+Site Name	Fambong Loh
+Province	Sikkim
+Districts	East SK
+Area	5381 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Broad Leaved Hill, Sub Tropical Pine 
+ 	 
+
+Khangchendzonga:
+IBA Code	IN-SK-04
+Site Name	Khangchendzonga
+Province	Sikkim
+Districts	North SK
+Area	84950 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Biome-restricted assemblage (A1, A3)
+Habitat Type	Subtropical Mixed Broadleaf- coniferous , Temperate Broadleaved , Temperate 
+ 
+
+  
+Kyongnosla Alpine East SK:
+IBA Code	IN-SK-05
+Site Name	Kyongnosla Alpine East SK
+Province	Sikkim
+Districts	East SK
+Area	3100 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Broad Leaved Hill, Alpine Moist Pasture
+
+Lhonak Valley:
+IBA Code	IN-SK-06
+Site Name	Lhonak Valley
+Province	Sikkim
+Districts	North SK
+Area	50000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Alpine Moist Pasture, Alpine Arid Pasture
+ 	 
+ 	 
+
+Lowland  of South SK:
+IBA Code	IN-SK-07
+Site Name	Lowland  of South SK 
+Province	Sikkim
+Districts	South & West SK
+Area	2000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Moist Deciduous , Tropical Secondary Scrub
+ 	 
+
+Maenam:
+IBA Code	IN-SK-08
+Site Name	Maenam
+Province	Sikkim
+Districts	South  SK
+Area	3534 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Dry Evergreen , Sub Tropical Broad Leaved Hill
+ 	 
+
+Pangolakha Zuluk - Bedang Tso:
+IBA Code	IN-SK-09
+Site Name	Pangolakha Zuluk - Bedang Tso
+Province	Sikkim
+Districts	East SK
+Area	12400 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Pine , Sub Tropical Broad Leaved Hill
+ 	 
+
+Tso Lhamo Plateau:
+IBA Code	IN-SK-10
+Site Name	Tso Lhamo Plateau
+Province	Sikkim
+Districts	North SK
+Area	50000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Cold Desert and Alpine Grassland
+ 	 
+ 	 
+
+Yumthang - Shingba Rhododendron:
+IBA Code	IN-SK-11
+Site Name	Yumthang - Shingba Rhododendron
+Province	Sikkim
+Districts	North SK
+Area	4300 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Montane Broadleaf Evergreen and Mixed Broadleaf Coniferous , and Alpine meadows
+
+
+
+Tamilnadu
+Avalanche:
+IBA Code	IN-TN-01
+Site Name	Avalanche
+Province	Tamilnadu
+Districts	Nilgiris
+Area	7846 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Montane Grassy Slopes, Tropical Secondary Scrub, Tropical Grassland
+ 	 
+ 	 
+
+  
+Berijam (Kodaikonal):
+IBA Code	IN-TN-02
+Site Name	Berijam (Kodaikonal)
+Province	Tamilnadu
+Districts	Dindigul
+Area	62000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen , Tropical Semi Evergreen , Tropical Secondary Scrub
+
+Big Tank (Peria Kanmai) and Sakkar:
+IBA Code	IN-TN-03
+Site Name	Big Tank (Peria Kanmai) and Sakkar
+Province	Tamilnadu
+Districts	Ramanathupuram
+Area	2541 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Bison Swamp:
+IBA Code	IN-TN-04
+Site Name	Bison Swamp
+Province	Tamilnadu
+Districts	Nilgiris
+Area	12 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Tropical Grassland, Tropical Secondary Scrub
+ 	 
+
+  
+Cairnhill:
+IBA Code	IN-TN-05
+Site Name	Cairnhill
+Province	Tamilnadu
+Districts	Nilgiris
+Area	243 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Tropical Secondary Scrub
+ 	 
+
+Chitragudi:
+IBA Code	IN-TN-06
+Site Name	Chitragudi
+Province	Tamilnadu
+Districts	Ramanathapuram
+Area	152 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Aquatic
+
+Governor's Shola:
+IBA Code	IN-TN-07
+Site Name	Governor'S Shola
+Province	Tamilnadu
+Districts	Nilgiris
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Tropical Secondary Scrub
+ 	 
+ 	 
+
+Grass Hills:
+IBA Code	IN-TN-08
+Site Name	Grass Hills
+Province	Tamilnadu
+Districts	Coimbatore
+Area	65700 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Grassland and Montane Evergreen Shola
+ 	 
+
+Gulf of Mannar:
+IBA Code	IN-TN-09
+Site Name	Gulf of Mannar
+Province	Tamilnadu
+Districts	Ramanathapuram, Tuticorin
+Area	623 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Littoral , Tropical Secondary Scrub
+ 	 
+ 	 
+
+Indira Gandhi:
+IBA Code	IN-TN-10
+Site Name	Indira Gandhi
+Province	Tamilnadu
+Districts	Coimbatore
+Area	98700 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen , Tropical Moist Scrub, Tropical Grassland, Tropical Secondary Scrub
+ 	 
+ 	 
+ 	 
+
+Kalakad - Mundanthurai:
+IBA Code	IN-TN-11
+Site Name	Kalakad - Mundanthurai
+Province	Tamilnadu
+Districts	Tirunelveli
+Area	81800 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Wet Evergreen , Tropical Semi Evergreen , Tropical Grassland, Riverine Vegetation
+ 	 
+ 	 
+
+Kaliveli Tank and Yeduyanthittu Estuary:
+IBA Code	IN-TN-12
+Site Name	Kaliveli Tank and Yeduyanthittu Es
+Province	Tamilnadu
+Districts	Cuddalore
+Area	7500 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Seasonal Marsh
+ 	 
+ 
+
+Karaivetti:
+IBA Code	IN-TN-13
+Site Name	Karaivetti
+Province	Tamilnadu
+Districts	Tiruchchirappalli
+Area	454 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Koonthangulam:
+IBA Code	IN-TN-14
+Site Name	Koonthangulam
+Province	Tamilnadu
+Districts	Tirunelveli
+Area	129 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp, Aquatic
+ 	 
+ 	 
+
+Kothagiri, Longwood Shola:
+IBA Code	IN-TN-15
+Site Name	Kothagiri, Longwood Shola
+Province	Tamilnadu
+Districts	Nilgiris (North Division )
+Area	116 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	-
+ 	 
+ 
+
+Kullur Santhai Dam:
+IBA Code	IN-TN-16
+Site Name	Kullur Santhai Dam
+Province	Tamilnadu
+Districts	Virudunagar
+Area	1362 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Mudumalai:
+IBA Code	IN-TN-17
+Site Name	Mudumalai
+Province	Tamilnadu
+Districts	Nilgiris
+Area	32100 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Broad Leaved Hill, Tropical Semi Evergreen , Tropical Moist Deciduous
+
+Mukurthi:
+IBA Code	IN-TN-18
+Site Name	Mukurthi
+Province	Tamilnadu
+Districts	Nilgiris
+Area	7846 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Grassland, Montane Wet Temperate 
+ 	 
+ 	 
+
+Naduvattam:
+IBA Code	IN-TN-19
+Site Name	Naduvattam
+Province	Tamilnadu
+Districts	Nilgiris
+Area	3538 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Tropical Secondary Scrub
+ 	 
+ 	 
+
+Point Calimere:
+IBA Code	IN-TN-20
+Site Name	Point Calimere
+Province	Tamilnadu
+Districts	Nagapattinam
+Area	37733 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Tropical Dry Evergreen , Littoral 
+ 	 
+ 	 
+
+Poomparai and Kukkal:
+IBA Code	IN-TN-21
+Site Name	Poomparai and Kukkal
+Province	Tamilnadu
+Districts	Dindigul
+Area	6450 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Evergreen shrubs, Plantations
+ 	 
+
+Shola  around Kodaikanal:
+IBA Code	IN-TN-22
+Site Name	Shola  around Kodaikanal
+Province	Tamilnadu
+Districts	Dindigul
+Area	1600 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Evergreen , Tropical Grassland
+ 	 
+ 	 
+
+Srivilliputhur:
+IBA Code	IN-TN-23
+Site Name	Srivilliputhur
+Province	Tamilnadu
+Districts	Virudunagar
+Area	48520 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Dry Deciduous , Tropical Moist Deciduous , Tropical Semi Evergreen 
+ 	 
+
+Suchindram Therur:
+IBA Code	IN-TN-24
+Site Name	Suchindram Therur
+Province	Tamilnadu
+Districts	Kanyakumari
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Thaishola:
+IBA Code	IN-TN-25
+Site Name	Thaishola
+Province	Tamilnadu
+Districts	Nilgiri
+Area	603 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Montane Wet Temperate , Tropical Secondary Scrub
+ 	 
+ 	 
+
+Tirunelveli:
+IBA Code	IN-TN-26
+Site Name	Tirunelveli
+Province	Tamilnadu
+Districts	Kanyankumari and Tirunelveli
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Dry Evergreen , Montane Wet Temperate , Tropical Moist Deciduous 
+ 	 
+
+Vadidoor and Kunnathur Tanks:
+IBA Code	IN-TN-27
+Site Name	Vadidoor and Kunnathur Tanks
+Province	Tamilnadu
+Districts	Madurai
+Area	278 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 
+
+Vaduvoor:
+IBA Code	IN-TN-28
+Site Name	Vaduvoor
+Province	Tamilnadu
+Districts	Tiruvarur
+Area	128 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Vedanthangal and Karikili:
+IBA Code	IN-TN-29
+Site Name	Vedanthangal and Karikili
+Province	Tamilnadu
+Districts	Chengalpet
+Area	80 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 
+
+Veeeranam Lake:
+IBA Code	IN-TN-30
+Site Name	Veeeranam Lake
+Province	Tamilnadu
+Districts	Cuddalore
+Area	3885 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Vettangudi:
+IBA Code	IN-TN-31
+Site Name	Vettangudi
+Province	Tamilnadu
+Districts	Sivagangai
+Area	38 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+ 
+
+Watrap Periakulam and Virakasamuth:
+IBA Code	IN-TN-32
+Site Name	Watrap Periakulam and Virakasamuth
+Province	Tamilnadu
+Districts	Virudhunagar
+Area	251 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Wellington Lake:
+IBA Code	IN-TN-33
+Site Name	Wellington Lake
+Province	Tamilnadu
+Districts	Cuddalore
+Area	650 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+
+Muthukuzhi:
+IBA Code	IN-TN-34
+Site Name	Muthukuzhi
+Province	Tamilnadu
+Districts	Nagercoil
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Data deficient (A1, A2, DD)
+Habitat Type	Montane Wet Temperate 
+ 	 
+
+
+
+Tripura
+Gumti WLS:
+IBA Code	IN-TR-01
+Site Name	Gumti WLS
+Province	Tripura
+Districts	Dhalai and South TR
+Area	38954 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp, , Tropical Semi Evergreen
+ 	 
+ 
+Trishna:
+IBA Code	IN-TR-02
+Site Name	Trishna
+Province	Tripura
+Districts	South TR
+Area	19470 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Data deficient (DD)
+Habitat Type	Tropical Semi Evergreen 
+ 	 
+ 
+
+
+Uttar Pradesh 
+Bakhira:
+IBA Code	IN-UP-01
+Site Name	Bakhira
+Province	Uttar Pradesh
+Districts	Sant Kabir Nagar
+Area	2894 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+  
+Dudwa:
+IBA Code	IN-UP-02
+Site Name	Dudwa
+Province	Uttar Pradesh
+Districts	Lakhimpur Kheri  (Palia tehsil)
+Area	49000 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Biome-restricted assemblage, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A3, A4i)
+Habitat Type	Tropical Grassland
+ 	 
+ 	 
+
+  
+Hastinapur:
+IBA Code	IN-UP-03
+Site Name	Hastinapur
+Province	Uttar Pradesh
+Districts	Muzaffarnagar, Meerut, Ghaziabad, Bijnor
+Area	207300 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Tropical Dry Deciduous, Tropical Secondary Scrub, Tropical Grassland
+ 	 
+
+Katernia - Ghat:
+IBA Code	IN-UP-04
+Site Name	Katernia - Ghat
+Province	Uttar Pradesh
+Districts	Behraich
+Area	40069 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous, Riverine Vegetation, Freshwater Swamp
+ 	 
+
+Kishanpur:
+IBA Code	IN-UP-05
+Site Name	Kishanpur
+Province	Uttar Pradesh
+Districts	Lakhimpur Kheri
+Area	22700 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Evergreen, Freshwater Swamp, Tropical Grassland
+ 	 
+
+Kudaiyya Marshland:
+IBA Code	IN-UP-06
+Site Name	Kudaiyya Marshland
+Province	Uttar Pradesh
+Districts	Mainpuri
+Area	300 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Seasonal Marsh, Freshwater Swamp
+ 	 
+ 	 
+
+Kurra Jheel:
+IBA Code	IN-UP-07
+Site Name	Kurra Jheel
+Province	Uttar Pradesh
+Districts	Etawah, Mainpuri
+Area	200 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Lagga - Bagga:
+IBA Code	IN-UP-08
+Site Name	Lagga - Bagga
+Province	Uttar Pradesh
+Districts	Pilibhit
+Area	1160 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Grassland, Tropical Dry Evergreen 
+ 	 
+
+Lakhbahosi:
+IBA Code	IN-UP-09
+Site Name	Lakhbahosi
+Province	Uttar Pradesh
+Districts	Farrukkhabad
+Area	8024 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 	 
+
+Narora:
+IBA Code	IN-UP-10
+Site Name	Narora
+Province	Uttar Pradesh
+Districts	Bulandshahr  & Badaun
+Area	12700 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Riverine Vegetation, Freshwater Swamp
+ 	 
+ 	 
+
+National Chambal:
+IBA Code	IN-RJ-11
+Site Name	National Chambal
+Province	Rajasthan
+Districts	Kota, Bundi
+Area	5200 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp, Riverine Vegetation
+ 	 
+ 	 
+ 	 
+
+Nawabganj:
+IBA Code	IN-UP-12
+Site Name	Nawabganj
+Province	Uttar Pradesh
+Districts	Unnao
+Area	225 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Parvati Aranga:
+IBA Code	IN-UP-13
+Site Name	Parvati Aranga
+Province	Uttar Pradesh
+Districts	Gonda
+Area	1084 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+
+Patna:
+IBA Code	IN-UP-14
+Site Name	Patna
+Province	Uttar Pradesh
+Districts	Etah
+Area	109 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+
+Pyagpur and Sitadwar Complex:
+IBA Code	IN-UP-15
+Site Name	Pyagpur and Sitadwar Complex
+Province	Uttar Pradesh
+Districts	Bahraich
+Area	2950 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+
+Saman:
+IBA Code	IN-UP-16
+Site Name	Saman
+Province	Uttar Pradesh
+Districts	Mainpuri
+Area	525 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+
+Samaspur:
+IBA Code	IN-UP-17
+Site Name	Samaspur
+Province	Uttar Pradesh
+Districts	Raebareilli
+Area	799 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Sandi:
+IBA Code	IN-UP-18
+Site Name	Sandi
+Province	Uttar Pradesh
+Districts	Hardoi
+Area	309 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Sarsai Nawar Lake:
+IBA Code	IN-UP-19
+Site Name	Sarsai Nawar Lake
+Province	Uttar Pradesh
+Districts	Etawah
+Area	690 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Aquatic
+ 	 
+ 	 
+ 	 
+
+Sauj Lake:
+IBA Code	IN-UP-20
+Site Name	Sauj Lake
+Province	Uttar Pradesh
+Districts	Mainpuri
+Area	400 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Sheikha Jheel:
+IBA Code	IN-UP-21
+Site Name	Sheikha Jheel
+Province	Uttar Pradesh
+Districts	Aligarh
+Area	250 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+
+Sohagibarwa:
+IBA Code	IN-UP-22
+Site Name	Sohagibarwa
+Province	Uttar Pradesh
+Districts	Maharajganj
+Area	42820 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous , Freshwater Swamp
+ 	 
+
+Soheldev:
+IBA Code	IN-UP-23
+Site Name	Soheldev
+Province	Uttar Pradesh
+Districts	Balrampur, Saravasti
+Area	45247 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous 
+ 	 
+ 	 
+ 	 
+
+Sur Sarovar:
+IBA Code	IN-UP-24
+Site Name	Sur Sarovar
+Province	Uttar Pradesh
+Districts	Agra
+Area	403 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4iii)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+
+Surha Tal:
+IBA Code	IN-UP-25
+Site Name	Surha Tal
+Province	Uttar Pradesh
+Districts	Ballia
+Area	3432 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp
+
+  
+
+
+Uttarakhand 
+Asan Barage:
+IBA Code	IN-UT-01
+Site Name	Asan Barage
+Province	Uttarakhand
+Districts	Dehra Dun
+Area	250 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species (A1, A4i)
+Habitat Type	Freshwater Swamp
+ 	 
+ 	 
+ 	 
+
+  
+Askot and Surrounding s:
+IBA Code	IN-UT-02
+Site Name	Askot and Surrounding s
+Province	Uttarakhand
+Districts	Pithoragarh
+Area	209993 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Alpine Moist Scrub, Sub Alpine 
+ 	 
+ 	 
+
+Binog - Bhadraj - Jharipani:
+IBA Code	IN-UT-03
+Site Name	Binog - Bhadraj - Jharipani
+Province	Uttarakhand
+Districts	Dehradun
+Area	1082 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Moist Temperate , Sub Alpine 
+ 	 
+ 	 
+
+Binsar:
+IBA Code	IN-UT-04
+Site Name	Binsar
+Province	Uttarakhand
+Districts	Almora
+Area	4559 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Himalayan Moist Temperate , Sub Tropical Pine 
+ 	 
+
+  
+Corbett:
+IBA Code	IN-UT-05
+Site Name	Corbett
+Province	Uttarakhand
+Districts	Pauri Garhwal and Nainital
+Area	131854 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Sub Alpine , Tropical Dry Deciduous , Tropical Moist Deciduous 
+ 	 
+
+Govind and, Sandra, Kotinad:
+IBA Code	IN-HP-07
+Site Name	Govind Sagar and Naina
+Province	Himachal Pradesh
+Districts	Bilaspur, Mandi
+Area	15786 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Himalayan Secondary Scrub
+ 	 
+
+Kedarnath:
+IBA Code	IN-UT-07
+Site Name	Kedarnath
+Province	Uttarakhand
+Districts	Chamoli
+Area	98524 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Montane Wet Temperate , Sub Alpine 
+ 	 
+ 	 
+ 	 
+
+Nanda Devi:
+IBA Code	IN-UT-08
+Site Name	Nanda Devi
+Province	Uttarakhand
+Districts	Chamoli and Bageshwar
+Area	62462 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Sub Tropical Pine , Sub Alpine Dry Scrub
+ 	 
+ 	 
+ 	 
+
+New  Campus:
+IBA Code	IN-UT-09
+Site Name	New  Campus
+Province	Uttarakhand
+Districts	Dehradun
+Area	450 sq. km.
+Status	Non Officially Protected
+Criteria	Biome-restricted assemblage (A3)
+Habitat Type	Tropical Moist Deciduous, Tropical Secondary Scrub
+ 	 
+ 	 
+
+Rajaji:
+IBA Code	IN-UT-10
+Site Name	Rajaji
+Province	Uttarakhand
+Districts	Dehradun,Haridwar and Garwal
+Area	82000 sq. km.
+Status	National Park
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous , Sub Tropical Pine  and Tropical Moist Deciduous 
+ 	 
+ 	 
+
+Sonanadi:
+IBA Code	IN-UT-11
+Site Name	Sonanadi
+Province	Uttarakhand
+Districts	Garhwal , Bijnor
+Area	30118 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Dry Deciduous , Sub Tropical Pine , Tropical Moist Deciduous 
+ 	 
+
+Upper Pindar Catchment In East Almora:
+IBA Code	IN-UT-12
+Site Name	Upper Pindar Catchment In East Almora
+Province	Uttarakhand
+Districts	Almora
+Area	20000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Himalayan Wet Temperate , Sub Tropical Pine , Alpine Moist Pasture
+
+Valley of Flowers:
+IBA Code	IN-UT-13
+Site Name	Valley of Flowers
+Province	Uttarakhand
+Districts	Chamoli
+Area	8750 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Data deficient (A1, DD)
+Habitat Type	Sub Alpine , Alpine Moist Scrub, Alpine Moist Pasture
+ 	 
+ 	 
+
+Gangotri:
+IBA Code	IN-UT-14
+Site Name	Gangotri
+Province	Uttarakhand
+Districts	Uttarkashi
+Area	155200 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Himalayan Moist Temperate , Sub Alpine 
+ 	 
+ 
+
+
+
+West Bengal 
+Buxa:
+IBA Code	IN-WB-01
+Site Name	Buxa
+Province	West Bengal
+Districts	Jalpaiguri
+Area	76087 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Riverine Vegetation, Tropical Dry Deciduous, , Tropical Dry Evergreen , Tropical Grassland
+ 	 
+ 	 
+ 	 
+
+  
+Farakka Barrage and Adjoining Areas:
+IBA Code	IN-WB-02
+Site Name	Farakka Barrage and Adjoining
+Province	West Bengal
+Districts	Malda
+Area	2000 sq. km.
+Status	Non Officially Protected
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Riverine Vegetation
+ 	 
+ 	 
+
+Gorumara:
+IBA Code	IN-WB-03
+Site Name	Gorumara
+Province	West Bengal
+Districts	Jalpaiguri
+Area	7995 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous , Tropical Dry Deciduous , Tropical Semi Evergreen 
+ 	 
+ 	 
+
+  
+Jaldapara:
+IBA Code	IN-WB-04
+Site Name	Jaldapara
+Province	West Bengal
+Districts	Jalpaiguri
+Area	21651 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Tropical Moist Deciduous , Tropical Dry Deciduous , Tropical Dry Evergreen 
+
+Kulik:
+BA Code	IN-WB-05
+Site Name	Kulik
+Province	West Bengal
+Districts	Uttar Dinajpur
+Area	130 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Congregations: Site known or thought to hold, on a regular basis, > 1% of a bio-geographic population of a congregatory waterbird species, Congregations: Site known or thought to hold, on a regular basis, > 20,000 water birds or > 10,000 pairs of seabirds of one or more species (A1, A4i, A4iii)
+Habitat Type	Freshwater Swamp, Riverine Vegetation, Tropical Dry Deciduous 
+ 	 
+ 	 
+
+Lava - Neora Valley:
+IBA Code	IN-WB-06
+Site Name	Lava - Neora Valley
+Province	West Bengal
+Districts	Darjeeling
+Area	8800 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Sub Tropical Broad Leaved Hill, Montane Wet Temperate , Sub Tropical Pine 
+ 	 
+ 	 
+ 	 
+
+Mahananda:
+IBA Code	IN-WB-07
+Site Name	Mahananda
+Province	West Bengal
+Districts	Darjeeling
+Area	12772 sq. km.
+Status	Wildlife Sanctuary
+Criteria	Globally threatened species, Restricted range species, Biome-restricted assemblage (A1, A2, A3)
+Habitat Type	Tropical Semi Evergreen , Tropical Dry Deciduous , Montane Wet Temperate 
+ 	 
+
+Naya Bandh Wetland Complex:
+IBA Code	IN-WB-08
+Site Name	Naya Bandh Wetland Complex
+Province	West Bengal
+Districts	Malda
+Area	Not Defined
+Status	Non Officially Protected
+Criteria	Globally threatened species (A1)
+Habitat Type	Freshwater Swamp, Tropical Secondary Scrub
+ 	 
+
+Singhalila:
+IBA Code	IN-WB-09
+Site Name	Singhalila
+Province	West Bengal
+Districts	Darjeeling
+Area	7860 sq. km.
+Status	National Park
+Criteria	Globally threatened species, Restricted range species (A1, A2)
+Habitat Type	Montane Wet Temperate , Sub Tropical Broad Leaved Hill, Sub Alpine Dry Scrub, Sub Alpine 
+ 	 
+ 	 
+
+Sundarban:
+IBA Code	IN-WB-10
+Site Name	Sundarban
+Province	West Bengal
+Districts	North & South 24-Paragnas
+Area	133010 sq. km.
+Status	Tiger Reserve
+Criteria	Globally threatened species (A1)
+Habitat Type	Tropical Moist Deciduous , Littoral 
+ 	 
+
+  
+
+
