@@ -6,12 +6,51 @@ from django.utils import timezone
 from .forms import ContractForm, DownloadForm, Observation_form
 from .models import Observation
 from account.models import user
+from assettable.models import spc
+import json
+from django.core import serializers
 
 
 # Create your views here.
 
+def filter(request):
+    image_id = request.GET.get('id')
+    if image_id=="12":
+        try:
+            obj = spc.objects.filter(year=2016)
+            j = serializers.serialize("json", spc.objects.filter(year=2016))
+            print(j)
+            return JsonResponse({'status':'ok', 'j':j})
+        except:
+            obj = spc.objects.all()
+            j = json.dumps(obj)
+
+    if image_id=="13":
+        try:
+            obj = spc.objects.filter(year=2016)
+            j = serializers.serialize("json", spc.objects.filter(year=2017))
+            print(j)
+            return JsonResponse({'status':'ok', 'j':j})
+        except:
+            obj = spc.objects.all()
+            j = json.dumps(obj)
+
+    if image_id=="14":
+        try:
+            obj = spc.objects.filter(year=2016)
+            j = serializers.serialize("json", spc.objects.filter(year=2015))
+            print(j)
+            return JsonResponse({'status':'ok', 'j':j})
+        except:
+            obj = spc.objects.all()
+            j = json.dumps(obj)
+    return JsonResponse({'status':'ko'})
+
 def home(request):
-    return render(request, 'home.html')
+    obj = spc.objects.filter(year=2016)
+    j = serializers.serialize("json", spc.objects.all())
+    print(j)
+    return render(request, 'home.html', {"j":j})
 
 @login_required
 def download(request):
@@ -82,6 +121,7 @@ def download_data(request):
                 # assert species and state
                 contracts = get_csv_data(species, state)
                 # assert contracts
+
     except:
         error = 'Your request has some problems.'
         contracts = error
@@ -139,7 +179,7 @@ def upload_edit(request):
 
 
 def view_more(request):
-    image_id = request.GET.get('id')
+    image_id = request.POST.get('id')
     # action = request.POST.get('action')
     if image_id=="12":
         try:

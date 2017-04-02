@@ -1,60 +1,358 @@
 {% extends 'base.html' %}
-{% load i18n %}
+{% block extrahead %}
+	<link rel="stylesheet" href="css/input_main.css">
 
-{% block branding %}
-    <h1>Migratory Birds of India</h1>
+	<!--ADDED SCRIPT-->
+	<script type="text/javascript">
+	  function f11() {
+	  	document.getElementById("item1").style.visibility = "visible";
+	  	document.getElementById("item2").style.visibility = "hidden";
+	  	document.getElementById("item3").style.visibility = "hidden";
+	  }
+
+	  function f12() {
+	  	document.getElementById("item1").style.visibility = "hidden";
+	  	document.getElementById("item2").style.visibility = "visible";
+	  	document.getElementById("item3").style.visibility = "hidden";
+	  }
+
+	  function f13() {
+	  	document.getElementById("item1").style.visibility = "hidden";
+	  	document.getElementById("item2").style.visibility = "hidden";
+	  	document.getElementById("item3").style.visibility = "visible";
+
+	  }
+	</script>
+	<script type="text/javascript">
+
+		window.onload = function() {            
+		    function foo() {
+		        document.getElementById("body").style.padding = "0";
+				document.getElementById("body").style.top = "0";
+		    }
+		    setInterval(foo, 50);
+		}
+	</script>
+	<!--ADDED SCRIPT ENDS-->
+
+	<style type="text/css">
+		.field_header {
+			font-size: 1.5em;
+			font-style: italics;
+			font-weight: bolder;
+			color: black;
+			padding: 10px;
+		}
+
+		.field_data {
+			padding: 10px;
+			font-size: 1.12em;
+		}
+
+		#item2, #item3 {
+			visibility: hidden;
+		}
+
+		.submit {
+			padding: 5px 10px;
+			font-size: 22px;
+			margin-bottom: 40px;
+			margin-top: 20px;
+		}
+		
+	</style>
+
+	<script>
+		var x = document.getElementById("demo");
+		var lt = document.getElementById("latitude1");
+		var ll = document.getElementById("longitude1");
+
+		function getLocation() {
+		    if (navigator.geolocation) {
+		        navigator.geolocation.getCurrentPosition(showPosition);
+
+
+		    } else { 
+		        x.innerHTML = "Geolocation is not supported by this browser.";
+		    }
+		}
+
+		function showPosition(position) {
+			document.getElementById("latitude2").value = position.coords.latitude;
+			document.getElementById("longitude2").value = position.coords.longitude;
+		    x.innerHTML = "Latitude: " + position.coords.latitude + 
+		    "<br>Longitude: " + position.coords.longitude;
+		}
+	</script>
 {% endblock %}
-
 
 {% block content %}
-    {% if request.user.is_staff %}
-    <h3>Data upload</h3>
-    <hr>
-    <br>
-    <form action="" method="post">
-        {% csrf_token %}
-        <li><label for="id_iba_code">Iba code:</label> <select id="id_iba_code" name="iba_code" required="">
-<option value="" selected="selected">---------</option>
-<option value="1">IN003</option>
-</select></li>
-<li><label for="id_start">Start:</label> <input id="id_start" name="start" type="text" required=""></li>
-<li><label for="id_duration">Duration:</label> <input id="id_duration" name="duration" type="number" required=""></li>
-<li><label for="id_protocol_type">Protocol type:</label> <input id="id_protocol_type" maxlength="50" name="protocol_type" type="text" required=""></li>
-<li><label for="id_trip_comments">Trip comments:</label> <input id="id_trip_comments" maxlength="200" name="trip_comments" type="text" required=""></li>
-        <br>
-        <input class='butt' type="submit" value="Submit"/>
-    </form>
-    {% else %}
-    <h3>You have not have access to upload data.</h3>
-    {% endif %}
-{% endblock %}
+	<!--MAIN CONTAIINER STARTS-->
+    <div id="white" style="background: white; background-color:white;">
+	<div class="main_container col-lg-12 col-md-12 col-sm-12 col-xs-12" id="header">
+		
+		<div class="upload_data col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background: linear-gradient(to right, rgba(26,172,216,1), rgba(26,172,216,1),rgba(26,172,216,1),rgba(0,0,0,0), rgba(0,0,0,0), rgba(0,0,0,0), rgba(0,0,0,0)); padding: 10px;">
+			<span style="font-size: 28px; color: white; font-style: italic; padding: 10px 15px; font-weight: bolder;">UPLOAD OBSERVATION DATA</span>
+		</div>
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="field_header col-lg-2 col-md-2 col-sm-2 col-xs2">
+				Location of Observation<span style="color: red">*</span>:
+			</div>
+			<div class="hackathon" style="padding: 15px; ">
+				<div class="field_data col-lg-10 col-md-10 col-sm-10 col-xs-10" style="border-radius: 5px; box-shadow:0px 0px 15px 1px rgba(0,0,0,0.5); padding: 10px; background-color: rgba(0,0,0, 0.1);">
+					<div class="field_data col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+							<input type="radio" name="loc_name" value="11" checked onclick="f11()">
+							<span class="sub_head" style="font-size: 1.2em; color: black;">Enter Address: </span>
+
+							<div id="item1">
+								<div id="locationField">
+							      <input id="autocomplete" placeholder="Enter the location"
+							             onFocus="geolocate()" type="text">
+							    </div>
+							    <br>
+							     Address:&nbsp;
+							     <br>
+							     <input class="field" id="street_number" ><br>
+							     <input class="field" id="route"><br>
+							     City:&nbsp;
+							     <br>
+							     <input class="field" id="locality" ><br>
+							     State:&nbsp;
+							     <br>
+							     <input class="field" id="administrative_area_level_1" ><br>
+							     Zip code:&nbsp;
+							     <br>
+							     <input class="field" id="postal_code" ><br>
+							     Country:&nbsp;
+							     <br>
+							     <input class="field" id="country" ><br>
+							</div>
+						</div>
+
+						<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1" style="top:40%; text-align: center; font-weight: bold;">
+						OR
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+							<input type="radio" name="loc_name" value="11" onclick="f12()" >
+							<span class="sub_head" style="font-size: 1.2em; color: black;">Enter Location: </span>
+
+							<div id="item2">
+								
+							    <br>
+							     Latitude:&nbsp;
+							     <br>
+							     <input class="field" id="latitude"><br>
+							     Longitude:&nbsp;
+							     <br>
+							     <input class="field" id="longitude"><br>
+							</div>
+						</div>
+						<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1" style="top:40%; text-align: center; font-weight: bold;">
+						OR
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+							<input type="radio" name="loc_name" onclick="f13()" value="11"  >
+							<span class="sub_head" style="font-size: 1.2em; color: black;">Get Location Automatically: </span>
+
+							<div id="item3">
+								
+							    <button onclick="getLocation()">Get Location</button>
+								<p id="demo"></p>
+							    <br>
+							     Latitude:&nbsp;
+							     <br>
+							     <input class="field" id="latitude2"><br>
+							     Longitude:&nbsp;
+							     <br>
+							     <input class="field" id="longitude2"><br>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="field_header col-lg-2 col-md-2 col-sm-2 col-xs2">
+				<br>Observation Date<span style="color: red">*</span>:
+			</div>
+			<div class="hackathon" style="padding: 15px; ">
+				<div class="field_data col-lg-10 col-md-10 col-sm-10 col-xs-10" style="border-radius: 5px; box-shadow:0px 0px 15px 1px rgba(0,0,0,0.5); padding: 10px; background-color: rgba(0,0,0, 0.1);">
+					<div class="field_data col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<input id="obs_date" type="date" name="obs_date">
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="field_header col-lg-2 col-md-2 col-sm-2 col-xs2">
+				<br>Start Time (24-hour)<span style="color: red">*</span>:
+			</div>
+			<div class="hackathon" style="padding: 15px; ">
+				<div class="field_data col-lg-10 col-md-10 col-sm-10 col-xs-10" style="border-radius: 5px; box-shadow:0px 0px 15px 1px rgba(0,0,0,0.5); padding: 10px; background-color: rgba(0,0,0, 0.1);">
+					<div class="field_data col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<input id='obs_hour' type="text" name="obs_hour" style="width:50px;">:
+						<input id="obs_min" type="text" name="obs_min" style="width:50px;">
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="field_header col-lg-2 col-md-2 col-sm-2 col-xs2">
+				<br>Duration<span style="color: red">*</span>:
+			</div>
+			<div class="hackathon" style="padding: 15px; ">
+				<div class="field_data col-lg-10 col-md-10 col-sm-10 col-xs-10" style="border-radius: 5px; box-shadow:0px 0px 15px 1px rgba(0,0,0,0.5); padding: 10px; background-color: rgba(0,0,0, 0.1);">
+					<div class="field_data col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<input id="dur_hour" type="text" name="dur_hour" style="width:50px;">Hrs.
+						<input id="dur_min" type="text" name="dur_min" style="width:50px;">Mins.
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="field_header col-lg-2 col-md-2 col-sm-2 col-xs2">
+				<br>Distance:
+			</div>
+			<div class="hackathon" style="padding: 15px; ">
+				<div class="field_data col-lg-10 col-md-10 col-sm-10 col-xs-10" style="border-radius: 5px; box-shadow:0px 0px 15px 1px rgba(0,0,0,0.5); padding: 10px; background-color: rgba(0,0,0, 0.1);">
+					<div class="field_data col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<input type="text" name="dist"> 
+						<select id="dist_type" name="dist_type" class="sel-day">
+						<option value="m" style="width:100px;">miles</option>
+						<option value="k">kilometers</option>
+						</select>
+					</div>
+				</div>
+			</div>
+		</div>
 
 
-{% block extrahead %}
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-  <link rel="stylesheet" href="/resources/demos/style.css">
-    <script>
-  $( function() {
-    $( "#id_start_date" ).datepicker();
-    $( "#id_end_date" ).datepicker();
-  } );
-  </script>
-    <script type="text/javascript">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+{#			<div class="field_header col-lg-2 col-md-2 col-sm-2 col-xs2">#}
+{#				<br>Party Size:#}
+{#			</div>#}
+			<div class="hackathon" style="padding: 15px; ">
+				<div class="field_data col-lg-10 col-md-10 col-sm-10 col-xs-10" style="border-radius: 5px; box-shadow:0px 0px 15px 1px rgba(0,0,0,0.5); padding: 10px; background-color: rgba(0,0,0, 0.1);">
+{#					<div class="field_data col-lg-12 col-md-12 col-sm-12 col-xs-12">#}
+{#						<input type="text" name="p_size"> #}
+{#						Enter the total number of people in your birding party.#}
+{#					</div>#}
+				</div>
+				<!-- <div class="hackathon" style="padding: 15px; ">
+				</div> -->
+			</div>
+		</div>
 
-        function yesnoCheck() {
-            if (document.getElementById('yesCheck').checked) {
-                document.getElementById('ifYes').style.display = 'block';
-            }
-            else document.getElementById('ifYes').style.display = 'none';
-            if (document.getElementById('noCheck').checked) {
-                document.getElementById('ifNo').style.display = 'block';
-            }
-            else document.getElementById('ifNo').style.display = 'none';
 
+	</div>
+	<br>
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="align-content: center; text-align: center;">
+        <a href="#" id="submit_btn" data-id="12">Submit</a>
+		<p id="reg" style="text-align: center; padding: 2px; font-size: 24px; color: green;"></p>
+
+		
+	</div>
+    </div>
+	<!--MAIN CONTAINER ENDS-->
+	{% endblock %}
+
+{% block extrascripts %}
+	<script>
+      var placeSearch, autocomplete;
+      var componentForm = {
+        street_number: 'short_name',
+        route: 'long_name',
+        locality: 'long_name',
+        administrative_area_level_1: 'short_name',
+        country: 'long_name',
+        postal_code: 'short_name'
+      };
+
+      function initAutocomplete() {
+        autocomplete = new google.maps.places.Autocomplete(
+            (document.getElementById('autocomplete')),
+            {types: ['geocode']});
+
+        autocomplete.addListener('place_changed', fillInAddress);
+      }
+
+      function fillInAddress() {
+        var place = autocomplete.getPlace();
+
+        for (var component in componentForm) {
+          document.getElementById(component).value = '';
+          document.getElementById(component).disabled = false;
         }
 
+        for (var i = 0; i < place.address_components.length; i++) {
+          var addressType = place.address_components[i].types[0];
+          if (componentForm[addressType]) {
+            var val = place.address_components[i][componentForm[addressType]];
+            document.getElementById(addressType).value = val;
+          }
+        }
+      }
+
+      function geolocate() {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(function(position) {
+            var geolocation = {
+              lat: position.coords.latitude,
+              lng: position.coords.longitude
+            };
+            var circle = new google.maps.Circle({
+              center: geolocation,
+              radius: position.coords.accuracy
+            });
+            autocomplete.setBounds(circle.getBounds());
+          });
+        }
+      }
     </script>
 
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src=" http://cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js "></script>
+<script>
+  var csrftoken = $.cookie('csrftoken');
+  function csrfSafeMethod(method) {
+    // these HTTP methods do not require CSRF protection
+    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+  }
+  $.ajaxSetup({
+    beforeSend: function(xhr, settings) {
+      if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+        xhr.setRequestHeader("X-CSRFToken", csrftoken);
+      }
+    }
+  });
+  $(document).ready(function(){
+  $('#submit_btn').click(function(e){
+    e.preventDefault();
+    $.post('/data/view_more/',
+      {
+        id: $(this).data('id'),
+{#        action: $(this).data('action')#}
+      },
+      function(data){
+        if (data['status'] == 'ok')
+        {
+          $("#reg").html("You have successfully uploaded the form");
+        }
+        else{
+            $("#reg").html("There's an error");
+    }
+      }
+    );
+  });
+   });
+</script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCbLDaUFsoSUH9Dx4R9eDVovC9Ldsky_UQ&libraries=places&callback=initAutocomplete"
+        async defer></script>
 {% endblock %}
+	

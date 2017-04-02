@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="map.css">
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+      #floating-panel {
+        position: absolute;
+        top: 2%;
+        left: 5%;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+        border-radius: 15px;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        padding-left: 10px;
+      }
+
+      #floating-header {
+        position: absolute;
+        top: 70%;
+        left: 65%;
+        background-color: #fff;
+        border: 0.25px solid #999;
+        border-radius: 15px;
+        z-index: 5;
+        padding: 5px;
+        text-align: center;
+        font-family: 'Roboto','sans-serif';
+        line-height: 30px;
+        }
+    </style>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyCbLDaUFsoSUH9Dx4R9eDVovC9Ldsky_UQ&sensor=false&v=3&libraries=geometry"></script>
+    <script>
+
+var map;
+var temp = [];
+var citymap;
+var circles = [];
+var showOpacity = 0.3;
+var hideOpacity = 0.0;
+var k = 0;
+var l = 0;
+var cityCircle;
+
+//Temperature Json file for data
+$.getJSON( "/media/temp.json", function( data ) {
+ 	var tp = data[0];
+	temp = tp["1"];
+});
+
+//birdsPoint Json file for data
+$.getJSON( "/media/sider.json", function( ata ) {
+ 	citymap = ata;
+	console.log(citymap);
+});
+
+//Google Map intializer
+function initialize() {
+    map = new google.maps.Map(document.getElementById('map-canvas'), {
+    center: new google.maps.LatLng(22.5937,78.9629),
+    zoom: 5,
+    streetViewControl: true,
+    scaleControl: true,
+	styles: [{"elementType":"geometry","stylers":[{"color":"#f5f5f5"}]},{"elementType":"labels","stylers":[{"visibility":"off"}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"elementType":"labels.text.stroke","stylers":[{"color":"#f5f5f5"}]},{"featureType":"administrative.country","elementType":"geometry.stroke","stylers":[{"color":"#000b0d"},{"weight":1}]},{"featureType":"administrative.land_parcel","elementType":"labels.text.fill","stylers":[{"color":"#bdbdbd"}]},{"featureType":"administrative.neighborhood","stylers":[{"visibility":"off"}]},{"featureType":"administrative.province","elementType":"geometry.stroke","stylers":[{"color":"#a6be9e"},{"weight":1}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#eeeeee"}]},{"featureType":"poi","elementType":"labels.text","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"poi.business","stylers":[{"visibility":"off"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#e5e5e5"}]},{"featureType":"poi.park","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"road","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"geometry","stylers":[{"color":"#ffffff"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels.text.fill","stylers":[{"color":"#757575"}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"color":"#dadada"}]},{"featureType":"road.highway","elementType":"labels.text.fill","stylers":[{"color":"#616161"}]},{"featureType":"road.local","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]},{"featureType":"transit","stylers":[{"visibility":"off"}]},{"featureType":"transit.line","elementType":"geometry","stylers":[{"color":"#e5e5e5"}]},{"featureType":"transit.station","elementType":"geometry","stylers":[{"color":"#eeeeee"}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#c9c9c9"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#9e9e9e"}]}]
+
+    });
+
+
+//Color detactor for each box
+function rectcolor(x){
+		value = Math.floor(x);
+		value = (value - 269)*10;
+		return value;
+    }
+
+//Loop to color each box
+for(i=0;i!=37.5;i+=2.5){
+    var colr = 'rgb('+rectcolor(temp[l]).toString()+',0,'+(255-rectcolor(temp[l])).toString()+')';
+    var rectangle = new google.maps.Rectangle({
+      strokeColor: colr,
+      strokeOpacity: 0.2,
+      strokeWeight: 1,
+      fillColor: colr,
+      fillOpacity: 0.5,
+      map: map,
+      bounds: {
+        north: 40-k,
+        south: 37.5-k,
+        east: 67.5+i,
+        west: 65+i
+        }
+    });
+    l+=1;
+    if(i==35&k!=35){
+	    i=-2.5;
+	    k+=2.5;
+        }
+    }
+
+//Loop for ploting circle(bird)
+for (var city in citymap) {
+    cityCircle = new google.maps.Circle({
+    strokeColor: '#8612C9',
+    strokeOpacity: 0.0,
+    strokeWeight: 2,
+    fillColor: '#8612C9',
+    fillOpacity: 0.8,
+    map: map,
+    center: {lat:citymap[city].latitude, lng:citymap[city].longitude},
+    radius: 20000,
+    day_no: citymap[city].day_no,
+    month_name: citymap[city].month_name,
+    year: citymap[city].year,
+    show: true
+  });
+
+    circles.push(cityCircle);
+
+}
+
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+//Function to show birds data by month
+function showByMonth(month_name) {
+    circles.forEach(function(c){
+	if(c.month_name==month_name)
+	    c.setOptions({fillOpacity:showOpacity});
+        });
+    }
+
+//Function to hide birds data by month
+function hideByMonth(month_name) {
+    circles.forEach(function(c){
+	if(c.month_name!=month_name)
+	    c.setOptions({fillOpacity:hideOpacity});
+        });
+    }
+
+//Function to filter birds data by month
+function filterByMonth(month_name) {
+    document.getElementById("id1").src = "/static/img/"+month_name+".png";
+    /*circles.forEach(function(c){
+	if(c.month_name==month_name)
+	    c.setOptions({fillOpacity:showOpacity});
+	else
+	    c.setOptions({fillOpacity:hideOpacity});
+        });*/
+    }
+
+//Function to show all birds data
+function showAll() {
+     circles.forEach(function(c){
+	 c.setOptions({fillOpacity:showOpacity});
+        });
+    }
+</script>
+  </head>
+  <body>
+	<div id="floating-panel">
+      <button onclick="filterByMonth('jan')">Jan</button>
+      <button onclick="filterByMonth('feb')">Feb</button>
+      <button onclick="filterByMonth('mar')">March</button>
+      <button onclick="filterByMonth('all')">All</button>
+    </div>
+    <div id="floating-header"><h3>Bird distribution plotted over<br> Surface Area Temperature at 925hpa</h3></div>
+    <div id="map-canvas1"><img id="id1" src=""/> </div>
+
+  </body>
+</html>

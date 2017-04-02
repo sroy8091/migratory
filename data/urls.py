@@ -9,4 +9,5 @@ urlpatterns = [
     url(r'^list_observer/$', views.list_of_contrib),
     url(r'^upload_edit/$', views.upload_edit, name='upload_data'),
     url(r'^view_more/$', views.view_more, name='like'),
+    url(r'^filter/$', views.filter, name='filter')
 ]

@@ -24,6 +24,9 @@ urlpatterns = [
     url(r'^account/', include('account.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'^visualize/$', TemplateView.as_view(template_name='main_visual/filter.html'), name='arcgis'),
+    url(r'^speciespop/$', TemplateView.as_view(template_name='main_visual/species_pop.html'), name='specpop'),
+    url(r'^birdvstemp/$', TemplateView.as_view(template_name='main_visual/birdvstemp.html')),
+    url(r'^map/$', TemplateView.as_view(template_name='main.html')),
 ]
 
 urlpatterns += static.static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

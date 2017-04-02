@@ -75,3 +75,7 @@ class Observation(models.Model):
 class contribution(models.Model):
     user_id = models.ForeignKey(settings.AUTH_USER_MODEL)
     contribution_id = models.ForeignKey(Observation)
+
+
+class visual_data(models.Model):
+    pass

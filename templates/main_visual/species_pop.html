@@ -1,10 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
 
-</body>
-</html>
+<div id="container"></div>
+
+<script>
+    Highcharts.chart('container', {
+
+    title: {
+        text: 'Migration Pattern'
+    },
+
+    subtitle: {
+        text: ''
+    },
+
+    yAxis: {
+        title: {
+            text: 'Bird Count'
+        }
+    },
+        xAxis: {
+        title: {
+            text: 'Month'
+        },
+            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul',
+            'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    },
+    legend: {
+        layout: 'vertical',
+        align: 'right',
+        verticalAlign: 'middle'
+
+    },
+
+    series: [{
+        name: 'Bluethroat',
+        data: [43931, 52503, 5717, 6958, 9731, 11991, 13713, 15417 ]
+    }, {
+        name: 'Common Kingfisher',
+        data: [24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434]
+    }, {
+        name: 'Eurasian Sparrowhawk',
+        data: [11744, 17722, 16005, 19771, 20185, 24377, 32147, 39387]
+    }, {
+        name: 'Greater Flamingo',
+        data: [null, null, 7988, 12169, 15112, 22452, 34400, 34227]
+    }, {
+        name: 'Indian Peafowl',
+        data: [12908, 5948, 8105, 11248, 8989, 11816, 18274, 18111]
+    }]
+
+});
+</script>

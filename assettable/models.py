@@ -103,3 +103,16 @@ class criteria_iba(models.Model):
 class habitat_iba(models.Model):
     iba = models.ForeignKey(iba)
     habitat = models.ForeignKey(habitat)
+
+class spc(models.Model):
+    spc_id = models.AutoField(primary_key=True)
+    com_name = models.CharField(max_length=50)
+    sci_name = models.CharField(max_length=50)
+    obs_count = models.IntegerField()
+    lat = models.FloatField()
+    lng = models.FloatField()
+    year = models.IntegerField()
+    month = models.IntegerField()
+    day = models.IntegerField()
+    obs_date = models.DateField()
+

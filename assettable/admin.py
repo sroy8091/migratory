@@ -25,3 +25,5 @@ admin.site.register(district_iba)
 admin.site.register(criteria_iba)
 
 admin.site.register(habitat_iba)
+
+admin.site.register(spc)
