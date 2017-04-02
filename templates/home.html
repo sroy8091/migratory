@@ -1,106 +1,75 @@
 {% extends 'base.html' %}
 {% load staticfiles %}
-{% block extrahead %}
-    <link rel="stylesheet" href="{% static 'css/home.css' %}">
-{% endblock %}
-{% block domready %}
-$('#view').click(function(e){
-    e.preventDefault();
-    $.get('/data/view_more',
-      {
-        id: $(this).data('id'),
-{#action: $(this).data('action')#}
-      },
-      function(data){
-        if (data['status'] == 'ok')
-        {
-
-            $("#mydiv").append("<div class='col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6'><div class='profile col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6'><img src='{% static 'img/s_id2 Cropped.jpg' %}' class='bird_pic' style='width: 100%; height: 100%; padding:0px 10px;'></div><div class='bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6'><div class='bird_name'>Northern Goshawk</div><div class='sci_name'>Accipiter gentilis</div><div class='bird_desc'>The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div><div class='frequency'>View %: <progress value='45' max='100' title='percentage'></progress></div><div class='view_profile'><a href='' target='_blank'><button name='view' class='view_button'>View Profile</button></a></div></div></div></div> <div class='bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6'><div class='profile col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6'><img src='{% static 'img/s_id2 Cropped.jpg' %}' class='bird_pic' style='width: 100%; height: 100%; padding:0px 10px;'></div><div class='bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6'><div class='bird_name'>Northern Goshawk</div><div class='sci_name'>Accipiter gentilis</div><div class='bird_desc'>The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div><div class='frequency'>View %: <progress value='45' max='100' title='percentage'></progress></div><div class='view_profile'><a href='' target='_blank'><button name='view' class='view_button'>View Profile</button></a></div></div></div></div> <div class='bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6'><div class='profile col-lg-12 col-md-12 col-sm-12 col-xs-12'><div class='bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6'><img src='{% static 'img/s_id2 Cropped.jpg' %}' class='bird_pic' style='width: 100%; height: 100%; padding:0px 10px;'></div><div class='bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6'><div class='bird_name'>Northern Goshawk</div><div class='sci_name'>Accipiter gentilis</div><div class='bird_desc'>The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div><div class='frequency'>View %: <progress value='45' max='100' title='percentage'></progress></div><div class='view_profile'><a href='' target='_blank'><button name='view' class='view_button'>View Profile</button></a></div></div></div></div></div>");
-        }
-        else{
-            $("#mydiv").html("Bello World");
-        }
-      }
-    );
-  });
-{% endblock %}
 {% block content %}
-<div class="main_container col-lg-12 col-md-12 col-sm-12 col-xs-12" id="header">
-		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="map_view">
-			<iframe width="100%" height="400px" src="/visualize" style="border:0; padding: 0px; margin: 0px;">
-			</iframe>
-{#            <center><h1>Visualisation</h1></center>#}
-		</div>
-		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	<div class="container">
+	    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	        <div class="left_nav col-lg-2 col-md-2 col-sm-2 col-xs-2">
+	        	<div class="filter_header col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 18px; color: white; text-align: center; padding: 5px; background-color: rgb(0,0,0,1);">
+	        		FILTER
+	        	</div>
+	        	<div class="filters col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    				<h4>Filter by Duration</h4><br>
+    				<input class="links" type="radio" name="date" value="11" checked><span class="links">Last Year</span><br>
+					<input type="radio" name="date" value="12"><span class="links">Last 6 Months</span><br>
+					<input type="radio" name="date" value="13"><span class="links">Last Month</span><br>
+	        		<br>
+	        		<input type="checkbox" name="prev" value="14"><span class="links">Compare to prev. period</span>
+	        		<br>
+	        		<br>
+	        		<span>Start Date: </span><br>
+					<input id="id_start_date" type="text" class="date" name="s_date"><br>
+					<span>End Date: </span><br>
+					<input id="id_end_date" type="text" class="date" name="e_date">
+					<br><br>
+					<input type="submit" name="filter1" class="submit">
+					<br><br>
+	        	</div>
 
-			<div class="banner heading col-lg-12 col-md-12 col-sm-12 col-xs-12" >
-				<div class="bird_profile_header">BIRD PROFILES</div>
-			</div>
-            <div id="mydiv">
-			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6">
-					<div class="profile col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						<div class="bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6">
-							<img src="{% static 'img/s_id2 Cropped.jpg' %}" class="bird_pic" style="width: 100%; height: 100%; padding:0px 10px;">
-						</div>
-						<div class="bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6">
-							<div class="bird_name">Northern Goshawk</div>
-							<div class="sci_name">Accipiter gentilis</div>
-							<div class="bird_desc">The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div>
-							<div class="frequency">
-								View %: <progress value="45" max="100" title="percentage"></progress>
-							</div>
-							<div class="view_profile">
-								<a href="" target="_blank">
-									<button name="view" class="view_button">View Profile</button>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-                <div class="bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6">
-					<div class="profile col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						<div class="bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6">
-							<img src="{% static 'img/s_id2 Cropped.jpg' %}" class="bird_pic" style="width: 100%; height: 100%; padding:0px 10px;">
-						</div>
-						<div class="bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6">
-							<div class="bird_name">Northern Goshawk</div>
-							<div class="sci_name">Accipiter gentilis</div>
-							<div class="bird_desc">The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div>
-							<div class="frequency">
-								View %: <progress value="45" max="100" title="percentage"></progress>
-							</div>
-							<div class="view_profile">
-								<a href="" target="_blank">
-									<button name="view" class="view_button">View Profile</button>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-                <div class="bird_profile col-lg-4 col-md-4 col-sm-6 col-xs-6">
-					<div class="profile col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						<div class="bird_pic col-lg-6 col-md-6 col-sm-6 col-xs-6">
-							<img src="{% static 'img/s_id2 Cropped.jpg' %}" class="bird_pic" style="width: 100%; height: 100%; padding:0px 10px;">
-						</div>
-						<div class="bird_data col-lg-6 col-md-6 col-sm-6 col-xs-6">
-							<div class="bird_name">Northern Goshawk</div>
-							<div class="sci_name">Accipiter gentilis</div>
-							<div class="bird_desc">The northern goshawk, Accipiter gentilis, is a medium-large raptor in the family Accipitridae, which also includes other extant diurnal raptors, such as eagles, buzzards and harriers</div>
-							<div class="frequency">
-								View %: <progress value="45" max="100" title="percentage"></progress>
-							</div>
-							<div class="view_profile">
-								<a href="" target="_blank">
-									<button name="view" class="view_button">View Profile</button>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-</div>
-            <center><a id="view" href="#" data-id="12"><button name="view" class="view_button">View More</button></a></center>
-		</div>
+	        	<div class="filters col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    				<h4>Filter by Surface Air Temperature @ 925hp</h4><br>
+    				<input type="radio" name="temp" value="21" checked><span class="links">All</span>
+					<input type="radio" name="temp" value="22"><span class="links">< 0&deg; C</span>
+					<input type="radio" name="temp" value="23"><span class="links">> 0&deg; C</span><br>
+					<br>
+	        		<span>Low & High Temp (in &deg; C): </span><br>
+					<input type="text" class="date" name="s_date" style="width: 50px;"> to 
+					<input type="text" class="date" name="e_date" style="width: 50px;">
+					<br><br>
+					<input type="submit" name="filter2" class="submit">
+	        	</div>
+
+	        </div>
+	        <div class="main_div col-lg-8 col-md-8 col-sm-8 col-xs-8">
+	        	
+	        	MAIN CONTAINER
+
+	        </div>
+	        <div class="right_nav col-lg-2 col-md-2 col-sm-2 col-xs-2">
+	        	<div class="filter_header col-lg-12 col-md-12 col-sm-12 col-xs-12" style="font-size: 18px; color: white; text-align: center; padding: 5px; background-color: rgb(0,0,0,1);">
+	        		SPECIES
+	        	</div>
+	        	<div class="filters col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    				<h4>Select a Species</h4>
+                    <br>
+    				<a href="" style="color: white; font-size: 1.2em; padding: 15px 0px;"><img src="{% static 'img/s_id3 Cropped.jpg' %}" class="simg"><span class="sname" id="sname1">Species Name</span></a><br>
+    				<a href="" style="color: white; font-size: 1.2em; padding: 15px 0px;"><img src="sample.jpg" class="simg"><span class="sname" id="sname2">Species Name</span></a><br>
+    				<a href="" style="color: white; font-size: 1.2em; padding: 15px 0px;"><img src="sample.jpg" class="simg" ><span class="sname" id="sname3">Species Name</span></a><br>
+    				<a href="" style="color: white; font-size: 1.2em; padding: 15px 0px;"><img src="sample.jpg" class="simg" ><span class="sname" id="sname4">Species Name</span></a><br>
+
+	        	</div>
+	        </div>
+	    </div>
 	</div>
+{% endblock %}
+{% block extrascripts %}
+ <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+    <script>
+  $( function() {
+    $( "#id_start_date" ).datepicker();
+    $( "#id_end_date" ).datepicker();
+  } );
+  </script>
 {% endblock %}
