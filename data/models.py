@@ -16,7 +16,22 @@ class Iba(models.Model):
         return self.iba_code
 
 class Specie(models.Model):
-    pass
+    spi_id = models.AutoField(primary_key=True)
+    species = models.CharField(max_length=30)
+    sciname = models.CharField(max_length=30)
+    roi_species = models.CharField(max_length=1400)
+    eip = models.CharField(max_length=800)
+    edc = models.CharField(max_length=160)
+    freq = models.CharField(max_length=160)
+    dprob = models.CharField(max_length=600)
+    dear = models.CharField(max_length=1)
+    cspec = models.CharField(max_length=685)
+    habitat = models.CharField(max_length=210)
+    migchange = models.CharField(max_length=380)
+    vagrancy = models.CharField(max_length=420)
+    spopspec = models.CharField(max_length=430)
+    poptrend = models.CharField(max_length=680)
+
 
 class State(models.Model):
     state_id = models.AutoField(primary_key=True)
