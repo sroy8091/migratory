@@ -23,7 +23,7 @@ urlpatterns = [
     url(r'^data/', include('data.urls')),
     url(r'^account/', include('account.urls')),
     url(r'^admin/', admin.site.urls),
-    url(r'^visualize/$', TemplateView.as_view(template_name='main_visual/birds.html'), name='arcgis'),
+    url(r'^visualize/$', TemplateView.as_view(template_name='main_visual/filter.html'), name='arcgis'),
 ]
 
 urlpatterns += static.static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
